@@ -1,0 +1,151 @@
+command_id: 7E1.7E9.221004
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E9056210040000'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 0
+- response: 7E905621004000C
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 1.2
+- response: 7E905621004001E
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 3
+- response: 7E905621004002A
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 4.2
+- response: 7E905621004004E
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 7.8
+- response: 7E905621004008A
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 13.8
+- response: 7E90562100400CF
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 20.7
+- response: 7E90562100400E1
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 22.5
+- response: '7E9056210040121'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 28.9
+- response: 7E905621004014D
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 33.3
+- response: 7E90562100401B6
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 43.8
+- response: 7E90562100401E5
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 48.5
+- response: 7E90562100401FE
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 51
+- response: '7E9056210040203'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 51.5
+- response: 7E905621004020C
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 52.4
+- response: '7E9056210040218'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 53.6
+- response: '7E9056210040228'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 55.2
+- response: '7E9056210040260'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 60.8
+- response: '7E9056210040263'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 61.1
+- response: '7E9056210040272'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 62.6
+- response: '7E9056210040277'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 63.1
+- response: 7E905621004027F
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 63.9
+- response: 7E90562100402DE
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 73.4
+- response: 7E905621004030F
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 78.3
+- response: '7E9056210040359'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 85.7
+- response: '7E9056210040438'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 108
+- response: 7E905621004048A
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 116.2
+- response: 7E905621004049D
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 118.1
+- response: 7E90562100404B6
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 120.6
+- response: 7E90562100404BB
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 121.1
+- response: 7E90562100404E8
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 125.6
+- response: '7E9056210040501'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 128.1
+- response: '7E9056210040515'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 130.1
+- response: '7E9056210040522'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 131.4
+- response: 7E905621004052D
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 132.5
+- response: '7E9056210040531'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 132.9
+- response: '7E9056210040548'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 135.2
+- response: 7E905621004054C
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 135.6
+- response: 7E905621004056B
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 138.7
+- response: 7E905621004056F
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 139.1
+- response: '7E9056210040572'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 139.4
+- response: '7E9056210040582'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 141
+- response: 7E905621004059E
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 143.8
+- response: 7E90562100405AF
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 145.5
+- response: 7E90562100405C6
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 147.8
+- response: '7E9056210040616'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 155.8
+- response: '7E9056210040667'
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 163.9
+- response: 7E90562100406A1
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 169.7
+- response: 7E90562100406ED
+  expected_values:
+    AUDI_TIRE_RL_SPD_V3: 177.3

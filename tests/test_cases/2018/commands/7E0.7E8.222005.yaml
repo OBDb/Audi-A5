@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.222005
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E805622005047E
+  expected_values:
+    AUDI_BRAKE_BST_P: 1.15

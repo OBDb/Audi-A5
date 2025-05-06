@@ -1,0 +1,112 @@
+command_id: 7E0.7E8.22295A
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80662295A01AAEA
+  expected_values:
+    AUDI_ODO: 109290
+- response: 7E80662295A01AAEB
+  expected_values:
+    AUDI_ODO: 109291
+- response: 7E80662295A01AAEC
+  expected_values:
+    AUDI_ODO: 109292
+- response: 7E80662295A01AAEE
+  expected_values:
+    AUDI_ODO: 109294
+- response: 7E80662295A01AAEF
+  expected_values:
+    AUDI_ODO: 109295
+- response: 7E80662295A01AAF0
+  expected_values:
+    AUDI_ODO: 109296
+- response: 7E80662295A01AAF2
+  expected_values:
+    AUDI_ODO: 109298
+- response: 7E80662295A01AAF3
+  expected_values:
+    AUDI_ODO: 109299
+- response: 7E80662295A01AAF4
+  expected_values:
+    AUDI_ODO: 109300
+- response: 7E80662295A01AAF5
+  expected_values:
+    AUDI_ODO: 109301
+- response: 7E80662295A01AAF6
+  expected_values:
+    AUDI_ODO: 109302
+- response: 7E80662295A01AAF8
+  expected_values:
+    AUDI_ODO: 109304
+- response: 7E80662295A01AAF9
+  expected_values:
+    AUDI_ODO: 109305
+- response: 7E80662295A01AAFA
+  expected_values:
+    AUDI_ODO: 109306
+- response: 7E80662295A01AAFB
+  expected_values:
+    AUDI_ODO: 109307
+- response: 7E80662295A01AAFC
+  expected_values:
+    AUDI_ODO: 109308
+- response: 7E80662295A01AAFD
+  expected_values:
+    AUDI_ODO: 109309
+- response: 7E80662295A01AAFE
+  expected_values:
+    AUDI_ODO: 109310
+- response: 7E80662295A01AAFF
+  expected_values:
+    AUDI_ODO: 109311
+- response: 7E80662295A01AB00
+  expected_values:
+    AUDI_ODO: 109312
+- response: 7E80662295A01AB01
+  expected_values:
+    AUDI_ODO: 109313
+- response: 7E80662295A01AB02
+  expected_values:
+    AUDI_ODO: 109314
+- response: 7E80662295A01AB03
+  expected_values:
+    AUDI_ODO: 109315
+- response: 7E80662295A01AB05
+  expected_values:
+    AUDI_ODO: 109317
+- response: 7E80662295A01AB06
+  expected_values:
+    AUDI_ODO: 109318
+- response: 7E80662295A01AB07
+  expected_values:
+    AUDI_ODO: 109319
+- response: 7E80662295A01AB08
+  expected_values:
+    AUDI_ODO: 109320
+- response: 7E80662295A01AB09
+  expected_values:
+    AUDI_ODO: 109321
+- response: 7E80662295A01AB0A
+  expected_values:
+    AUDI_ODO: 109322
+- response: 7E80662295A01AB0B
+  expected_values:
+    AUDI_ODO: 109323
+- response: 7E80662295A01AB0C
+  expected_values:
+    AUDI_ODO: 109324
+- response: 7E80662295A01AB0D
+  expected_values:
+    AUDI_ODO: 109325
+- response: 7E80662295A01AB0E
+  expected_values:
+    AUDI_ODO: 109326
+- response: 7E80662295A01AB0F
+  expected_values:
+    AUDI_ODO: 109327
+- response: 7E80662295A01AB10
+  expected_values:
+    AUDI_ODO: 109328
+- response: 7E80662295A01AB11
+  expected_values:
+    AUDI_ODO: 109329
