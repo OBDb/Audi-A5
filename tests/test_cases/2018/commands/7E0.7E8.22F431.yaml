@@ -1,0 +1,115 @@
+command_id: 7E0.7E8.22F431
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80562F43164B1
+  expected_values:
+    AUDI_CLR_DIST: 25777
+- response: 7E80562F43164B2
+  expected_values:
+    AUDI_CLR_DIST: 25778
+- response: 7E80562F43164B3
+  expected_values:
+    AUDI_CLR_DIST: 25779
+- response: 7E80562F43164B4
+  expected_values:
+    AUDI_CLR_DIST: 25780
+- response: 7E80562F43164B5
+  expected_values:
+    AUDI_CLR_DIST: 25781
+- response: 7E80562F43164B6
+  expected_values:
+    AUDI_CLR_DIST: 25782
+- response: 7E80562F43164B7
+  expected_values:
+    AUDI_CLR_DIST: 25783
+- response: 7E80562F43164B9
+  expected_values:
+    AUDI_CLR_DIST: 25785
+- response: 7E80562F43164BA
+  expected_values:
+    AUDI_CLR_DIST: 25786
+- response: 7E80562F43164BB
+  expected_values:
+    AUDI_CLR_DIST: 25787
+- response: 7E80562F43164BC
+  expected_values:
+    AUDI_CLR_DIST: 25788
+- response: 7E80562F43164BD
+  expected_values:
+    AUDI_CLR_DIST: 25789
+- response: 7E80562F43164BF
+  expected_values:
+    AUDI_CLR_DIST: 25791
+- response: 7E80562F43164C0
+  expected_values:
+    AUDI_CLR_DIST: 25792
+- response: 7E80562F43164C1
+  expected_values:
+    AUDI_CLR_DIST: 25793
+- response: 7E80562F43164C2
+  expected_values:
+    AUDI_CLR_DIST: 25794
+- response: 7E80562F43164C3
+  expected_values:
+    AUDI_CLR_DIST: 25795
+- response: 7E80562F43164C4
+  expected_values:
+    AUDI_CLR_DIST: 25796
+- response: 7E80562F43164C5
+  expected_values:
+    AUDI_CLR_DIST: 25797
+- response: 7E80562F43164C6
+  expected_values:
+    AUDI_CLR_DIST: 25798
+- response: 7E80562F43164C7
+  expected_values:
+    AUDI_CLR_DIST: 25799
+- response: 7E80562F43164C8
+  expected_values:
+    AUDI_CLR_DIST: 25800
+- response: 7E80562F43164C9
+  expected_values:
+    AUDI_CLR_DIST: 25801
+- response: 7E80562F43164CA
+  expected_values:
+    AUDI_CLR_DIST: 25802
+- response: 7E80562F43164CC
+  expected_values:
+    AUDI_CLR_DIST: 25804
+- response: 7E80562F43164CD
+  expected_values:
+    AUDI_CLR_DIST: 25805
+- response: 7E80562F43164CE
+  expected_values:
+    AUDI_CLR_DIST: 25806
+- response: 7E80562F43164CF
+  expected_values:
+    AUDI_CLR_DIST: 25807
+- response: 7E80562F43164D0
+  expected_values:
+    AUDI_CLR_DIST: 25808
+- response: 7E80562F43164D1
+  expected_values:
+    AUDI_CLR_DIST: 25809
+- response: 7E80562F43164D2
+  expected_values:
+    AUDI_CLR_DIST: 25810
+- response: 7E80562F43164D3
+  expected_values:
+    AUDI_CLR_DIST: 25811
+- response: 7E80562F43164D4
+  expected_values:
+    AUDI_CLR_DIST: 25812
+- response: 7E80562F43164D5
+  expected_values:
+    AUDI_CLR_DIST: 25813
+- response: 7E80562F43164D6
+  expected_values:
+    AUDI_CLR_DIST: 25814
+- response: 7E80562F43164D7
+  expected_values:
+    AUDI_CLR_DIST: 25815
+- response: 7E80562F43164D8
+  expected_values:
+    AUDI_CLR_DIST: 25816

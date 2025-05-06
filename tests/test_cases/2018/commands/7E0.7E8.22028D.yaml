@@ -1,0 +1,55 @@
+command_id: 7E0.7E8.22028D
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80562028D021C
+  expected_values:
+    AUDI_ECU_TEMP: 54
+- response: 7E80562028D0226
+  expected_values:
+    AUDI_ECU_TEMP: 55
+- response: 7E80562028D0230
+  expected_values:
+    AUDI_ECU_TEMP: 56
+- response: 7E80562028D023A
+  expected_values:
+    AUDI_ECU_TEMP: 57
+- response: 7E80562028D0244
+  expected_values:
+    AUDI_ECU_TEMP: 58
+- response: 7E80562028D0262
+  expected_values:
+    AUDI_ECU_TEMP: 61
+- response: 7E80562028D026C
+  expected_values:
+    AUDI_ECU_TEMP: 62
+- response: 7E80562028D0276
+  expected_values:
+    AUDI_ECU_TEMP: 63
+- response: 7E80562028D0280
+  expected_values:
+    AUDI_ECU_TEMP: 64
+- response: 7E80562028D028A
+  expected_values:
+    AUDI_ECU_TEMP: 65
+- response: 7E80562028D0294
+  expected_values:
+    AUDI_ECU_TEMP: 66
+- response: 7E80562028D029E
+  expected_values:
+    AUDI_ECU_TEMP: 67
+- response: 7E80562028D02A8
+  expected_values:
+    AUDI_ECU_TEMP: 68
+- response: 7E80562028D02B2
+  expected_values:
+    AUDI_ECU_TEMP: 69
+- response: 7E80562028D02BC
+  expected_values:
+    AUDI_ECU_TEMP: 70
+- response: 7E80562028D02C6
+  expected_values:
+    AUDI_ECU_TEMP: 71
+- response: 7E80562028D02D0
+  expected_values:
+    AUDI_ECU_TEMP: 72
