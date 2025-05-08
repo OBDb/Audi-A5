@@ -8,3 +8,6 @@ test_cases:
 - response: 7E9056203021F05
   expected_values:
     AUDI_DRIVE_TIME: 1985.25
+- response: 7E9056203021F0C
+  expected_values:
+    AUDI_DRIVE_TIME: 1987

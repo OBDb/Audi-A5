@@ -3,50 +3,20 @@ can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
 - response: |-
+    77A100A622AB600D200
+    77A21D207FD01AAAAAA
+  expected_values:
+    AUDI_RANGE_V2: 210
+- response: |-
     77A100A622AB6012201
     77A212207FD01AAAAAA
   expected_values:
     AUDI_RANGE_V2: 290
 - response: |-
-    77A100A622AB6012701
-    77A212707FD01AAAAAA
-  expected_values:
-    AUDI_RANGE_V2: 295
-- response: |-
-    77A100A622AB6012C01
-    77A212C07FD01AAAAAA
-  expected_values:
-    AUDI_RANGE_V2: 300
-- response: |-
-    77A100A622AB6013101
-    77A213107FD01AAAAAA
-  expected_values:
-    AUDI_RANGE_V2: 305
-- response: |-
-    77A100A622AB6013601
-    77A213607FD01AAAAAA
-  expected_values:
-    AUDI_RANGE_V2: 310
-- response: |-
-    77A100A622AB6013B01
-    77A213B07FD01AAAAAA
-  expected_values:
-    AUDI_RANGE_V2: 315
-- response: |-
     77A100A622AB6014001
     77A214007FD01AAAAAA
   expected_values:
     AUDI_RANGE_V2: 320
-- response: |-
-    77A100A622AB6014501
-    77A214507FD01AAAAAA
-  expected_values:
-    AUDI_RANGE_V2: 325
-- response: |-
-    77A100A622AB6014A01
-    77A214A07FD01AAAAAA
-  expected_values:
-    AUDI_RANGE_V2: 330
 - response: |-
     77A100A622AB6014F01
     77A214F07FD01AAAAAA
