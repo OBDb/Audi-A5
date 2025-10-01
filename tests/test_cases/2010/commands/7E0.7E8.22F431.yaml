@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    AUDI_CLR_DIST: 5902
+  response: 7E80562F431170E
+- expected_values:
+    AUDI_CLR_DIST: 5904
+  response: 7E80562F4311710
+- expected_values:
+    AUDI_CLR_DIST: 5905
+  response: 7E80562F4311711
+- expected_values:
+    AUDI_CLR_DIST: 5906
+  response: 7E80562F4311712
+- expected_values:
+    AUDI_CLR_DIST: 5907
+  response: 7E80562F4311713
+- expected_values:
+    AUDI_CLR_DIST: 5908
+  response: 7E80562F4311714
+- expected_values:
+    AUDI_CLR_DIST: 5909
+  response: 7E80562F4311715
+- expected_values:
+    AUDI_CLR_DIST: 5910
+  response: 7E80562F4311716
+- expected_values:
+    AUDI_CLR_DIST: 5911
+  response: 7E80562F4311717
+- expected_values:
+    AUDI_CLR_DIST: 5912
+  response: 7E80562F4311718

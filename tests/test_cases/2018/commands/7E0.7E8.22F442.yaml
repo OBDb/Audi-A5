@@ -1,16 +1,14 @@
 command_id: 7E0.7E8.22F442
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 7E80562F4422C8E
-  expected_values:
+- expected_values:
     AUDI_VPWR: 11.406
-- response: 7E80562F4422E01
-  expected_values:
+  response: 7E80562F4422C8E
+- expected_values:
     AUDI_VPWR: 11.777
-- response: 7E80562F44237FF
-  expected_values:
+  response: 7E80562F4422E01
+- expected_values:
     AUDI_VPWR: 14.335
-- response: 7E80562F4423A22
-  expected_values:
-    AUDI_VPWR: 14.882
+  response: 7E80562F44237FF
+- expected_values:
+    AUDI_VPWR: 15.117
+  response: 7E80562F4423B0D
