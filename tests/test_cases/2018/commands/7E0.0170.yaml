@@ -1,11 +1,6 @@
 command_id: 7E0.0170
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: |-
-    7E8100C41700209FB0C
-    7E82179000000000000
-  expected_values:
+- expected_values:
     BP_A_ACT: 99.78125
     BP_A_ACT_SUP: 1
     BP_A_CMD: 79.84375
@@ -16,3 +11,6 @@ test_cases:
     BP_B_CMD: 0
     BP_B_CMD_SUP: 0
     BP_B_SUP: 0
+  response: |-
+    7E8100C41700209FB0C
+    7E82179000000000000

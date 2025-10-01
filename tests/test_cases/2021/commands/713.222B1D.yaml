@@ -1,0 +1,5 @@
+command_id: 713.222B1D
+test_cases:
+- expected_values:
+    AUDI_TIRE_RL_SPD: 0
+  response: 7E905622B1D0000
