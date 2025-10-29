@@ -4,5 +4,5 @@ test_cases:
     AUDI_SSB_SOC: 68
   response: 77A04622A0C44
 - expected_values:
-    AUDI_SSB_SOC: 88
-  response: 77A04622A0C58
+    AUDI_SSB_SOC: 94
+  response: 77A04622A0C5E
