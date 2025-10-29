@@ -10,6 +10,9 @@ test_cases:
     AUDI_SSB_SENSOR_T: 11
   response: 77A04622A0A33
 - expected_values:
+    AUDI_SSB_SENSOR_T: 12
+  response: 77A04622A0A34
+- expected_values:
     AUDI_SSB_SENSOR_T: 13
   response: 77A04622A0A35
 - expected_values:
