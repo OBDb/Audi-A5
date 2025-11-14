@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     AUDI_DRIVE_TIME_MANUAL: 3.2
   response: '7E90462030508'
+- expected_values:
+    AUDI_DRIVE_TIME_MANUAL: 4.4
+  response: 7E9046203050B
+- expected_values:
+    AUDI_DRIVE_TIME_MANUAL: 4.8
+  response: 7E9046203050C
