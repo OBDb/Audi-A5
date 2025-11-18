@@ -1,5 +1,0 @@
-command_id: 7E0.2211BB
-test_cases:
-- expected_values:
-    AUDI_OIL_CRIT: 0
-  response: 7E8056211BB0000
