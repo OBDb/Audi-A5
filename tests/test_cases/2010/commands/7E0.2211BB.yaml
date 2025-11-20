@@ -2,4 +2,5 @@ command_id: 7E0.2211BB
 test_cases:
 - expected_values:
     AUDI_OIL_CRIT: 0.046
+    AUDI_OIL_LVL_WARN_THRESHOLD_11BB: 0.46
   response: 7E8056211BB0073

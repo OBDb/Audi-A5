@@ -1,0 +1,14 @@
+command_id: 7E0.22115B
+test_cases:
+- expected_values:
+    AUDI_FIELD_REGEN_REQUEST_STATUS: 0
+  response: '7E8 04 62 11 5B 00 '
+- expected_values:
+    AUDI_FIELD_REGEN_REQUEST_STATUS: 0
+  response: 7E80462115B00
+- expected_values:
+    AUDI_FIELD_REGEN_REQUEST_STATUS: 4
+  response: 7E80462115B04
+- expected_values:
+    AUDI_FIELD_REGEN_REQUEST_STATUS: 5
+  response: 7E80462115B05
