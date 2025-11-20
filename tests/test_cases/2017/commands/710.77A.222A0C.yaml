@@ -1,8 +1,10 @@
 command_id: 710.77A.222A0C
 test_cases:
 - expected_values:
+    AUDI_BAT_CHG_LVL: 64
     AUDI_SSB_SOC: 64
   response: 77A04622A0C40
 - expected_values:
+    AUDI_BAT_CHG_LVL: 77
     AUDI_SSB_SOC: 77
   response: 77A04622A0C4D
