@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22112C
 test_cases:
 - expected_values:
+    AUDI_ACT: 5.46
+  response: 7E80562112C0222
+- expected_values:
+    AUDI_ACT: 5.93
+  response: 7E80562112C0251
+- expected_values:
     AUDI_ACT: 6.24
   response: 7E80562112C0270
 - expected_values:
@@ -10,8 +16,14 @@ test_cases:
     AUDI_ACT: 9.32
   response: 7E80562112C03A4
 - expected_values:
+    AUDI_ACT: 16.36
+  response: 7E80562112C0664
+- expected_values:
     AUDI_ACT: 16.59
   response: 7E80562112C067B
+- expected_values:
+    AUDI_ACT: 18.75
+  response: 7E80562112C0753
 - expected_values:
     AUDI_ACT: 19.38
   response: 7E80562112C0792
