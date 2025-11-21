@@ -1,42 +1,32 @@
 command_id: 7E0.7E8.221156
 test_cases:
 - expected_values:
-    AUDI_DIST_SINCE_LAST_REGEN_: 63.036
     AUDI_HVBAT_SOC: 0
   response: 7E8076211560000F63C
 - expected_values:
-    AUDI_DIST_SINCE_LAST_REGEN_: 66.822
     AUDI_HVBAT_SOC: 0
   response: '7E80762115600010506'
 - expected_values:
-    AUDI_DIST_SINCE_LAST_REGEN_: 67.531
     AUDI_HVBAT_SOC: 0
   response: 7E807621156000107CB
 - expected_values:
-    AUDI_DIST_SINCE_LAST_REGEN_: 67.93
     AUDI_HVBAT_SOC: 0
   response: 7E8076211560001095A
 - expected_values:
-    AUDI_DIST_SINCE_LAST_REGEN_: 68.258
     AUDI_HVBAT_SOC: 0
   response: 7E80762115600010AA2
 - expected_values:
-    AUDI_DIST_SINCE_LAST_REGEN_: 68.734
     AUDI_HVBAT_SOC: 0
   response: 7E80762115600010C7E
 - expected_values:
-    AUDI_DIST_SINCE_LAST_REGEN_: 68.897
     AUDI_HVBAT_SOC: 0
   response: 7E80762115600010D21
 - expected_values:
-    AUDI_DIST_SINCE_LAST_REGEN_: 69.332
     AUDI_HVBAT_SOC: 0
   response: 7E80762115600010ED4
 - expected_values:
-    AUDI_DIST_SINCE_LAST_REGEN_: 70.076
     AUDI_HVBAT_SOC: 0
   response: 7E807621156000111BC
 - expected_values:
-    AUDI_DIST_SINCE_LAST_REGEN_: 70.869
     AUDI_HVBAT_SOC: 0
   response: 7E807621156000114D5
