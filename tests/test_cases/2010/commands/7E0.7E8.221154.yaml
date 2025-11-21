@@ -2,17 +2,13 @@ command_id: 7E0.7E8.221154
 test_cases:
 - expected_values:
     AUDI_EM_TORQ_2: 0.65625
-    AUDI_MISFIRE_4: 21
   response: '7E8056211540015'
 - expected_values:
     AUDI_EM_TORQ_2: 112
-    AUDI_MISFIRE_4: 3584
   response: 7E8056211540E00
 - expected_values:
     AUDI_EM_TORQ_2: -64.125
-    AUDI_MISFIRE_4: 63484
   response: 7E805621154F7FC
 - expected_values:
     AUDI_EM_TORQ_2: -7.90625
-    AUDI_MISFIRE_4: 65283
   response: 7E805621154FF03

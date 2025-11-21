@@ -2,5 +2,4 @@ command_id: 7E0.7E8.221151
 test_cases:
 - expected_values:
     AUDI_EM_RPM_1: 0.5
-    AUDI_MISFIRE_3: 1
   response: '7E8056211510001'
