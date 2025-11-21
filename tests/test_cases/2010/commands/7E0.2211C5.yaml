@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     AUDI_OIL_MIN: 0.552
   response: 7E8056211C5008A
+- expected_values:
+    AUDI_OIL_MIN: 0.556
+  response: 7E8056211C5008B
