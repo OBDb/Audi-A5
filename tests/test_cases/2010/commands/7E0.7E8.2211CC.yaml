@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     AUDI_BOOST_REGULATOR_FEEDBACK: 0
   response: 7E8076211CC0000318E
+- expected_values:
+    AUDI_BOOST_REGULATOR_FEEDBACK: 0
+  response: 7E8076211CC00003190

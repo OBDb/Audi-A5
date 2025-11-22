@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22112C
 test_cases:
 - expected_values:
-    AUDI_ACT: 5.46
-  response: 7E80562112C0222
+    AUDI_ACT: 5.45
+  response: 7E80562112C0221
 - expected_values:
     AUDI_ACT: 12.64
   response: 7E80562112C04F0
