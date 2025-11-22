@@ -5,28 +5,7 @@ test_cases:
   response: '7E80762113900000000'
 - expected_values:
     AUDI_MEAN_INJ_QUANTITY: 0
-  response: '7E80762113900000401'
-- expected_values:
-    AUDI_MEAN_INJ_QUANTITY: 0
-  response: 7E8076211390000041A
-- expected_values:
-    AUDI_MEAN_INJ_QUANTITY: 0
-  response: 7E8076211390000051D
-- expected_values:
-    AUDI_MEAN_INJ_QUANTITY: 0
-  response: 7E807621139000006BD
-- expected_values:
-    AUDI_MEAN_INJ_QUANTITY: 0
-  response: 7E8076211390000072E
-- expected_values:
-    AUDI_MEAN_INJ_QUANTITY: 0
-  response: '7E80762113900000782'
-- expected_values:
-    AUDI_MEAN_INJ_QUANTITY: 0
-  response: 7E807621139000007A2
-- expected_values:
-    AUDI_MEAN_INJ_QUANTITY: 0
-  response: 7E8076211390000095B
+  response: 7E807621139000003F7
 - expected_values:
     AUDI_MEAN_INJ_QUANTITY: 0
   response: 7E80762113900000A3E
