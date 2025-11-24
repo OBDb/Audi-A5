@@ -5,25 +5,4 @@ test_cases:
   response: 7E8076211CC00003187
 - expected_values:
     AUDI_BOOST_REGULATOR_FEEDBACK: 0
-  response: 7E8076211CC00003188
-- expected_values:
-    AUDI_BOOST_REGULATOR_FEEDBACK: 0
-  response: 7E8076211CC0000318B
-- expected_values:
-    AUDI_BOOST_REGULATOR_FEEDBACK: 0
-  response: 7E8076211CC0000318C
-- expected_values:
-    AUDI_BOOST_REGULATOR_FEEDBACK: 0
-  response: 7E8076211CC0000318E
-- expected_values:
-    AUDI_BOOST_REGULATOR_FEEDBACK: 0
-  response: 7E8076211CC00003190
-- expected_values:
-    AUDI_BOOST_REGULATOR_FEEDBACK: 0
-  response: 7E8076211CC00003191
-- expected_values:
-    AUDI_BOOST_REGULATOR_FEEDBACK: 0
-  response: 7E8076211CC00003192
-- expected_values:
-    AUDI_BOOST_REGULATOR_FEEDBACK: 0
-  response: 7E8076211CC00003193
+  response: 7E8076211CC00003195
