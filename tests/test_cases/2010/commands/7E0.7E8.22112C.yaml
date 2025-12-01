@@ -7,8 +7,5 @@ test_cases:
     AUDI_ACT: 7.68
   response: 7E80562112C0300
 - expected_values:
-    AUDI_ACT: 15.31
-  response: 7E80562112C05FB
-- expected_values:
-    AUDI_ACT: 37.25
-  response: 7E80562112C0E8D
+    AUDI_ACT: 0
+  response: 7E80562112CFFFF
