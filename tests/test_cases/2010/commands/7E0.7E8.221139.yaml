@@ -5,7 +5,7 @@ test_cases:
   response: '7E80762113900000000'
 - expected_values:
     AUDI_MEAN_INJ_QUANTITY: 0
-  response: 7E807621139000003F7
+  response: 7E807621139000004FF
 - expected_values:
     AUDI_MEAN_INJ_QUANTITY: 0
   response: 7E80762113900000EC9
