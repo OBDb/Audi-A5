@@ -9,6 +9,11 @@ test_cases:
     7E80562F431036A
     7E8064101000E6800
 - expected_values:
+    AUDI_CLR_DIST: 880
+  response: |-
+    7E80562F4310370
+    7E803410D2B
+- expected_values:
     AUDI_CLR_DIST: 1454
   response: |-
     7E80562F43105AE

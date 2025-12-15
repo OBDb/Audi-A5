@@ -2,7 +2,7 @@ command_id: 7E0.7E8.221156
 test_cases:
 - expected_values:
     AUDI_HVBAT_SOC: 0
-  response: 7E80762115600007B59
+  response: 7E80762115600002A48
 - expected_values:
     AUDI_HVBAT_SOC: 0
   response: |-
