@@ -4,6 +4,11 @@ test_cases:
     AUDI_VPWR: 13.42
   response: 7E80562F442346C
 - expected_values:
+    AUDI_VPWR: 13.44
+  response: |-
+    7E80562F4423480
+    7E803410550
+- expected_values:
     AUDI_VPWR: 14.38
   response: 7E80562F442382C
 - expected_values:
