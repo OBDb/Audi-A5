@@ -4,23 +4,11 @@ test_cases:
     AUDI_SPEC_VALUE_RAIL_P: 225200
   response: 7E80562121E08CC
 - expected_values:
-    AUDI_SPEC_VALUE_RAIL_P: 260000
-  response: 7E80562121E0A28
-- expected_values:
-    AUDI_SPEC_VALUE_RAIL_P: 263000
-  response: 7E80562121E0A46
-- expected_values:
     AUDI_SPEC_VALUE_RAIL_P: 279400
   response: 7E80562121E0AEA
-- expected_values:
-    AUDI_SPEC_VALUE_RAIL_P: 290800
-  response: 7E80562121E0B5C
 - expected_values:
     AUDI_SPEC_VALUE_RAIL_P: 848400
   response: 7E80562121E2124
 - expected_values:
-    AUDI_SPEC_VALUE_RAIL_P: 1263000
-  response: 7E80562121E3156
-- expected_values:
-    AUDI_SPEC_VALUE_RAIL_P: 1343600
-  response: 7E80562121E347C
+    AUDI_SPEC_VALUE_RAIL_P: 1647200
+  response: 7E80562121E4058
