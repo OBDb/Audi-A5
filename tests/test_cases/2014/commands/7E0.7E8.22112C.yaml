@@ -3,3 +3,8 @@ test_cases:
 - expected_values:
     AUDI_ACT: 0
   response: 7E80562112C0000
+- expected_values:
+    AUDI_ACT: 0
+  response: |-
+    7E80562112C0000
+    7E804410C0D1A
