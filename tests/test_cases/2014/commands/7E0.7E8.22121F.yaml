@@ -4,18 +4,6 @@ test_cases:
     AUDI_HIGH_FUEL_P_CONTROL_DEVIATION: 1400
   response: 7E80562121F000E
 - expected_values:
-    AUDI_HIGH_FUEL_P_CONTROL_DEVIATION: 1900
-  response: 7E80562121F0013
-- expected_values:
-    AUDI_HIGH_FUEL_P_CONTROL_DEVIATION: 2400
-  response: 7E80562121F0018
-- expected_values:
-    AUDI_HIGH_FUEL_P_CONTROL_DEVIATION: 6100
-  response: 7E80562121F003D
-- expected_values:
-    AUDI_HIGH_FUEL_P_CONTROL_DEVIATION: 17800
-  response: 7E80562121F00B2
-- expected_values:
     AUDI_HIGH_FUEL_P_CONTROL_DEVIATION: -500
   response: 7E80562121FFFFB
 - expected_values:
