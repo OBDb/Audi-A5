@@ -25,3 +25,6 @@ test_cases:
   response: |-
     7E8076211560002CBE3
     7E80341057C
+- expected_values:
+    AUDI_HVBAT_SOC: 0
+  response: 7E80762115600041E8D
