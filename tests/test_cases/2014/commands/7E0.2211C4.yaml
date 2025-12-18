@@ -4,19 +4,33 @@ test_cases:
     AUDI_OIL_MAX: 23.412
   response: 7E8056211C416DD
 - expected_values:
-    AUDI_OIL_MAX: 24.176
-  response: 7E8056211C4179C
-- expected_values:
-    AUDI_OIL_MAX: 24.344
-  response: 7E8056211C417C6
-- expected_values:
     AUDI_OIL_MAX: 25.072
   response: 7E8056211C4187C
 - expected_values:
     AUDI_OIL_MAX: 25.072
   response: |-
     7E8056211C4187C
+    7E80341055C
+- expected_values:
+    AUDI_OIL_MAX: 25.072
+  response: |-
+    7E8056211C4187C
+    7E803410D1F
+- expected_values:
+    AUDI_OIL_MAX: 25.072
+  response: |-
+    7E8056211C4187C
+    7E8044110034C
+- expected_values:
+    AUDI_OIL_MAX: 25.072
+  response: |-
+    7E8056211C4187C
     7E804411008BE
+- expected_values:
+    AUDI_OIL_MAX: 25.072
+  response: |-
+    7E8056211C4187C
+    7E8064101000E6800
 - expected_values:
     AUDI_OIL_MAX: 27.488
   response: 7E8056211C41AD8
@@ -27,14 +41,6 @@ test_cases:
     7E8064101000EE800
 - expected_values:
     AUDI_OIL_MAX: 27.504
-  response: 7E8056211C41ADC
-- expected_values:
-    AUDI_OIL_MAX: 27.504
   response: |-
     7E8056211C41ADC
     7E80441100328
-- expected_values:
-    AUDI_OIL_MAX: 27.504
-  response: |-
-    7E8056211C41ADC
-    7E804411005DB
