@@ -7,7 +7,17 @@ test_cases:
     AUDI_HVBAT_SOC_DISP_V2: 0
   response: |-
     7E80762116400000000
+    7E803410D00
+- expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 0
+  response: |-
+    7E80762116400000000
     7E804410C1624
+- expected_values:
+    AUDI_HVBAT_SOC_DISP_V2: 0
+  response: |-
+    7E80762116400000000
+    7E804410C1C22
 - expected_values:
     AUDI_HVBAT_SOC_DISP_V2: 0
   response: |-

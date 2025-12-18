@@ -1,29 +1,16 @@
 command_id: 7E0.221044|din=03
 test_cases:
 - expected_values:
-    AUDI_DPF_SFC_T: 73.7
-  response: 7E8056210440D8C
+    AUDI_DPF_SFC_T: 62.7
+  response: 7E8056210440D1E
 - expected_values:
-    AUDI_DPF_SFC_T: 90.6
-  response: 7E8056210440E35
+    AUDI_DPF_SFC_T: 249.1
+  response: |-
+    7E8056210441466
+    7E803410D04
 - expected_values:
-    AUDI_DPF_SFC_T: 108.4
-  response: 7E8056210440EE7
-- expected_values:
-    AUDI_DPF_SFC_T: 115.6
-  response: 7E8056210440F2F
-- expected_values:
-    AUDI_DPF_SFC_T: 192
-  response: 7E805621044122B
-- expected_values:
-    AUDI_DPF_SFC_T: 256.6
-  response: 7E80562104414B1
-- expected_values:
-    AUDI_DPF_SFC_T: 283.2
-  response: 7E80562104415BB
-- expected_values:
-    AUDI_DPF_SFC_T: 387.5
-  response: 7E80562104419CE
+    AUDI_DPF_SFC_T: 316.4
+  response: '7E8056210441707'
 - expected_values:
     AUDI_DPF_SFC_T: 606.5
   response: 7E805621044225C
