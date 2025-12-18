@@ -2,6 +2,11 @@ command_id: 7E0.7E8.221156
 test_cases:
 - expected_values:
     AUDI_HVBAT_SOC: 0
+  response: |-
+    7E8064101000E6800
+    7E8076211560000678C
+- expected_values:
+    AUDI_HVBAT_SOC: 0
   response: 7E80762115600002A48
 - expected_values:
     AUDI_HVBAT_SOC: 0
@@ -14,14 +19,19 @@ test_cases:
 - expected_values:
     AUDI_HVBAT_SOC: 0
   response: |-
+    7E80762115600008E1B
+    7E80341056D
+- expected_values:
+    AUDI_HVBAT_SOC: 0
+  response: '7E80762115600009501'
+- expected_values:
+    AUDI_HVBAT_SOC: 0
+  response: |-
     7E8076211560000A871
     7E803410573
 - expected_values:
     AUDI_HVBAT_SOC: 0
-  response: 7E8076211560000A923
-- expected_values:
-    AUDI_HVBAT_SOC: 0
-  response: 7E8076211560001C989
+  response: 7E8076211560000D5E7
 - expected_values:
     AUDI_HVBAT_SOC: 0
   response: 7E807621156000205F4
