@@ -1,10 +1,18 @@
+references:
+  - "https://en.wikipedia.org/wiki/Audi_A5"
+
 generations:
   - name: "First Generation (8T)"
-    start_year: 2007
+    start_year: 2008
     end_year: 2016
     description: "The original Audi A5 was introduced as a stylish coupe based on the B8 A4 platform. Designed by Walter de Silva, who called it his 'most beautiful creation,' the A5 featured elegant proportions with a flowing roofline. The range expanded to include the five-door Sportback and Cabriolet variants. Engine options mirrored the A4 lineup with four and six-cylinder petrol and diesel options, while the S5 featured a 4.2L V8 (later a supercharged V6) and the RS5 offered a high-revving 4.2L V8 producing 450 HP. A facelift in 2012 brought revised styling and updated technology."
 
   - name: "Second Generation (F5)"
-    start_year: 2016
-    end_year: null
+    start_year: 2018
+    end_year: 2025
     description: "Built on the B9 A4's MLB Evo platform, the second-generation A5 maintains the elegant design philosophy while featuring more angular styling elements. It continues to be offered in Coupe, Sportback, and Cabriolet body styles. The interior features Audi's latest technology including the Virtual Cockpit digital instrument cluster and improved infotainment systems. Engine options include efficient four and six-cylinder TFSI petrol and TDI diesel units, with the S5 featuring a turbocharged V6 and the RS5 powered by a twin-turbo V6 producing 450 HP. A facelift in 2019 refreshed the exterior design and updated the interior technology. The A5 continues to represent the perfect balance between elegance and sportiness in Audi's lineup."
+
+  - name: "Third Generation (B10)"
+    start_year: 2025
+    end_year: null
+    description: "The third-generation Audi A5 (B10) represents a significant transformation for the nameplate. As part of Audi's new naming convention, the A5 becomes the successor to both the A4 sedan and the previous A5 coupe/cabriolet/sportback lineup. The B10 features a completely new design language with more modern, angular styling. Built on an updated platform, it offers enhanced technology including advanced driver assistance systems and improved efficiency. Powertrain options include both combustion engines and plug-in hybrid variants. The third generation consolidates multiple body styles and vehicle types under the A5 designation, continuing Audi's evolution toward a more streamlined and efficient model lineup."
