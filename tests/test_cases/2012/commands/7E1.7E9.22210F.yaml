@@ -3,8 +3,10 @@ test_cases:
 - expected_values:
     AUDI_GEAR: '1'
     AUDI_GEAR_SHFT: REVERSE
+    AUDI_MQB_TCM_I_GEAR: -1
   response: 7E90462210F01
 - expected_values:
     AUDI_GEAR: '2'
     AUDI_GEAR_SHFT: PARK
+    AUDI_MQB_TCM_I_GEAR: 0
   response: 7E90462210F02
