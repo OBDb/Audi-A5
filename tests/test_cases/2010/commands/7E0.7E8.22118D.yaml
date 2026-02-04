@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22118D
+test_cases:
+- expected_values:
+    AUDI_PQ35_CAMS_EDGE_POS_6: -15.0625
+  response: 7E80562118D010F

@@ -1,0 +1,14 @@
+command_id: 710.77A.222A07
+test_cases:
+- expected_values:
+    AUDI_MQB_BAT_V: 12.059
+    AUDI_SSB_V: 69.54
+  response: 77A05622A071F7B
+- expected_values:
+    AUDI_MQB_BAT_V: 15.009
+    AUDI_SSB_V: 69.54
+  response: 77A05622A072B01
+- expected_values:
+    AUDI_MQB_BAT_V: 15.253
+    AUDI_SSB_V: 69.54
+  response: 77A05622A072BF5
