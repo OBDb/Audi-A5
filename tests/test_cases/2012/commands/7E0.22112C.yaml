@@ -1,0 +1,34 @@
+command_id: 7E0.22112C
+test_cases:
+- expected_values:
+    AUDI_ACT: 5.7
+    AUDI_PQ35_COMP_TEST_CYL_4: 285
+  response: 7E80562112C023A
+- expected_values:
+    AUDI_ACT: 5.71
+    AUDI_PQ35_COMP_TEST_CYL_4: 285.5
+  response: 7E80562112C023B
+- expected_values:
+    AUDI_ACT: 6.52
+    AUDI_PQ35_COMP_TEST_CYL_4: 326
+  response: 7E80562112C028C
+- expected_values:
+    AUDI_ACT: 12.8
+    AUDI_PQ35_COMP_TEST_CYL_4: 640
+  response: 7E80562112C0500
+- expected_values:
+    AUDI_ACT: 12.96
+    AUDI_PQ35_COMP_TEST_CYL_4: 648
+  response: 7E80562112C0510
+- expected_values:
+    AUDI_ACT: 13.41
+    AUDI_PQ35_COMP_TEST_CYL_4: 670.5
+  response: 7E80562112C053D
+- expected_values:
+    AUDI_ACT: 16.99
+    AUDI_PQ35_COMP_TEST_CYL_4: 849.5
+  response: 7E80562112C06A3
+- expected_values:
+    AUDI_ACT: 0
+    AUDI_PQ35_COMP_TEST_CYL_4: -0.5
+  response: 7E80562112CFFFF

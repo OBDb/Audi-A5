@@ -1,0 +1,22 @@
+command_id: 710.77A.222A00|fc=1
+test_cases:
+- expected_values:
+    AUDI_MQB_GEN_TRG_V: 10.6
+    AUDI_SSB_VT: 10.6
+  response: 77A04622A0000
+- expected_values:
+    AUDI_MQB_GEN_TRG_V: 13.5
+    AUDI_SSB_VT: 13.5
+  response: 77A04622A001D
+- expected_values:
+    AUDI_MQB_GEN_TRG_V: 15.3
+    AUDI_SSB_VT: 15.3
+  response: 77A04622A002F
+- expected_values:
+    AUDI_MQB_GEN_TRG_V: 15.4
+    AUDI_SSB_VT: 15.4
+  response: 77A04622A0030
+- expected_values:
+    AUDI_MQB_GEN_TRG_V: 15.5
+    AUDI_SSB_VT: 15.5
+  response: 77A04622A0031

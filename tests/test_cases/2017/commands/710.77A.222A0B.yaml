@@ -1,20 +1,20 @@
 command_id: 710.77A.222A0B
 test_cases:
 - expected_values:
-    AUDI_SSB_T: 0
+    AUDI_MQB_BAT_T: 0
   response: 77A04622A0B28
 - expected_values:
-    AUDI_SSB_T: 16
+    AUDI_MQB_BAT_T: 16
   response: 77A04622A0B38
 - expected_values:
-    AUDI_SSB_T: 17
+    AUDI_MQB_BAT_T: 17
   response: 77A04622A0B39
 - expected_values:
-    AUDI_SSB_T: 18
+    AUDI_MQB_BAT_T: 18
   response: 77A04622A0B3A
 - expected_values:
-    AUDI_SSB_T: 19
+    AUDI_MQB_BAT_T: 19
   response: 77A04622A0B3B
 - expected_values:
-    AUDI_SSB_T: 20
+    AUDI_MQB_BAT_T: 20
   response: 77A04622A0B3C

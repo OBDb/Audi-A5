@@ -2,13 +2,17 @@ command_id: 7E0.7E8.221151
 test_cases:
 - expected_values:
     AUDI_EM_RPM_1: 0
+    AUDI_MISFIRES__CYL__4: 0
   response: '7E8056211510000'
 - expected_values:
     AUDI_EM_RPM_1: 0.5
+    AUDI_MISFIRES__CYL__4: 1
   response: '7E8056211510001'
 - expected_values:
     AUDI_EM_RPM_1: 1
+    AUDI_MISFIRES__CYL__4: 2
   response: '7E8056211510002'
 - expected_values:
     AUDI_EM_RPM_1: 1.5
+    AUDI_MISFIRES__CYL__4: 3
   response: '7E8056211510003'

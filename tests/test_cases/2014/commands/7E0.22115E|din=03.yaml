@@ -1,0 +1,5 @@
+command_id: 7E0.22115E|din=03
+test_cases:
+- expected_values:
+    AUDI_PQ35_TIME_LAST_REGEN: 1.0729470198320215e-06
+  response: 7E80762115E00002A31
