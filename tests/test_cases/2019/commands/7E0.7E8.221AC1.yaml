@@ -1,6 +1,18 @@
 command_id: 7E0.7E8.221AC1
 test_cases:
 - expected_values:
+    AUDI_MQB_DPF_FUEL_CONSUMPTION_SINCE_LAST_REGEN: 1.06
+  response: 7E805621AC1006A
+- expected_values:
+    AUDI_MQB_DPF_FUEL_CONSUMPTION_SINCE_LAST_REGEN: 1.1
+  response: 7E805621AC1006E
+- expected_values:
+    AUDI_MQB_DPF_FUEL_CONSUMPTION_SINCE_LAST_REGEN: 3.56
+  response: 7E805621AC10164
+- expected_values:
+    AUDI_MQB_DPF_FUEL_CONSUMPTION_SINCE_LAST_REGEN: 3.72
+  response: 7E805621AC10174
+- expected_values:
     AUDI_MQB_DPF_FUEL_CONSUMPTION_SINCE_LAST_REGEN: 9.44
   response: 7E805621AC103B0
 - expected_values:
