@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221813
+test_cases:
+- expected_values:
+    AUDI_MQB_EGR_VALVE_1_B1_MASS_I_SPEC: 0
+  response: '7E8056218130000'
+- expected_values:
+    AUDI_MQB_EGR_VALVE_1_B1_MASS_I_SPEC: 4.5
+  response: 7E805621813002D
+- expected_values:
+    AUDI_MQB_EGR_VALVE_1_B1_MASS_I_SPEC: 4.8
+  response: '7E8056218130030'
+- expected_values:
+    AUDI_MQB_EGR_VALVE_1_B1_MASS_I_SPEC: 5
+  response: '7E8056218130032'
+- expected_values:
+    AUDI_MQB_EGR_VALVE_1_B1_MASS_I_SPEC: 5.6
+  response: '7E8056218130038'
+- expected_values:
+    AUDI_MQB_EGR_VALVE_1_B1_MASS_I_SPEC: 17.6
+  response: 7E80562181300B0
