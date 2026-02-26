@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.221ACB
 test_cases:
 - expected_values:
+    AUDI_MQB_DPF_STATISTICS_ROUTE_IN_CHARGE_CYCLE: 0
+  response: 7E804621ACB00
+- expected_values:
+    AUDI_MQB_DPF_STATISTICS_ROUTE_IN_CHARGE_CYCLE: 32
+  response: 7E804621ACB04
+- expected_values:
     AUDI_MQB_DPF_STATISTICS_ROUTE_IN_CHARGE_CYCLE: 128
   response: 7E804621ACB10
 - expected_values:
