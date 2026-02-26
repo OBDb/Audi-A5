@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221063
+test_cases:
+- expected_values:
+    AUDI_PQ35_CLUTCH_1_CHAR_CURVE_SHIFT: -27.07838
+  response: '7E9056210631194'
+- expected_values:
+    AUDI_PQ35_CLUTCH_1_CHAR_CURVE_SHIFT: -1.99038
+  response: 7E90562106311F8
