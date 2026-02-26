@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221AC3
+test_cases:
+- expected_values:
+    AUDI_MQB_DPF_TIME_SINCE_LAST_REGEN: 3.46875
+  response: 7E805621AC306F0
+- expected_values:
+    AUDI_MQB_DPF_TIME_SINCE_LAST_REGEN: 3.52148
+  response: 7E805621AC3070B
+- expected_values:
+    AUDI_MQB_DPF_TIME_SINCE_LAST_REGEN: 3.68359
+  response: 7E805621AC3075E
+- expected_values:
+    AUDI_MQB_DPF_TIME_SINCE_LAST_REGEN: 5.85937
+  response: 7E805621AC30BB8
+- expected_values:
+    AUDI_MQB_DPF_TIME_SINCE_LAST_REGEN: 5.90429
+  response: 7E805621AC30BCF

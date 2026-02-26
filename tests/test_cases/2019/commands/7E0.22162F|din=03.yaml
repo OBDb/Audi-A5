@@ -1,0 +1,17 @@
+command_id: 7E0.22162F|din=03
+test_cases:
+- expected_values:
+    AUDI_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 14
+  response: 7E80562162F000E
+- expected_values:
+    AUDI_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 20
+  response: 7E80562162F0014
+- expected_values:
+    AUDI_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 24
+  response: 7E80562162F0018
+- expected_values:
+    AUDI_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 31
+  response: 7E80562162F001F
+- expected_values:
+    AUDI_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 52
+  response: 7E80562162F0034

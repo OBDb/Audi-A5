@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221ABA
+test_cases:
+- expected_values:
+    AUDI_MQB_DPF_DISTANCE_SINCE_LAST_REGEN: 150.4
+  response: 7E805621ABA05E0
+- expected_values:
+    AUDI_MQB_DPF_DISTANCE_SINCE_LAST_REGEN: 151.2
+  response: 7E805621ABA05E8
+- expected_values:
+    AUDI_MQB_DPF_DISTANCE_SINCE_LAST_REGEN: 152.4
+  response: 7E805621ABA05F4
+- expected_values:
+    AUDI_MQB_DPF_DISTANCE_SINCE_LAST_REGEN: 152.9
+  response: 7E805621ABA05F9
+- expected_values:
+    AUDI_MQB_DPF_DISTANCE_SINCE_LAST_REGEN: 242.2
+  response: 7E805621ABA0976
+- expected_values:
+    AUDI_MQB_DPF_DISTANCE_SINCE_LAST_REGEN: 243.1
+  response: 7E805621ABA097F

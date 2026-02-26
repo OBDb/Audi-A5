@@ -1,0 +1,20 @@
+command_id: 7E0.221628|din=03
+test_cases:
+- expected_values:
+    AUDI_PQ35_INTERCOOLER_AIR_OUTPUT_T: 23.9
+  response: 7E8056216280B9A
+- expected_values:
+    AUDI_PQ35_INTERCOOLER_AIR_OUTPUT_T: 31.6
+  response: 7E8056216280BE7
+- expected_values:
+    AUDI_PQ35_INTERCOOLER_AIR_OUTPUT_T: 34.9
+  response: 7E8056216280C08
+- expected_values:
+    AUDI_PQ35_INTERCOOLER_AIR_OUTPUT_T: 36.2
+  response: 7E8056216280C15
+- expected_values:
+    AUDI_PQ35_INTERCOOLER_AIR_OUTPUT_T: 40.1
+  response: 7E8056216280C3C
+- expected_values:
+    AUDI_PQ35_INTERCOOLER_AIR_OUTPUT_T: 46.4
+  response: 7E8056216280C7B

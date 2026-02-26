@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221ABE
+test_cases:
+- expected_values:
+    AUDI_MQB_DPF_SOOT_MASS_MEASURED: 7.8
+  response: 7E805621ABE030C
+- expected_values:
+    AUDI_MQB_DPF_SOOT_MASS_MEASURED: 8.02
+  response: 7E805621ABE0322
+- expected_values:
+    AUDI_MQB_DPF_SOOT_MASS_MEASURED: 8.35
+  response: 7E805621ABE0343
+- expected_values:
+    AUDI_MQB_DPF_SOOT_MASS_MEASURED: 8.42
+  response: 7E805621ABE034A
+- expected_values:
+    AUDI_MQB_DPF_SOOT_MASS_MEASURED: 12.51
+  response: 7E805621ABE04E3
+- expected_values:
+    AUDI_MQB_DPF_SOOT_MASS_MEASURED: 12.59
+  response: 7E805621ABE04EB

@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2214C7
+test_cases:
+- expected_values:
+    AUDI_PQ35_PRE_INJ_1_START: 3.26
+  response: 7E8056214C700A3
+- expected_values:
+    AUDI_PQ35_PRE_INJ_1_START: 3.42
+  response: 7E8056214C700AB
+- expected_values:
+    AUDI_PQ35_PRE_INJ_1_START: 4.16
+  response: 7E8056214C700D0
+- expected_values:
+    AUDI_PQ35_PRE_INJ_1_START: 4.2
+  response: 7E8056214C700D2
+- expected_values:
+    AUDI_PQ35_PRE_INJ_1_START: 5.28
+  response: 7E8056214C70108
+- expected_values:
+    AUDI_PQ35_PRE_INJ_1_START: 6.52
+  response: 7E8056214C70146
