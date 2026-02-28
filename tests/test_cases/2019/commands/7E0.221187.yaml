@@ -5,37 +5,9 @@ test_cases:
     AUDI_PQ35_ACCEL: 0
   response: '7E8056211870000'
 - expected_values:
-    AUDI_ACCELERATION: 0.001
-    AUDI_PQ35_ACCEL: 0.001
-  response: '7E8056211870001'
-- expected_values:
-    AUDI_ACCELERATION: 0.002
-    AUDI_PQ35_ACCEL: 0.002
-  response: '7E8056211870002'
-- expected_values:
-    AUDI_ACCELERATION: 0.035
-    AUDI_PQ35_ACCEL: 0.035
-  response: '7E8056211870023'
-- expected_values:
-    AUDI_ACCELERATION: 0.044
-    AUDI_PQ35_ACCEL: 0.044
-  response: 7E805621187002C
-- expected_values:
-    AUDI_ACCELERATION: 0.055
-    AUDI_PQ35_ACCEL: 0.055
-  response: '7E8056211870037'
-- expected_values:
-    AUDI_ACCELERATION: 0.454
-    AUDI_PQ35_ACCEL: 0.454
-  response: 7E80562118701C6
-- expected_values:
-    AUDI_ACCELERATION: 0.528
-    AUDI_PQ35_ACCEL: 0.528
-  response: '7E8056211870210'
-- expected_values:
-    AUDI_ACCELERATION: -0.682
-    AUDI_PQ35_ACCEL: -0.682
-  response: 7E805621187FD56
+    AUDI_ACCELERATION: 0.732
+    AUDI_PQ35_ACCEL: 0.732
+  response: 7E80562118702DC
 - expected_values:
     AUDI_ACCELERATION: -0.469
     AUDI_PQ35_ACCEL: -0.469

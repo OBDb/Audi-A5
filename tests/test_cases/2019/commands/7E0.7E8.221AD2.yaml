@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     AUDI_MQB_DPF_REGEN_RELEASE_REQUIREMENT: 5
   response: 7E804621AD205
+- expected_values:
+    AUDI_MQB_DPF_REGEN_RELEASE_REQUIREMENT: 8
+  response: 7E804621AD208
