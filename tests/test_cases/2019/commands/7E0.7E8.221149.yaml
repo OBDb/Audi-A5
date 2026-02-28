@@ -9,6 +9,10 @@ test_cases:
     AUDI_PQ35_BOOST_P_CMD: 1021
   response: 7E80562114903FD
 - expected_values:
+    AUDI_MISFIRES_1000REV_C4: 1027
+    AUDI_PQ35_BOOST_P_CMD: 1027
+  response: '7E8056211490403'
+- expected_values:
     AUDI_MISFIRES_1000REV_C4: 1300
     AUDI_PQ35_BOOST_P_CMD: 1300
   response: '7E8056211490514'
