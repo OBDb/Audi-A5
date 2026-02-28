@@ -4,29 +4,8 @@ test_cases:
     AUDI_PQ35_ODO_2: 82711
   response: 7E8076216A900014317
 - expected_values:
-    AUDI_PQ35_ODO_2: 82712
-  response: 7E8076216A900014318
-- expected_values:
-    AUDI_PQ35_ODO_2: 82713
-  response: 7E8076216A900014319
-- expected_values:
-    AUDI_PQ35_ODO_2: 82714
-  response: 7E8076216A90001431A
-- expected_values:
-    AUDI_PQ35_ODO_2: 82803
-  response: 7E8076216A900014373
-- expected_values:
-    AUDI_PQ35_ODO_2: 82805
-  response: 7E8076216A900014375
-- expected_values:
-    AUDI_PQ35_ODO_2: 82845
-  response: 7E8076216A90001439D
-- expected_values:
-    AUDI_PQ35_ODO_2: 82846
-  response: 7E8076216A90001439E
-- expected_values:
-    AUDI_PQ35_ODO_2: 82889
-  response: 7E8076216A9000143C9
-- expected_values:
     AUDI_PQ35_ODO_2: 82892
   response: 7E8076216A9000143CC
+- expected_values:
+    AUDI_PQ35_ODO_2: 83072
+  response: 7E8076216A900014480
