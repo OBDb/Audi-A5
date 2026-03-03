@@ -1,0 +1,14 @@
+command_id: 710.77A.222A0B
+test_cases:
+- expected_values:
+    AUDI_MQB_BAT_T: 4
+  response: 77A04622A0B2C
+- expected_values:
+    AUDI_MQB_BAT_T: 5
+  response: 77A04622A0B2D
+- expected_values:
+    AUDI_MQB_BAT_T: 6
+  response: 77A04622A0B2E
+- expected_values:
+    AUDI_MQB_BAT_T: 7
+  response: 77A04622A0B2F

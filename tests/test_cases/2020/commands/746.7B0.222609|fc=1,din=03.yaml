@@ -1,0 +1,32 @@
+command_id: 746.7B0.222609|fc=1,din=03
+test_cases:
+- expected_values:
+    AUDI_AAT_V2: 0
+    AUDI_HVAC_OUTSIDE_T: 6
+    AUDI_PQ35_OUT_T: 0
+  response: 7B005622609003C
+- expected_values:
+    AUDI_AAT_V2: 0
+    AUDI_HVAC_OUTSIDE_T: 6.5
+    AUDI_PQ35_OUT_T: 0
+  response: 7B0056226090041
+- expected_values:
+    AUDI_AAT_V2: 0
+    AUDI_HVAC_OUTSIDE_T: 10.5
+    AUDI_PQ35_OUT_T: 0
+  response: 7B0056226090069
+- expected_values:
+    AUDI_AAT_V2: 0
+    AUDI_HVAC_OUTSIDE_T: 11.5
+    AUDI_PQ35_OUT_T: 0
+  response: 7B0056226090073
+- expected_values:
+    AUDI_AAT_V2: 0
+    AUDI_HVAC_OUTSIDE_T: 12
+    AUDI_PQ35_OUT_T: 0
+  response: 7B0056226090078
+- expected_values:
+    AUDI_AAT_V2: 0
+    AUDI_HVAC_OUTSIDE_T: 14
+    AUDI_PQ35_OUT_T: 0
+  response: 7B005622609008C

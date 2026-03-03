@@ -22,6 +22,9 @@ test_cases:
     AUDI_PQ35_DL382_CLUTCH_1_ACTUAL_P_RAW_VALUE: 4.1
   response: 7E9046210F933
 - expected_values:
+    AUDI_PQ35_DL382_CLUTCH_1_ACTUAL_P_RAW_VALUE: 5
+  response: 7E9046210F93C
+- expected_values:
     AUDI_PQ35_DL382_CLUTCH_1_ACTUAL_P_RAW_VALUE: 7.9
   response: 7E9046210F959
 - expected_values:
