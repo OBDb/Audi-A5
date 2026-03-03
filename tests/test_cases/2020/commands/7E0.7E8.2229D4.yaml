@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2229D4
+test_cases:
+- expected_values:
+    AUDI_ENG_TRQ_REQ_1: 26.3
+  response: 7E8056229D40107
+- expected_values:
+    AUDI_ENG_TRQ_REQ_1: 26.5
+  response: 7E8056229D40109
+- expected_values:
+    AUDI_ENG_TRQ_REQ_1: 28
+  response: 7E8056229D40118
+- expected_values:
+    AUDI_ENG_TRQ_REQ_1: 29.1
+  response: 7E8056229D40123
+- expected_values:
+    AUDI_ENG_TRQ_REQ_1: 32.2
+  response: 7E8056229D40142
