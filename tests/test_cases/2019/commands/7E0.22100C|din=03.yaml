@@ -4,26 +4,11 @@ test_cases:
     AUDI_PQ35_FUEL_LVL_2: 13
   response: 7E80562100C0514
 - expected_values:
-    AUDI_PQ35_FUEL_LVL_2: 14
-  response: 7E80562100C0578
-- expected_values:
-    AUDI_PQ35_FUEL_LVL_2: 15
-  response: 7E80562100C05DC
-- expected_values:
-    AUDI_PQ35_FUEL_LVL_2: 18
-  response: 7E80562100C0708
-- expected_values:
     AUDI_PQ35_FUEL_LVL_2: 23
   response: 7E80562100C08FC
 - expected_values:
     AUDI_PQ35_FUEL_LVL_2: 41
   response: 7E80562100C1004
-- expected_values:
-    AUDI_PQ35_FUEL_LVL_2: 47
-  response: 7E80562100C125C
-- expected_values:
-    AUDI_PQ35_FUEL_LVL_2: 48
-  response: 7E80562100C12C0
 - expected_values:
     AUDI_PQ35_FUEL_LVL_2: 49
   response: 7E80562100C1324
