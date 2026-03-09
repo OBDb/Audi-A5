@@ -1,8 +1,8 @@
 command_id: 7E0.221628|din=03
 test_cases:
 - expected_values:
-    AUDI_PQ35_INTERCOOLER_AIR_OUTPUT_T: 23.9
-  response: 7E8056216280B9A
+    AUDI_PQ35_INTERCOOLER_AIR_OUTPUT_T: 23
+  response: 7E8056216280B91
 - expected_values:
     AUDI_PQ35_INTERCOOLER_AIR_OUTPUT_T: 33.2
   response: 7E8056216280BF7

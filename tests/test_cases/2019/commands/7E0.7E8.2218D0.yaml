@@ -16,6 +16,9 @@ test_cases:
     AUDI_PQ35_BRAKE_P: 22.72
   response: 7E8056218D008E0
 - expected_values:
+    AUDI_PQ35_BRAKE_P: 22.88
+  response: 7E8056218D008F0
+- expected_values:
     AUDI_PQ35_BRAKE_P: 23.2
   response: 7E8056218D00910
 - expected_values:
