@@ -24,3 +24,7 @@ test_cases:
     AUDI_HVAC_FAN_CMD: 29.2
     AUDI_PQ35_RAD_FAN_CMD: 0.4
   response: 7B0056226070124
+- expected_values:
+    AUDI_HVAC_FAN_CMD: 30.4
+    AUDI_PQ35_RAD_FAN_CMD: 0.4
+  response: 7B0056226070130
