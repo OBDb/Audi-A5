@@ -15,6 +15,10 @@ test_cases:
 - expected_values:
     AUDI_FRONT_RIGHT_DEFLECTOR_T: 0.33333
     AUDI_PQ35_FR_DEFL_T: 0.333
+  response: 7B00562260D0101
+- expected_values:
+    AUDI_FRONT_RIGHT_DEFLECTOR_T: 0.33333
+    AUDI_PQ35_FR_DEFL_T: 0.333
   response: 7B00562260D010B
 - expected_values:
     AUDI_FRONT_RIGHT_DEFLECTOR_T: 0.33333
