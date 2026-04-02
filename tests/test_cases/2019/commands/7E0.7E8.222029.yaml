@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.222029
 test_cases:
 - expected_values:
+    AUDI_PQ35_CHARGE_AIR_P_SPECIFIED: 62.56
+  response: 7E805622029030E
+- expected_values:
+    AUDI_PQ35_CHARGE_AIR_P_SPECIFIED: 62.64
+  response: 7E805622029030F
+- expected_values:
     AUDI_PQ35_CHARGE_AIR_P_SPECIFIED: 62.72
   response: '7E8056220290310'
 - expected_values:
