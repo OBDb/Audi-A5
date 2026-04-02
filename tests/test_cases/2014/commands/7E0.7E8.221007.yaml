@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221007
+test_cases:
+- expected_values:
+    AUDI_PQ35_CAMS_START: 1138.6
+  response: 7E805621007163D
+- expected_values:
+    AUDI_PQ35_CAMS_START: 1141.8
+  response: 7E805621007164D

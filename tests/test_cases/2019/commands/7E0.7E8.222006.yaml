@@ -4,26 +4,5 @@ test_cases:
     AUDI_PQ35_OIL_FILL_LEVEL: 0.18
   response: '7E8056220060003'
 - expected_values:
-    AUDI_PQ35_OIL_FILL_LEVEL: 5.04
-  response: '7E8056220060054'
-- expected_values:
-    AUDI_PQ35_OIL_FILL_LEVEL: 5.28
-  response: '7E8056220060058'
-- expected_values:
-    AUDI_PQ35_OIL_FILL_LEVEL: 5.52
-  response: 7E805622006005C
-- expected_values:
-    AUDI_PQ35_OIL_FILL_LEVEL: 5.64
-  response: 7E805622006005E
-- expected_values:
-    AUDI_PQ35_OIL_FILL_LEVEL: 5.7
-  response: 7E805622006005F
-- expected_values:
-    AUDI_PQ35_OIL_FILL_LEVEL: 5.82
-  response: '7E8056220060061'
-- expected_values:
-    AUDI_PQ35_OIL_FILL_LEVEL: 6.06
-  response: '7E8056220060065'
-- expected_values:
     AUDI_PQ35_OIL_FILL_LEVEL: 6.24
   response: '7E8056220060068'
