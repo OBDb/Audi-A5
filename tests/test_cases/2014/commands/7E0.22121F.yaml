@@ -1,8 +1,8 @@
 command_id: 7E0.22121F
 test_cases:
 - expected_values:
-    AUDI_PQ35_FUEL_P_CTL_DEV: 1000
-  response: 7E80562121F000A
+    AUDI_PQ35_FUEL_P_CTL_DEV: 700
+  response: 7E80562121F0007
 - expected_values:
     AUDI_PQ35_FUEL_P_CTL_DEV: -14600
   response: 7E80562121FFF6E
