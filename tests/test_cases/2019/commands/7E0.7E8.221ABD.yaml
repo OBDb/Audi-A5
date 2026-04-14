@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     AUDI_MQB_DPF_OIL_ASH_MASS: 25.90314
   response: 7E807621ABD0CF3950C
+- expected_values:
+    AUDI_MQB_DPF_OIL_ASH_MASS: 26.85635
+  response: 7E807621ABD0D6D97BA

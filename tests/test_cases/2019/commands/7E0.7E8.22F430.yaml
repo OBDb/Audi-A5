@@ -4,29 +4,5 @@ test_cases:
     AUDI_WARM_UPS: 98
   response: 7E80462F43062
 - expected_values:
-    AUDI_WARM_UPS: 100
-  response: 7E80462F43064
-- expected_values:
-    AUDI_WARM_UPS: 101
-  response: 7E80462F43065
-- expected_values:
-    AUDI_WARM_UPS: 105
-  response: 7E80462F43069
-- expected_values:
-    AUDI_WARM_UPS: 114
-  response: 7E80462F43072
-- expected_values:
-    AUDI_WARM_UPS: 115
-  response: 7E80462F43073
-- expected_values:
-    AUDI_WARM_UPS: 117
-  response: 7E80462F43075
-- expected_values:
-    AUDI_WARM_UPS: 127
-  response: 7E80462F4307F
-- expected_values:
-    AUDI_WARM_UPS: 128
-  response: 7E80462F43080
-- expected_values:
     AUDI_WARM_UPS: 255
   response: 7E80462F430FF
