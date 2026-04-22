@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222006
+test_cases:
+- expected_values:
+    AUDI_PQ35_OIL_FILL_LEVEL: 5.28
+  response: '7E8056220060058'
