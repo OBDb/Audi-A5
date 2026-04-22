@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22202A
+test_cases:
+- expected_values:
+    AUDI_PQ35_CHARGE_AIR_P_ACTUAL: 81.6
+  response: 7E80562202A03FC
+- expected_values:
+    AUDI_PQ35_CHARGE_AIR_P_ACTUAL: 81.68
+  response: 7E80562202A03FD
