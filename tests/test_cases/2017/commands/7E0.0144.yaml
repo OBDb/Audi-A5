@@ -1,5 +1,26 @@
 command_id: 7E0.0144
 test_cases:
 - expected_values:
+    EQ_RAT: 0.98616
+  response: 7E80441447E3A
+- expected_values:
+    EQ_RAT: 0.99745
+  response: 7E80441447FAC
+- expected_values:
+    EQ_RAT: 0.99818
+  response: 7E80441447FC4
+- expected_values:
+    EQ_RAT: 0.99861
+  response: 7E80441447FD2
+- expected_values:
     EQ_RAT: 0.99904
   response: 7E80441447FE0
+- expected_values:
+    EQ_RAT: 1.00618
+  response: 7E804414480CA
+- expected_values:
+    EQ_RAT: 1.01576
+  response: '7E80441448204'
+- expected_values:
+    EQ_RAT: 1.04555
+  response: 7E804414485D4

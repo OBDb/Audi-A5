@@ -1,8 +1,8 @@
 command_id: 710.77A.222A0F
 test_cases:
 - expected_values:
-    AUDI_SSB_AH: 22
-  response: 77A04622A0F16
+    AUDI_SSB_AH: 17
+  response: 77A04622A0F11
 - expected_values:
     AUDI_SSB_AH: 38
   response: 77A04622A0F26

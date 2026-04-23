@@ -1,5 +1,26 @@
 command_id: 7E0.7E8.2220A1
 test_cases:
 - expected_values:
+    AUDI_PQ35_CALCULATED_OIL_T: -40
+  response: 7E8056220A10078
+- expected_values:
+    AUDI_PQ35_CALCULATED_OIL_T: -40
+  response: 7E8056220A100E6
+- expected_values:
     AUDI_PQ35_CALCULATED_OIL_T: -39
   response: 7E8056220A10122
+- expected_values:
+    AUDI_PQ35_CALCULATED_OIL_T: -38
+  response: 7E8056220A10226
+- expected_values:
+    AUDI_PQ35_CALCULATED_OIL_T: -38
+  response: 7E8056220A1026C
+- expected_values:
+    AUDI_PQ35_CALCULATED_OIL_T: -38
+  response: 7E8056220A102A8
+- expected_values:
+    AUDI_PQ35_CALCULATED_OIL_T: -38
+  response: 7E8056220A102C6
+- expected_values:
+    AUDI_PQ35_CALCULATED_OIL_T: -37
+  response: 7E8056220A10320
