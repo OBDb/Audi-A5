@@ -1,6 +1,14 @@
 command_id: 7E0.221139
 test_cases:
 - expected_values:
+    AUDI_MEAN_INJ_QUANTITY: 0
+    AUDI_PQ35_AVG_CYCLE_CON: 0
+  response: '7E8056211390000'
+- expected_values:
+    AUDI_MEAN_INJ_QUANTITY: 9.85
+    AUDI_PQ35_AVG_CYCLE_CON: 9.85
+  response: 7E80562113903D9
+- expected_values:
     AUDI_MEAN_INJ_QUANTITY: 52.79
     AUDI_PQ35_AVG_CYCLE_CON: 52.79
   response: 7E805621139149F

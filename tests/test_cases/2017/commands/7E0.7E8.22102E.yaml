@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22102E
+test_cases:
+- expected_values:
+    AUDI_PQ35_ACCEL_PED_2: 374
+  response: 7E80562102E074E
