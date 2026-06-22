@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2211F2
+test_cases:
+- expected_values:
+    AUDI_PQ35_MAIN_INJ_START: 0
+  response: 7E8056211F20000
+- expected_values:
+    AUDI_PQ35_MAIN_INJ_START: -4.56
+  response: 7E8056211F2FF1C
+- expected_values:
+    AUDI_PQ35_MAIN_INJ_START: -4.54
+  response: 7E8056211F2FF1D
+- expected_values:
+    AUDI_PQ35_MAIN_INJ_START: -4.5
+  response: 7E8056211F2FF1F
+- expected_values:
+    AUDI_PQ35_MAIN_INJ_START: -4.42
+  response: 7E8056211F2FF23

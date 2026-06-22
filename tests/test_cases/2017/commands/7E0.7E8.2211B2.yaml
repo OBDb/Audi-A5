@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211B2
+test_cases:
+- expected_values:
+    AUDI_PQ35_DPF_IN_T: 119.7
+  response: 7E8056211B20F58
+- expected_values:
+    AUDI_PQ35_DPF_IN_T: 135.2
+  response: 7E8056211B20FF3
+- expected_values:
+    AUDI_PQ35_DPF_IN_T: 137
+  response: 7E8056211B21005

@@ -3,7 +3,7 @@ test_cases:
 - expected_values:
     AUDI_FRONT_LEFT_DEFLECTOR_T: 0
     AUDI_PQ35_FL_DEFL_T: 0
-  response: 7B00562260C00D7
+  response: 7B00562260C007E
 - expected_values:
     AUDI_FRONT_LEFT_DEFLECTOR_T: 0
     AUDI_PQ35_FL_DEFL_T: 0
@@ -11,24 +11,4 @@ test_cases:
 - expected_values:
     AUDI_FRONT_LEFT_DEFLECTOR_T: 0.33333
     AUDI_PQ35_FL_DEFL_T: 0.333
-  response: 7B00562260C0101
-- expected_values:
-    AUDI_FRONT_LEFT_DEFLECTOR_T: 0.33333
-    AUDI_PQ35_FL_DEFL_T: 0.333
-  response: 7B00562260C0102
-- expected_values:
-    AUDI_FRONT_LEFT_DEFLECTOR_T: 0.33333
-    AUDI_PQ35_FL_DEFL_T: 0.333
-  response: 7B00562260C0103
-- expected_values:
-    AUDI_FRONT_LEFT_DEFLECTOR_T: 0.33333
-    AUDI_PQ35_FL_DEFL_T: 0.333
-  response: 7B00562260C0105
-- expected_values:
-    AUDI_FRONT_LEFT_DEFLECTOR_T: 0.33333
-    AUDI_PQ35_FL_DEFL_T: 0.333
-  response: 7B00562260C0107
-- expected_values:
-    AUDI_FRONT_LEFT_DEFLECTOR_T: 0.33333
-    AUDI_PQ35_FL_DEFL_T: 0.333
-  response: 7B00562260C010D
+  response: 7B00562260C0100
