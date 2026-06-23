@@ -15,3 +15,13 @@ test_cases:
   response: |-
     77A100D622AB5021002
     77A211007FF07FF07FF
+- expected_values:
+    AUDI_RANGE_EST_CAN: 0
+  response: |-
+    77A100D622AB5029D02
+    77A219D000000000000
+- expected_values:
+    AUDI_RANGE_EST_CAN: 2047
+  response: |-
+    77A100D622AB5029F02
+    77A219F07FF07FF07FF
