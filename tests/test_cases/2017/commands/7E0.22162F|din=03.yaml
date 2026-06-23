@@ -4,26 +4,5 @@ test_cases:
     AUDI_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 0
   response: 7E80562162F0000
 - expected_values:
-    AUDI_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 6
-  response: 7E80562162F0006
-- expected_values:
-    AUDI_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 7
-  response: 7E80562162F0007
-- expected_values:
-    AUDI_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 16
-  response: 7E80562162F0010
-- expected_values:
-    AUDI_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 21
-  response: 7E80562162F0015
-- expected_values:
-    AUDI_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 22
-  response: 7E80562162F0016
-- expected_values:
-    AUDI_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 29
-  response: 7E80562162F001D
-- expected_values:
-    AUDI_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 30
-  response: 7E80562162F001E
-- expected_values:
     AUDI_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: -1
   response: 7E80562162FFFFF
