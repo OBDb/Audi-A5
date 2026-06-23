@@ -4,29 +4,8 @@ test_cases:
     AUDI_PQ35_TRANS_IN_SPD: 0
   response: 7E8056211F10000
 - expected_values:
-    AUDI_PQ35_TRANS_IN_SPD: 315
-  response: 7E8056211F10276
+    AUDI_PQ35_TRANS_IN_SPD: 1032
+  response: 7E8056211F10810
 - expected_values:
-    AUDI_PQ35_TRANS_IN_SPD: 570
-  response: 7E8056211F10474
-- expected_values:
-    AUDI_PQ35_TRANS_IN_SPD: 571
-  response: 7E8056211F10476
-- expected_values:
-    AUDI_PQ35_TRANS_IN_SPD: 572
-  response: 7E8056211F10478
-- expected_values:
-    AUDI_PQ35_TRANS_IN_SPD: 573
-  response: 7E8056211F1047A
-- expected_values:
-    AUDI_PQ35_TRANS_IN_SPD: 574
-  response: 7E8056211F1047C
-- expected_values:
-    AUDI_PQ35_TRANS_IN_SPD: 575
-  response: 7E8056211F1047E
-- expected_values:
-    AUDI_PQ35_TRANS_IN_SPD: 576
-  response: 7E8056211F10480
-- expected_values:
-    AUDI_PQ35_TRANS_IN_SPD: 578
-  response: 7E8056211F10484
+    AUDI_PQ35_TRANS_IN_SPD: 1139
+  response: 7E8056211F108E6
