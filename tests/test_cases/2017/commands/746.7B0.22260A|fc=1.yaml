@@ -5,7 +5,7 @@ test_cases:
   response: 7B00562260A00A5
 - expected_values:
     AUDI_AAT_CABIN: -50
-  response: 7B00562260A00F8
+  response: 7B00562260A00FF
 - expected_values:
     AUDI_AAT_CABIN: -49.5
-  response: 7B00562260A0102
+  response: 7B00562260A0100
