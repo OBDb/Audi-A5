@@ -4,8 +4,8 @@ test_cases:
     AUDI_PQ35_PRE_INJ_2_START: 0
   response: 7E8056214C80000
 - expected_values:
-    AUDI_PQ35_PRE_INJ_2_START: 10.14
-  response: 7E8056214C801FB
+    AUDI_PQ35_PRE_INJ_2_START: 15.28
+  response: 7E8056214C802FC
 - expected_values:
-    AUDI_PQ35_PRE_INJ_2_START: 16.16
-  response: 7E8056214C80328
+    AUDI_PQ35_PRE_INJ_2_START: 22.76
+  response: 7E8056214C80472
