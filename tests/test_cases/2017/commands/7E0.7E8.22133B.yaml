@@ -4,8 +4,8 @@ test_cases:
     AUDI_PQ35_CAMS_SPD: 0
   response: 7E80562133B0000
 - expected_values:
-    AUDI_PQ35_CAMS_SPD: 607.2
-  response: 7E80562133B07E8
+    AUDI_PQ35_CAMS_SPD: 612.6
+  response: 7E80562133B07FA
 - expected_values:
-    AUDI_PQ35_CAMS_SPD: 1186.5
-  response: 7E80562133B0F73
+    AUDI_PQ35_CAMS_SPD: 1296.6
+  response: 7E80562133B10E2
