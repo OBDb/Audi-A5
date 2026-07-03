@@ -5,9 +5,9 @@ test_cases:
     AUDI_PQ35_OIL_T_2: 29.2
   response: 7E8056211BE0BCF
 - expected_values:
-    AUDI_EOT_V2: 3583
-    AUDI_PQ35_OIL_T_2: 85.2
-  response: 7E8056211BE0DFF
+    AUDI_EOT_V2: 3071
+    AUDI_PQ35_OIL_T_2: 34
+  response: 7E8056211BE0BFF
 - expected_values:
     AUDI_EOT_V2: 3584
     AUDI_PQ35_OIL_T_2: 85.3
