@@ -15,6 +15,14 @@ test_cases:
 - expected_values:
     AUDI_MEAN_INJ_QUANTITY: 0
     AUDI_PQ35_AVG_CYCLE_CON: 0
+  response: '7E80762113900000522'
+- expected_values:
+    AUDI_MEAN_INJ_QUANTITY: 0
+    AUDI_PQ35_AVG_CYCLE_CON: 0
+  response: '7E80762113900000534'
+- expected_values:
+    AUDI_MEAN_INJ_QUANTITY: 0
+    AUDI_PQ35_AVG_CYCLE_CON: 0
   response: '7E80762113900000572'
 - expected_values:
     AUDI_MEAN_INJ_QUANTITY: 0
