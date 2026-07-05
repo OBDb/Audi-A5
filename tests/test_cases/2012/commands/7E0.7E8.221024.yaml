@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221024
+test_cases:
+- expected_values:
+    AUDI_MQB_AIR_MASS_1: 13.4
+  response: '7E8056210240086'
+- expected_values:
+    AUDI_MQB_AIR_MASS_1: 14
+  response: 7E805621024008C
