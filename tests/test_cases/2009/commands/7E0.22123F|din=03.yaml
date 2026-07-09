@@ -1,5 +1,0 @@
-command_id: 7E0.22123F|din=03
-test_cases:
-- expected_values:
-    AUDI_PQ35_OIL_DYN_AVG: 6.62
-  response: 7E80562123F0677

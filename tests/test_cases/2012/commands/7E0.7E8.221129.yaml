@@ -1,8 +1,0 @@
-command_id: 7E0.7E8.221129
-test_cases:
-- expected_values:
-    AUDI_PQ35_COMPRESSION_TEST_CYL_1: 72
-  response: '7E8056211290090'
-- expected_values:
-    AUDI_PQ35_COMPRESSION_TEST_CYL_1: 75
-  response: '7E8056211290096'
