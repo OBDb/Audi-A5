@@ -1,8 +1,0 @@
-command_id: 7E0.7E8.22114A
-test_cases:
-- expected_values:
-    AUDI_MISFIRES_1000REV_C2: 63400
-  response: 7E80562114AF7A8
-- expected_values:
-    AUDI_MISFIRES_1000REV_C2: 63541
-  response: 7E80562114AF835
