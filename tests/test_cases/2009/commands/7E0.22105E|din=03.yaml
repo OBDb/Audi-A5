@@ -1,0 +1,11 @@
+command_id: 7E0.22105E|din=03
+test_cases:
+- expected_values:
+    AUDI_PQ35_BAT_V_2: 14.02
+  response: 7E80562105E02BD
+- expected_values:
+    AUDI_PQ35_BAT_V_2: 14.08
+  response: 7E80562105E02C0
+- expected_values:
+    AUDI_PQ35_BAT_V_2: 14.14
+  response: 7E80562105E02C3

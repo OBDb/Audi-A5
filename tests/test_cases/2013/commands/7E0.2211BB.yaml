@@ -1,0 +1,23 @@
+command_id: 7E0.2211BB
+test_cases:
+- expected_values:
+    AUDI_OIL_CRIT: 3.4508
+  response: 7E8056211BB21B3
+- expected_values:
+    AUDI_OIL_CRIT: 3.4996
+  response: 7E8056211BB222D
+- expected_values:
+    AUDI_OIL_CRIT: 4.0204
+  response: 7E8056211BB2743
+- expected_values:
+    AUDI_OIL_CRIT: 4.088
+  response: 7E8056211BB27EC
+- expected_values:
+    AUDI_OIL_CRIT: 4.3948
+  response: 7E8056211BB2AEB
+- expected_values:
+    AUDI_OIL_CRIT: 4.3952
+  response: 7E8056211BB2AEC
+- expected_values:
+    AUDI_OIL_CRIT: 5.7572
+  response: 7E8056211BB3839

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22133B
+test_cases:
+- expected_values:
+    AUDI_PQ35_CAMS_SPD: 510.9
+  response: 7E80562133B06A7
+- expected_values:
+    AUDI_PQ35_CAMS_SPD: 534.6
+  response: 7E80562133B06F6
+- expected_values:
+    AUDI_PQ35_CAMS_SPD: 696
+  response: 7E80562133B0910
+- expected_values:
+    AUDI_PQ35_CAMS_SPD: 1053.6
+  response: 7E80562133B0DB8

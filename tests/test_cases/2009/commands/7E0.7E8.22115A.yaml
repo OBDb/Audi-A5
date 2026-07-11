@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22115A
+test_cases:
+- expected_values:
+    AUDI_PQ35_DPF_FUEL_CON_REGEN: 19.75
+  response: 7E80562115A07B7
+- expected_values:
+    AUDI_PQ35_DPF_FUEL_CON_REGEN: 19.8
+  response: 7E80562115A07BC

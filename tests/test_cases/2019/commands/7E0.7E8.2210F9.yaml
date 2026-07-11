@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2210F9
+test_cases:
+- expected_values:
+    AUDI_PQ35_DPF_OUT_T: 53.9
+  response: 7E8056210F90CC6
+- expected_values:
+    AUDI_PQ35_DPF_OUT_T: 212.5
+  response: 7E8056210F912F8
+- expected_values:
+    AUDI_PQ35_DPF_OUT_T: 239.4
+  response: 7E8056210F91405
+- expected_values:
+    AUDI_PQ35_DPF_OUT_T: 295.4
+  response: 7E8056210F91635
