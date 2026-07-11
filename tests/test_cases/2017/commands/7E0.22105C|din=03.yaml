@@ -1,0 +1,11 @@
+command_id: 7E0.22105C|din=03
+test_cases:
+- expected_values:
+    AUDI_PQ35_GEN_LOAD: 0
+  response: 7E80562105C0000
+- expected_values:
+    AUDI_PQ35_GEN_LOAD: 48.32
+  response: 7E80562105C12E0
+- expected_values:
+    AUDI_PQ35_GEN_LOAD: 54.76
+  response: 7E80562105C1564

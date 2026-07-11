@@ -1,0 +1,11 @@
+command_id: 7E0.22178C|din=03
+test_cases:
+- expected_values:
+    AUDI_PQ35_OIL_ASH_RESIDUE: 81.2
+  response: 7E80562178C032C
+- expected_values:
+    AUDI_PQ35_OIL_ASH_RESIDUE: 81.3
+  response: 7E80562178C032D
+- expected_values:
+    AUDI_PQ35_OIL_ASH_RESIDUE: 81.4
+  response: 7E80562178C032E
