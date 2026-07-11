@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22112B
+test_cases:
+- expected_values:
+    AUDI_PQ35_COMP_TEST_CYL_3: 311
+  response: 7E80562112B026E
+- expected_values:
+    AUDI_PQ35_COMP_TEST_CYL_3: 314.5
+  response: 7E80562112B0275
+- expected_values:
+    AUDI_PQ35_COMP_TEST_CYL_3: 320.5
+  response: 7E80562112B0281
+- expected_values:
+    AUDI_PQ35_COMP_TEST_CYL_3: 325.5
+  response: 7E80562112B028B
+- expected_values:
+    AUDI_PQ35_COMP_TEST_CYL_3: 331
+  response: 7E80562112B0296

@@ -1,0 +1,14 @@
+command_id: 7E0.22112C
+test_cases:
+- expected_values:
+    AUDI_ACT: 5.16
+    AUDI_PQ35_COMP_TEST_CYL_4: 258
+  response: 7E80562112C0204
+- expected_values:
+    AUDI_ACT: 7.68
+    AUDI_PQ35_COMP_TEST_CYL_4: 384
+  response: 7E80562112C0300
+- expected_values:
+    AUDI_ACT: 0
+    AUDI_PQ35_COMP_TEST_CYL_4: -0.5
+  response: 7E80562112CFFFF

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22214D
+test_cases:
+- expected_values:
+    AUDI_MQB_DL382_CLUTCH_2_P: 0
+  response: 7E90462214D0A

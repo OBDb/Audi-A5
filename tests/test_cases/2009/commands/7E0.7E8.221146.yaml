@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221146
+test_cases:
+- expected_values:
+    AUDI_MISFIRES_TOTAL: 4028
+  response: 7E8056211460FBC
+- expected_values:
+    AUDI_MISFIRES_TOTAL: 4879
+  response: 7E805621146130F
+- expected_values:
+    AUDI_MISFIRES_TOTAL: 4898
+  response: '7E8056211461322'
