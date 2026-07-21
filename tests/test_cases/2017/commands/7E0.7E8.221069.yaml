@@ -7,5 +7,5 @@ test_cases:
     AUDI_PQ35_ENG_START_QTY: 17.86
   response: 7E80562106906FA
 - expected_values:
-    AUDI_PQ35_ENG_START_QTY: 20.87
-  response: '7E8056210690827'
+    AUDI_PQ35_ENG_START_QTY: 20.56
+  response: '7E8056210690808'
