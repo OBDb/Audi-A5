@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     AUDI_ATF_T: 58
   response: '7E90462210462'
+- expected_values:
+    AUDI_ATF_T: 77
+  response: '7E90462210475'
+- expected_values:
+    AUDI_ATF_T: 82
+  response: 7E9046221047A
