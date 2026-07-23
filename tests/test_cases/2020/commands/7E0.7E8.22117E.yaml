@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     AUDI_PQ35_TURB_ACT_1_B1: 0.34
   response: 7E80562117E0022
+- expected_values:
+    AUDI_PQ35_TURB_ACT_1_B1: 0.35
+  response: 7E80562117E0023
