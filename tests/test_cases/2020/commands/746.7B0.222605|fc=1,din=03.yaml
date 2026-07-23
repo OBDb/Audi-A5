@@ -20,3 +20,7 @@ test_cases:
     AUDI_CLIMATE_REFRIG_P: 10.6
     AUDI_PQ35_REF_P: 10.6
   response: 7B00462260535
+- expected_values:
+    AUDI_CLIMATE_REFRIG_P: 11
+    AUDI_PQ35_REF_P: 11
+  response: 7B00462260537
