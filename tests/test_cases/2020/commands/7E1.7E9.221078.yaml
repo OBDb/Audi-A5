@@ -1,11 +1,22 @@
 command_id: 7E1.7E9.221078
 test_cases:
 - expected_values:
+    AUDI_PQ35_CLUTCH_2_CHAR_CURVE_SHIFT: 0.25088
+  response: |-
+    221078
+    7E9056210780001
+- expected_values:
     AUDI_PQ35_CLUTCH_2_CHAR_CURVE_SHIFT: 0
   response: '7E9056210780000'
 - expected_values:
     AUDI_PQ35_CLUTCH_2_CHAR_CURVE_SHIFT: 0.75264
   response: '7E9056210780003'
 - expected_values:
+    AUDI_PQ35_CLUTCH_2_CHAR_CURVE_SHIFT: 1.00352
+  response: '7E9056210780004'
+- expected_values:
     AUDI_PQ35_CLUTCH_2_CHAR_CURVE_SHIFT: -1.75714
   response: 7E905621078FFF8
+- expected_values:
+    AUDI_PQ35_CLUTCH_2_CHAR_CURVE_SHIFT: -0.50274
+  response: 7E905621078FFFD

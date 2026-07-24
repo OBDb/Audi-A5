@@ -1,6 +1,11 @@
 command_id: 7E1.7E9.22214D
 test_cases:
 - expected_values:
+    AUDI_MQB_DL382_CLUTCH_2_P: 7.2
+  response: |-
+    22214D
+    7E90462214D52
+- expected_values:
     AUDI_MQB_DL382_CLUTCH_2_P: 0
   response: 7E90462214D0A
 - expected_values:
@@ -9,6 +14,9 @@ test_cases:
 - expected_values:
     AUDI_MQB_DL382_CLUTCH_2_P: 1.9
   response: 7E90462214D1D
+- expected_values:
+    AUDI_MQB_DL382_CLUTCH_2_P: 3.7
+  response: 7E90462214D2F
 - expected_values:
     AUDI_MQB_DL382_CLUTCH_2_P: 8
   response: 7E90462214D5A
