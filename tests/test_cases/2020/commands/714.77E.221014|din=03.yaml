@@ -6,46 +6,6 @@ test_cases:
     AUDI_PQ35_AMB_T: 5
   response: 77E046210146E
 - expected_values:
-    AUDI_AAT: 67
-    AUDI_DASH_AMBIENT_AIR_T: 8.5
-    AUDI_PQ35_AMB_T: 8.5
-  response: '77E0462101475'
-- expected_values:
-    AUDI_AAT: 93
-    AUDI_DASH_AMBIENT_AIR_T: 21.5
-    AUDI_PQ35_AMB_T: 21.5
-  response: 77E046210148F
-- expected_values:
-    AUDI_AAT: 99
-    AUDI_DASH_AMBIENT_AIR_T: 24.5
-    AUDI_PQ35_AMB_T: 24.5
-  response: '77E0462101495'
-- expected_values:
-    AUDI_AAT: 100
-    AUDI_DASH_AMBIENT_AIR_T: 25
-    AUDI_PQ35_AMB_T: 25
-  response: '77E0462101496'
-- expected_values:
-    AUDI_AAT: 107
-    AUDI_DASH_AMBIENT_AIR_T: 28.5
-    AUDI_PQ35_AMB_T: 28.5
-  response: 77E046210149D
-- expected_values:
-    AUDI_AAT: 108
-    AUDI_DASH_AMBIENT_AIR_T: 29
-    AUDI_PQ35_AMB_T: 29
-  response: 77E046210149E
-- expected_values:
-    AUDI_AAT: 109
-    AUDI_DASH_AMBIENT_AIR_T: 29.5
-    AUDI_PQ35_AMB_T: 29.5
-  response: 77E046210149F
-- expected_values:
-    AUDI_AAT: 111
-    AUDI_DASH_AMBIENT_AIR_T: 30.5
-    AUDI_PQ35_AMB_T: 30.5
-  response: 77E04621014A1
-- expected_values:
     AUDI_AAT: 113
     AUDI_DASH_AMBIENT_AIR_T: 31.5
     AUDI_PQ35_AMB_T: 31.5
