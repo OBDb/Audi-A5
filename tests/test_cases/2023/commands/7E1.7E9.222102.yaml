@@ -1,0 +1,32 @@
+command_id: 7E1.7E9.222102
+test_cases:
+- expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 0
+  response: '7E9056221020000'
+- expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 902
+  response: 7E9056221020E18
+- expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 1084
+  response: 7E90562210210F0
+- expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 1248
+  response: '7E9056221021380'
+- expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 1358
+  response: '7E9056221021538'
+- expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 1362
+  response: '7E9056221021548'
+- expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 1635
+  response: 7E905622102198C
+- expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 1767
+  response: 7E9056221021B9C
+- expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 1795
+  response: 7E9056221021C0C
+- expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 2228
+  response: 7E90562210222D0

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221419
+test_cases:
+- expected_values:
+    AUDI_MQB_DL382_STIFFNESS_POINT_P_CLUTCH_1: 3.613
+  response: 7E9056214190E1D
