@@ -1,32 +1,11 @@
 command_id: 7E0.7E8.222029
 test_cases:
 - expected_values:
-    AUDI_PQ35_CHARGE_AIR_P_SPECIFIED: 63.6
-  response: 7E805622029031B
-- expected_values:
-    AUDI_PQ35_CHARGE_AIR_P_SPECIFIED: 63.68
-  response: 7E805622029031C
-- expected_values:
-    AUDI_PQ35_CHARGE_AIR_P_SPECIFIED: 63.76
-  response: 7E805622029031D
-- expected_values:
-    AUDI_PQ35_CHARGE_AIR_P_SPECIFIED: 64.8
-  response: 7E805622029032A
-- expected_values:
-    AUDI_PQ35_CHARGE_AIR_P_SPECIFIED: 64.88
-  response: 7E805622029032B
-- expected_values:
-    AUDI_PQ35_CHARGE_AIR_P_SPECIFIED: 64.96
-  response: 7E805622029032C
-- expected_values:
-    AUDI_PQ35_CHARGE_AIR_P_SPECIFIED: 65.04
-  response: 7E805622029032D
-- expected_values:
-    AUDI_PQ35_CHARGE_AIR_P_SPECIFIED: 70.24
-  response: 7E805622029036E
+    AUDI_PQ35_CHARGE_AIR_P_SPECIFIED: 63.36
+  response: '7E8056220290318'
 - expected_values:
     AUDI_PQ35_CHARGE_AIR_P_SPECIFIED: 78.64
   response: 7E80562202903D7
 - expected_values:
-    AUDI_PQ35_CHARGE_AIR_P_SPECIFIED: 88.4
-  response: '7E8056220290451'
+    AUDI_PQ35_CHARGE_AIR_P_SPECIFIED: 147.04
+  response: 7E805622029072E

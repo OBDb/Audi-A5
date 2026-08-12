@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.220302
+test_cases:
+- expected_values:
+    AUDI_DRIVE_TIME: 285.75
+  response: '7E9056203020477'
+- expected_values:
+    AUDI_DRIVE_TIME: 286
+  response: '7E9056203020478'
+- expected_values:
+    AUDI_DRIVE_TIME: 286.25
+  response: '7E9056203020479'
+- expected_values:
+    AUDI_DRIVE_TIME: 291.75
+  response: 7E905620302048F
+- expected_values:
+    AUDI_DRIVE_TIME: 293.5
+  response: '7E9056203020496'
+- expected_values:
+    AUDI_DRIVE_TIME: 293.75
+  response: '7E9056203020497'
