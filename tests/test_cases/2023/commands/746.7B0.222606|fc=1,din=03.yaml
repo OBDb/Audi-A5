@@ -1,0 +1,22 @@
+command_id: 746.7B0.222606|fc=1,din=03
+test_cases:
+- expected_values:
+    AUDI_CLIMATE_RAD_FAN_ACT_DUTY: 0
+    AUDI_HVAC_FAN1_ACT: 10
+    AUDI_PQ35_RAD_FAN_DUTY: 0
+  response: 7B0056226060064
+- expected_values:
+    AUDI_CLIMATE_RAD_FAN_ACT_DUTY: 0.4
+    AUDI_HVAC_FAN1_ACT: 50
+    AUDI_PQ35_RAD_FAN_DUTY: 0.4
+  response: 7B00562260601F4
+- expected_values:
+    AUDI_CLIMATE_RAD_FAN_ACT_DUTY: 0.8
+    AUDI_HVAC_FAN1_ACT: 54
+    AUDI_PQ35_RAD_FAN_DUTY: 0.8
+  response: 7B005622606021C
+- expected_values:
+    AUDI_CLIMATE_RAD_FAN_ACT_DUTY: 1.6
+    AUDI_HVAC_FAN1_ACT: 126
+    AUDI_PQ35_RAD_FAN_DUTY: 1.6
+  response: 7B00562260604EC
