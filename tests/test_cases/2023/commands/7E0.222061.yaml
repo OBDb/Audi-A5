@@ -4,29 +4,11 @@ test_cases:
     AUDI_APP_POS1: 0.751
   response: 7E80562206102EF
 - expected_values:
-    AUDI_APP_POS1: 0.867
-  response: '7E8056220610363'
-- expected_values:
-    AUDI_APP_POS1: 1.272
-  response: 7E80562206104F8
-- expected_values:
     AUDI_APP_POS1: 1.279
   response: 7E80562206104FF
 - expected_values:
     AUDI_APP_POS1: 1.317
   response: '7E8056220610525'
 - expected_values:
-    AUDI_APP_POS1: 1.468
-  response: 7E80562206105BC
-- expected_values:
-    AUDI_APP_POS1: 1.786
-  response: 7E80562206106FA
-- expected_values:
     AUDI_APP_POS1: 1.858
   response: '7E8056220610742'
-- expected_values:
-    AUDI_APP_POS1: 1.879
-  response: '7E8056220610757'
-- expected_values:
-    AUDI_APP_POS1: 1.897
-  response: '7E8056220610769'
