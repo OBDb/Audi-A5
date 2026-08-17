@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     AUDI_PQ35_TIMING_ANGLE_RETARDATION_CYL_2: 47.625
   response: 7E80562200BFF8F
+- expected_values:
+    AUDI_PQ35_TIMING_ANGLE_RETARDATION_CYL_2: 47.625
+  response: 7E80562200BFFB5
