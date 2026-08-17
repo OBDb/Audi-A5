@@ -15,3 +15,8 @@ test_cases:
   response: |-
     7E9100D621110000000
     7E9212700000000006F
+- expected_values:
+    AUDI_PQ35_WORKING_HOURS: 3635.06347
+  response: |-
+    7E9100D621110000000
+    7E92127000000000070
