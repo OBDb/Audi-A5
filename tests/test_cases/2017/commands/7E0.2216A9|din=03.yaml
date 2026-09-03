@@ -10,5 +10,5 @@ test_cases:
     AUDI_PQ35_ODO_2: 286720
   response: 7E8076216A900046000
 - expected_values:
-    AUDI_PQ35_ODO_2: 288512
-  response: 7E8076216A900046700
+    AUDI_PQ35_ODO_2: 288768
+  response: 7E8076216A900046800
