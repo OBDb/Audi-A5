@@ -10,6 +10,9 @@ test_cases:
     AUDI_MQB_AIR_MASS_1: 8.9
   response: '7E8056210240059'
 - expected_values:
+    AUDI_MQB_AIR_MASS_1: 11.8
+  response: '7E8056210240076'
+- expected_values:
     AUDI_MQB_AIR_MASS_1: 12.9
   response: '7E8056210240081'
 - expected_values:
@@ -18,3 +21,6 @@ test_cases:
 - expected_values:
     AUDI_MQB_AIR_MASS_1: 13.8
   response: 7E805621024008A
+- expected_values:
+    AUDI_MQB_AIR_MASS_1: 13.9
+  response: 7E805621024008B
