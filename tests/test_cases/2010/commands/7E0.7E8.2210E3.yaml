@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2210E3
 test_cases:
 - expected_values:
+    AUDI_PQ35_TRQ_RED_EXH_T: 0.3774
+  response: 7E8056210E30EBE
+- expected_values:
     AUDI_PQ35_TRQ_RED_EXH_T: 0.4159
   response: 7E8056210E3103F
 - expected_values:

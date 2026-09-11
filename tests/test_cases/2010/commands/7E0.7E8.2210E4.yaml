@@ -7,6 +7,12 @@ test_cases:
     AUDI_PQ35_REG_FACTOR: 1.5913
   response: 7E8056210E43E29
 - expected_values:
+    AUDI_PQ35_REG_FACTOR: 1.6472
+  response: 7E8056210E44058
+- expected_values:
+    AUDI_PQ35_REG_FACTOR: 1.6473
+  response: 7E8056210E44059
+- expected_values:
     AUDI_PQ35_REG_FACTOR: 1.6533
   response: 7E8056210E44095
 - expected_values:
