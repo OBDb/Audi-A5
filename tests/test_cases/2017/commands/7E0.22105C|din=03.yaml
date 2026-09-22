@@ -4,8 +4,8 @@ test_cases:
     AUDI_PQ35_GEN_LOAD: 0
   response: 7E80562105C0000
 - expected_values:
-    AUDI_PQ35_GEN_LOAD: 61.21
-  response: 7E80562105C17E9
+    AUDI_PQ35_GEN_LOAD: 74.09
+  response: 7E80562105C1CF1
 - expected_values:
     AUDI_PQ35_GEN_LOAD: 99.87
   response: 7E80562105C2703
