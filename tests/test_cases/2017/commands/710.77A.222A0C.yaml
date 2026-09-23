@@ -5,6 +5,6 @@ test_cases:
     AUDI_SSB_SOC: 19
   response: 77A04622A0C13
 - expected_values:
-    AUDI_MQB_BAT_CHG_COND: 88
-    AUDI_SSB_SOC: 88
-  response: 77A04622A0C58
+    AUDI_MQB_BAT_CHG_COND: 96
+    AUDI_SSB_SOC: 96
+  response: 77A04622A0C60
