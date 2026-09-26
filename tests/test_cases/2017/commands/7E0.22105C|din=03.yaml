@@ -1,11 +1,14 @@
 command_id: 7E0.22105C|din=03
 test_cases:
 - expected_values:
+    AUDI_BRAKE_P: 0
     AUDI_PQ35_GEN_LOAD: 0
   response: 7E80562105C0000
 - expected_values:
+    AUDI_BRAKE_P: 740.9
     AUDI_PQ35_GEN_LOAD: 74.09
   response: 7E80562105C1CF1
 - expected_values:
+    AUDI_BRAKE_P: 998.7
     AUDI_PQ35_GEN_LOAD: 99.87
   response: 7E80562105C2703
