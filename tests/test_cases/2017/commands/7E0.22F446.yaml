@@ -1,0 +1,11 @@
+command_id: 7E0.22F446
+test_cases:
+- expected_values:
+    AUDI_AAT_V3: 21
+  response: 7E80462F4463D
+- expected_values:
+    AUDI_AAT_V3: 22
+  response: 7E80462F4463E
+- expected_values:
+    AUDI_AAT_V3: 25
+  response: 7E80462F44641
