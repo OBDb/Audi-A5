@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211DF
+test_cases:
+- expected_values:
+    AUDI_POWERTRAIN_OVERALL: 0
+  response: 7E8056211DF0000
