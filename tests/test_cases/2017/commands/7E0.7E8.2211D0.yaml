@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211D0
+test_cases:
+- expected_values:
+    AUDI_TCO_1_ST: -19
+  response: 7E8056211D0159F
+- expected_values:
+    AUDI_TCO_1_ST: -14
+  response: 7E8056211D01A72
+- expected_values:
+    AUDI_TCO_1_ST: -13
+  response: 7E8056211D01BDA
+- expected_values:
+    AUDI_TCO_1_ST: -10
+  response: 7E8056211D01E64

@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22102A
+test_cases:
+- expected_values:
+    AUDI_CLU_CENTER_CENTRAL_T: -15332
+  response: 7E90562102A1CC4
+- expected_values:
+    AUDI_CLU_CENTER_CENTRAL_T: -14052
+  response: 7E90562102A1CC9
+- expected_values:
+    AUDI_CLU_CENTER_CENTRAL_T: -12260
+  response: 7E90562102A1CD0
