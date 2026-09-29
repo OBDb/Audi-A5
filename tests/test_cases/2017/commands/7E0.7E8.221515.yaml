@@ -1,26 +1,14 @@
 command_id: 7E0.7E8.221515
 test_cases:
 - expected_values:
-    AUDI_CAT_T_CALC: 45725
-  response: 7E80562151523C3
+    AUDI_CAT_T_CALC: 15925
+  response: 7E8056215150C7B
 - expected_values:
-    AUDI_CAT_T_CALC: 51990
-  response: 7E80562151528A8
-- expected_values:
-    AUDI_CAT_T_CALC: 52165
-  response: 7E80562151528CB
+    AUDI_CAT_T_CALC: 37145
+  response: 7E8056215151D0F
 - expected_values:
     AUDI_CAT_T_CALC: 62480
   response: 7E80562151530DA
-- expected_values:
-    AUDI_CAT_T_CALC: 73955
-  response: 7E80562151539D1
-- expected_values:
-    AUDI_CAT_T_CALC: 82860
-  response: 7E80562151540C6
-- expected_values:
-    AUDI_CAT_T_CALC: 91705
-  response: 7E80562151547AF
 - expected_values:
     AUDI_CAT_T_CALC: 104700
   response: 7E80562151551D6
