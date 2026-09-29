@@ -1,6 +1,12 @@
 command_id: 7E0.22F446
 test_cases:
 - expected_values:
+    AUDI_AAT_V3: 14
+  response: 7E80462F44636
+- expected_values:
+    AUDI_AAT_V3: 17
+  response: 7E80462F44639
+- expected_values:
     AUDI_AAT_V3: 18
   response: 7E80462F4463A
 - expected_values:

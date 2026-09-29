@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_LATERAL_ACCEL: 0.01
   response: '7E8056216440001'
+- expected_values:
+    AUDI_LATERAL_ACCEL: 0.02
+  response: '7E8056216440002'

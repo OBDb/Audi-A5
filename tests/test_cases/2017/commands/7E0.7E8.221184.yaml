@@ -1,11 +1,20 @@
 command_id: 7E0.7E8.221184
 test_cases:
 - expected_values:
+    AUDI_PSN_EDGE_REL_AD_CAM_1: -0.3125
+  response: 7E807621184FFFB10A4
+- expected_values:
+    AUDI_PSN_EDGE_REL_AD_CAM_1: -0.3125
+  response: 7E807621184FFFB570B
+- expected_values:
     AUDI_PSN_EDGE_REL_AD_CAM_1: -0.1875
   response: 7E807621184FFFD8000
 - expected_values:
     AUDI_PSN_EDGE_REL_AD_CAM_1: -0.125
   response: 7E807621184FFFED99A
+- expected_values:
+    AUDI_PSN_EDGE_REL_AD_CAM_1: -0.0625
+  response: 7E807621184FFFF0CCD
 - expected_values:
     AUDI_PSN_EDGE_REL_AD_CAM_1: -0.0625
   response: 7E807621184FFFF4000

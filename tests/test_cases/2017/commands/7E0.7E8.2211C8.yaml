@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_LOW_FUEL_P_ACT: 0
   response: 7E8056211C80000
+- expected_values:
+    AUDI_LOW_FUEL_P_ACT: 6.5
+  response: 7E8056211C80041

@@ -4,14 +4,8 @@ test_cases:
     AUDI_GEN_CURRENT: 9
   response: 77A05622A1C0000
 - expected_values:
-    AUDI_GEN_CURRENT: 48.6
-  response: 77A05622A1C018C
+    AUDI_GEN_CURRENT: 59.6
+  response: 77A05622A1C01FA
 - expected_values:
-    AUDI_GEN_CURRENT: 55.4
-  response: 77A05622A1C01D0
-- expected_values:
-    AUDI_GEN_CURRENT: 84
-  response: 77A05622A1C02EE
-- expected_values:
-    AUDI_GEN_CURRENT: 84.7
-  response: 77A05622A1C02F5
+    AUDI_GEN_CURRENT: 69
+  response: 77A05622A1C0258

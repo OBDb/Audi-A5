@@ -4,11 +4,23 @@ test_cases:
     AUDI_PSN_EDGE_REL_AD_CAM_2: 187.6875
   response: 7E8056211850BBB
 - expected_values:
+    AUDI_PSN_EDGE_REL_AD_CAM_2: 200.75
+  response: 7E8056211850C8C
+- expected_values:
     AUDI_PSN_EDGE_REL_AD_CAM_2: 293.1875
   response: '7E8056211851253'
+- expected_values:
+    AUDI_PSN_EDGE_REL_AD_CAM_2: 304
+  response: '7E8056211851300'
 - expected_values:
     AUDI_PSN_EDGE_REL_AD_CAM_2: 314.625
   response: 7E80562118513AA
 - expected_values:
+    AUDI_PSN_EDGE_REL_AD_CAM_2: 353.25
+  response: '7E8056211851614'
+- expected_values:
     AUDI_PSN_EDGE_REL_AD_CAM_2: 503.8125
   response: 7E8056211851F7D
+- expected_values:
+    AUDI_PSN_EDGE_REL_AD_CAM_2: 512
+  response: '7E8056211852000'

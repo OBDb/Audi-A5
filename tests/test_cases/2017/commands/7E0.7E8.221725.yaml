@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_EARLY_IGN_CNT_CYL_2: 12959
   response: 7E805621725329F
+- expected_values:
+    AUDI_EARLY_IGN_CNT_CYL_2: 12968
+  response: 7E80562172532A8

@@ -9,3 +9,15 @@ test_cases:
 - expected_values:
     AUDI_ECT_LINEAR: -47.98828
   response: '7E8056215130004'
+- expected_values:
+    AUDI_ECT_LINEAR: -47.97949
+  response: '7E8056215130007'
+- expected_values:
+    AUDI_ECT_LINEAR: -47.9707
+  response: 7E805621513000A
+- expected_values:
+    AUDI_ECT_LINEAR: -47.96484
+  response: 7E805621513000C
+- expected_values:
+    AUDI_ECT_LINEAR: 143.98324
+  response: 7E805621513FFFA
