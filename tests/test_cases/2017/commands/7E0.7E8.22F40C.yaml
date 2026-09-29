@@ -7,8 +7,23 @@ test_cases:
     AUDI_RPM: 840
   response: 7E80562F40C0D20
 - expected_values:
+    AUDI_RPM: 919
+  response: 7E80562F40C0E5C
+- expected_values:
+    AUDI_RPM: 1003
+  response: 7E80562F40C0FAC
+- expected_values:
     AUDI_RPM: 1007.5
   response: 7E80562F40C0FBE
+- expected_values:
+    AUDI_RPM: 1016.5
+  response: 7E80562F40C0FE2
+- expected_values:
+    AUDI_RPM: 1173
+  response: 7E80562F40C1254
+- expected_values:
+    AUDI_RPM: 1236.5
+  response: 7E80562F40C1352
 - expected_values:
     AUDI_RPM: 1300
   response: 7E80562F40C1450
