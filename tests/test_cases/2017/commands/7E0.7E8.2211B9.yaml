@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     AUDI_OIL_P_VLV_SWITCH: 56
   response: 7E8046211B938
+- expected_values:
+    AUDI_OIL_P_VLV_SWITCH: 88
+  response: 7E8046211B958
