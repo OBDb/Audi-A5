@@ -4,6 +4,9 @@ test_cases:
     AUDI_FUEL_PMP_ADPT: 0.2
   response: 7E8056211C90002
 - expected_values:
+    AUDI_FUEL_PMP_ADPT: 0.3
+  response: 7E8056211C90003
+- expected_values:
     AUDI_FUEL_PMP_ADPT: 0.4
   response: 7E8056211C90004
 - expected_values:

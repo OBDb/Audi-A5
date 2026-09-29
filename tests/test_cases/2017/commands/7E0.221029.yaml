@@ -4,6 +4,9 @@ test_cases:
     AUDI_APP_REDUCE_V: 0
   response: '7E8056210290000'
 - expected_values:
+    AUDI_APP_REDUCE_V: 119.2
+  response: '7E8056210290254'
+- expected_values:
     AUDI_APP_REDUCE_V: 170
   response: '7E8056210290352'
 - expected_values:
