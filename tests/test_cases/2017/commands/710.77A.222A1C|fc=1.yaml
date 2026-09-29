@@ -7,5 +7,5 @@ test_cases:
     AUDI_GEN_CURRENT: 59.6
   response: 77A05622A1C01FA
 - expected_values:
-    AUDI_GEN_CURRENT: 69
-  response: 77A05622A1C0258
+    AUDI_GEN_CURRENT: 67.2
+  response: 77A05622A1C0246

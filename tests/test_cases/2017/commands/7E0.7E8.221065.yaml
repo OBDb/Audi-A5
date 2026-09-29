@@ -1,29 +1,14 @@
 command_id: 7E0.7E8.221065
 test_cases:
 - expected_values:
-    AUDI_CYL_HEAD_T: 769.22
-  response: 7E8056210651AAD
+    AUDI_CYL_HEAD_T: 496.52
+  response: 7E80562106514C2
 - expected_values:
     AUDI_CYL_HEAD_T: 784.7
   response: 7E8056210651B03
 - expected_values:
-    AUDI_CYL_HEAD_T: 863.9
-  response: 7E8056210651CBB
-- expected_values:
-    AUDI_CYL_HEAD_T: 874.88
-  response: 7E8056210651CF8
-- expected_values:
     AUDI_CYL_HEAD_T: 1152.08
   response: 7E80562106522FC
-- expected_values:
-    AUDI_CYL_HEAD_T: 1310.3
-  response: 7E805621065266B
-- expected_values:
-    AUDI_CYL_HEAD_T: 1530.44
-  response: 7E8056210652B32
-- expected_values:
-    AUDI_CYL_HEAD_T: 2214.44
-  response: 7E8056210653A0A
 - expected_values:
     AUDI_CYL_HEAD_T: 2517.92
   response: 7E80562106540A0

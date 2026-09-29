@@ -4,20 +4,8 @@ test_cases:
     AUDI_ENG_TQ_7E1: 4
   response: '7E9056220020004'
 - expected_values:
-    AUDI_ENG_TQ_7E1: 6
-  response: '7E9056220020006'
-- expected_values:
-    AUDI_ENG_TQ_7E1: 118
-  response: '7E9056220020076'
-- expected_values:
-    AUDI_ENG_TQ_7E1: 126
-  response: 7E905622002007E
-- expected_values:
     AUDI_ENG_TQ_7E1: 65482
   response: 7E905622002FFCA
-- expected_values:
-    AUDI_ENG_TQ_7E1: 65486
-  response: 7E905622002FFCE
 - expected_values:
     AUDI_ENG_TQ_7E1: 65498
   response: 7E905622002FFDA
