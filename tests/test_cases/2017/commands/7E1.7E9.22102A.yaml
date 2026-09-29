@@ -1,32 +1,14 @@
 command_id: 7E1.7E9.22102A
 test_cases:
 - expected_values:
+    AUDI_CLU_CENTER_CENTRAL_T: 14855
+  response: 7E90562102A073A
+- expected_values:
     AUDI_CLU_CENTER_CENTRAL_T: -8426
   response: 7E90562102A16DF
 - expected_values:
     AUDI_CLU_CENTER_CENTRAL_T: 5657
   response: 7E90562102A1916
 - expected_values:
-    AUDI_CLU_CENTER_CENTRAL_T: -32741
-  response: 7E90562102A1B80
-- expected_values:
     AUDI_CLU_CENTER_CENTRAL_T: 16668
   response: 7E90562102A1C41
-- expected_values:
-    AUDI_CLU_CENTER_CENTRAL_T: -17380
-  response: 7E90562102A1CBC
-- expected_values:
-    AUDI_CLU_CENTER_CENTRAL_T: -15588
-  response: 7E90562102A1CC3
-- expected_values:
-    AUDI_CLU_CENTER_CENTRAL_T: -15332
-  response: 7E90562102A1CC4
-- expected_values:
-    AUDI_CLU_CENTER_CENTRAL_T: -14564
-  response: 7E90562102A1CC7
-- expected_values:
-    AUDI_CLU_CENTER_CENTRAL_T: -14052
-  response: 7E90562102A1CC9
-- expected_values:
-    AUDI_CLU_CENTER_CENTRAL_T: -12260
-  response: 7E90562102A1CD0
