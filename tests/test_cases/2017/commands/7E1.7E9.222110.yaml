@@ -7,5 +7,5 @@ test_cases:
     AUDI_ENG_SPEC_TQ_DURING: 65482
   response: 7E905622110FFCA
 - expected_values:
-    AUDI_ENG_SPEC_TQ_DURING: 65484
-  response: 7E905622110FFCC
+    AUDI_ENG_SPEC_TQ_DURING: 65506
+  response: 7E905622110FFE2
