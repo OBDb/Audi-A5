@@ -4,8 +4,20 @@ test_cases:
     AUDI_ANALYSIS_CLU_1_MAX_T: 3584
   response: 7E905621064000E
 - expected_values:
+    AUDI_ANALYSIS_CLU_1_MAX_T: 4096
+  response: '7E9056210640010'
+- expected_values:
+    AUDI_ANALYSIS_CLU_1_MAX_T: 11264
+  response: 7E905621064002C
+- expected_values:
     AUDI_ANALYSIS_CLU_1_MAX_T: 14848
   response: 7E905621064003A
 - expected_values:
+    AUDI_ANALYSIS_CLU_1_MAX_T: 22016
+  response: '7E9056210640056'
+- expected_values:
     AUDI_ANALYSIS_CLU_1_MAX_T: -4096
   response: 7E90562106400F0
+- expected_values:
+    AUDI_ANALYSIS_CLU_1_MAX_T: -12545
+  response: 7E905621064FFCE
