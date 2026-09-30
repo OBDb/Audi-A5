@@ -7,5 +7,5 @@ test_cases:
     AUDI_BATTERY_V: 58120
   response: 7E80562105A0B5A
 - expected_values:
-    AUDI_BATTERY_V: 61140
-  response: 7E80562105A0BF1
+    AUDI_BATTERY_V: 61200
+  response: 7E80562105A0BF4
