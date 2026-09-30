@@ -7,5 +7,5 @@ test_cases:
     AUDI_SEG_AD_MMV_ER_H_0: 0.12112
   response: 7E80562113801FC
 - expected_values:
-    AUDI_SEG_AD_MMV_ER_H_0: 0.61441
-  response: 7E8056211380A11
+    AUDI_SEG_AD_MMV_ER_H_0: 1.09459
+  response: 7E80562113811EF

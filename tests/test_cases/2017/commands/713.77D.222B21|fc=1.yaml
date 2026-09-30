@@ -20,3 +20,8 @@ test_cases:
   response: |-
     77D1009622B210D9AFF
     77D21FEFFFE00000000
+- expected_values:
+    AUDI_BRAKE_P_V2: 27.37164
+  response: |-
+    77D1009622B2111D7FF
+    77D21FEFFFE00000000

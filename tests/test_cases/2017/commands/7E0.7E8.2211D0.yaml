@@ -11,4 +11,4 @@ test_cases:
   response: 7E8056211D01BF8
 - expected_values:
     AUDI_TCO_1_ST: 28
-  response: 7E8056211D04498
+  response: 7E8056211D04493
