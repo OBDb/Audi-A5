@@ -4,11 +4,11 @@ test_cases:
     AUDI_CLU_CENTER_CENTRAL_T: 14855
   response: 7E90562102A073A
 - expected_values:
-    AUDI_CLU_CENTER_CENTRAL_T: -8426
-  response: 7E90562102A16DF
-- expected_values:
     AUDI_CLU_CENTER_CENTRAL_T: 5657
   response: 7E90562102A1916
+- expected_values:
+    AUDI_CLU_CENTER_CENTRAL_T: -1509
+  response: 7E90562102A1BFA
 - expected_values:
     AUDI_CLU_CENTER_CENTRAL_T: 16668
   response: 7E90562102A1C41

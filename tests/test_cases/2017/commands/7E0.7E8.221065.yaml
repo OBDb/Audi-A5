@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221065
 test_cases:
 - expected_values:
-    AUDI_CYL_HEAD_T: 496.52
-  response: 7E80562106514C2
+    AUDI_CYL_HEAD_T: 244.88
+  response: 7E8056210650F4C
 - expected_values:
     AUDI_CYL_HEAD_T: 784.7
   response: 7E8056210651B03
