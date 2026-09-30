@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22F40C
 test_cases:
 - expected_values:
-    AUDI_RPM: 0
+    A5_RPM: 0
   response: 7E80562F40C0000
 - expected_values:
-    AUDI_RPM: 703.5
+    A5_RPM: 703.5
   response: 7E80562F40C0AFE
 - expected_values:
-    AUDI_RPM: 1796.5
+    A5_RPM: 1796.5
   response: 7E80562F40C1C12

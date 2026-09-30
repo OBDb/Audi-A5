@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221164
+test_cases:
+- expected_values:
+    A5_PQ35_SRV_REGEN_DUR: 0
+  response: '7E8 07 62 11 64 00 00 00 00 '
+- expected_values:
+    A5_PQ35_SRV_REGEN_DUR: 0
+  response: '7E80762116400000000'

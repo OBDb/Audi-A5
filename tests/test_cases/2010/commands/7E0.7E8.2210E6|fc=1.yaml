@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2210E6|fc=1
+test_cases:
+- expected_values:
+    A5_EOT: -1
+  response: 7E8056210E63B18
+- expected_values:
+    A5_EOT: 1
+  response: 7E8056210E63D35
+- expected_values:
+    A5_EOT: 1
+  response: 7E8056210E63DA1
+- expected_values:
+    A5_EOT: 2
+  response: 7E8056210E63E27
+- expected_values:
+    A5_EOT: 2
+  response: 7E8056210E63EC5
+- expected_values:
+    A5_EOT: 3
+  response: 7E8056210E63F38

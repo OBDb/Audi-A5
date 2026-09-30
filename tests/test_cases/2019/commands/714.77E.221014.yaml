@@ -1,0 +1,8 @@
+command_id: 714.77E.221014
+test_cases:
+- expected_values:
+    A5_AAT: -1.5
+  response: '77E0462101461'
+- expected_values:
+    A5_AAT: 20.5
+  response: 77E046210148D

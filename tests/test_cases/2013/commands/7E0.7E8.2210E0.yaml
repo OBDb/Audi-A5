@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2210E0
+test_cases:
+- expected_values:
+    A5_ODO_2: 161796
+  response: 7E8076210E000027804
+- expected_values:
+    A5_ODO_2: 162149
+  response: 7E8076210E000027965
+- expected_values:
+    A5_ODO_2: 162265
+  response: 7E8076210E0000279D9

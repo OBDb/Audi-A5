@@ -1,16 +1,16 @@
 command_id: 7E0.7E8.2214D1
 test_cases:
 - expected_values:
-    AUDI_PQ35_PRE_INJ_2_DURATION: 0
+    A5_PQ35_PRE_INJ_2_DURATION: 0
   response: |-
     7E8056210F10000
     7E8056214D10000
 - expected_values:
-    AUDI_PQ35_PRE_INJ_2_DURATION: 0
+    A5_PQ35_PRE_INJ_2_DURATION: 0
   response: 7E8056214D10000
 - expected_values:
-    AUDI_PQ35_PRE_INJ_2_DURATION: 0.2036
+    A5_PQ35_PRE_INJ_2_DURATION: 0.2036
   response: 7E8056214D101FD
 - expected_values:
-    AUDI_PQ35_PRE_INJ_2_DURATION: 0.4332
+    A5_PQ35_PRE_INJ_2_DURATION: 0.4332
   response: 7E8056214D1043B

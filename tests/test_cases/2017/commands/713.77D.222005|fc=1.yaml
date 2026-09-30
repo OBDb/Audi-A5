@@ -1,14 +1,14 @@
 command_id: 713.77D.222005|fc=1
 test_cases:
 - expected_values:
-    AUDI_P_BRAKE_SERVO_UNIT: -956.25
+    A5_P_BRAKE_SERVO_UNIT: -956.25
   response: 77D05622005C43C
 - expected_values:
-    AUDI_P_BRAKE_SERVO_UNIT: -927.5625
+    A5_P_BRAKE_SERVO_UNIT: -927.5625
   response: 77D05622005C607
 - expected_values:
-    AUDI_P_BRAKE_SERVO_UNIT: -898.3125
+    A5_P_BRAKE_SERVO_UNIT: -898.3125
   response: 77D05622005C7DB
 - expected_values:
-    AUDI_P_BRAKE_SERVO_UNIT: -749.8125
+    A5_P_BRAKE_SERVO_UNIT: -749.8125
   response: 77D05622005D123

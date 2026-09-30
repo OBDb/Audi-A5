@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221128
 test_cases:
 - expected_values:
-    AUDI_CAM_ADPT_EXH_BANK_1: 2.58
+    A5_CAM_ADPT_EXH_BANK_1: 2.83447
   response: '7E8056211280081'
 - expected_values:
-    AUDI_CAM_ADPT_EXH_BANK_1: 4.94
+    A5_CAM_ADPT_EXH_BANK_1: 5.42725
   response: 7E80562112800F7

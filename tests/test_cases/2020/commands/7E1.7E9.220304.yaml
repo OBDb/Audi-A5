@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.220304
+test_cases:
+- expected_values:
+    A5_DRIVE_TIME_SPORT: 11
+  response: 7E9046203040B
+- expected_values:
+    A5_DRIVE_TIME_SPORT: 15
+  response: 7E9046203040F
+- expected_values:
+    A5_DRIVE_TIME_SPORT: 16
+  response: '7E90462030410'

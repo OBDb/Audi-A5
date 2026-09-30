@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2211CC
+test_cases:
+- expected_values:
+    A5_BOOST_REGULATOR_FEEDBACK: 29.77
+  response: 7E8056211CC0BA1
+- expected_values:
+    A5_BOOST_REGULATOR_FEEDBACK: 72.82
+  response: |-
+    7E8056211CC1C72
+    7E80341056F
+- expected_values:
+    A5_BOOST_REGULATOR_FEEDBACK: 73.77
+  response: |-
+    7E8056211CC1CD1
+    7E80441100C0B
+- expected_values:
+    A5_BOOST_REGULATOR_FEEDBACK: 81.9
+  response: 7E8056211CC1FFE
+- expected_values:
+    A5_BOOST_REGULATOR_FEEDBACK: 81.92
+  response: 7E8056211CC2000
+- expected_values:
+    A5_BOOST_REGULATOR_FEEDBACK: 81.93
+  response: |-
+    7E8056211CC2001
+    7E804410C0CFA

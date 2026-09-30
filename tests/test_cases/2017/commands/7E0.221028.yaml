@@ -1,8 +1,0 @@
-command_id: 7E0.221028
-test_cases:
-- expected_values:
-    AUDI_DOWNSHIFT_ADAPT_V: 0
-  response: '7E8056210280000'
-- expected_values:
-    AUDI_DOWNSHIFT_ADAPT_V: 0.2
-  response: '7E8056210280001'

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221139
+test_cases:
+- expected_values:
+    A5_MEAN_INJ_QUANTITY: -44.26
+  response: 7E805621139EEB6
+- expected_values:
+    A5_MEAN_INJ_QUANTITY: -33.39
+  response: 7E805621139F2F5
+- expected_values:
+    A5_MEAN_INJ_QUANTITY: -33.19
+  response: 7E805621139F309
