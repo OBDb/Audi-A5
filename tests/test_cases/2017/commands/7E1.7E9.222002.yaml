@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.222002
 test_cases:
 - expected_values:
-    AUDI_ENG_TQ_7E1: 4
-  response: '7E9056220020004'
+    AUDI_ENG_TQ_7E1: 0
+  response: '7E9056220020000'
 - expected_values:
     AUDI_ENG_TQ_7E1: 65482
   response: 7E905622002FFCA
