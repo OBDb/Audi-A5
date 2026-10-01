@@ -7,5 +7,5 @@ test_cases:
     A5_INJ_AMOUNT_DEV_CYL_5: -0.32
   response: 7E805621107FFE0
 - expected_values:
-    A5_INJ_AMOUNT_DEV_CYL_5: -0.02
-  response: 7E805621107FFFE
+    A5_INJ_AMOUNT_DEV_CYL_5: -0.01
+  response: 7E805621107FFFF

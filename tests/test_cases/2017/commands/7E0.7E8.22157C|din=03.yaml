@@ -4,5 +4,5 @@ test_cases:
     A5_DPF_STATISTICS_T: 181.4
   response: 7E80562157C11C1
 - expected_values:
-    A5_DPF_STATISTICS_T: 184.2
-  response: 7E80562157C11DD
+    A5_DPF_STATISTICS_T: 184.4
+  response: 7E80562157C11DF

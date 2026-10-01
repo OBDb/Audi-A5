@@ -7,6 +7,9 @@ test_cases:
     A5_TCM_DRAG_TQ: 1
   response: '7E9056210210001'
 - expected_values:
+    A5_TCM_DRAG_TQ: 7
+  response: '7E9056210210007'
+- expected_values:
     A5_TCM_DRAG_TQ: 15
   response: 7E905621021000F
 - expected_values:
