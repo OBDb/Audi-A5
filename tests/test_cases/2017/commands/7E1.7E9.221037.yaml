@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221037
+test_cases:
+- expected_values:
+    A5_CURRENT_SOLENOID: 0
+  response: '7E9056210370000'
+- expected_values:
+    A5_CURRENT_SOLENOID: 1000
+  response: '7E9056210372710'

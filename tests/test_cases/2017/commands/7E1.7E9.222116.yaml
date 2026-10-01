@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.222116
+test_cases:
+- expected_values:
+    A5_ACCEL_7E1: 0
+  response: '7E9056221160000'
+- expected_values:
+    A5_ACCEL_7E1: -0.9
+  response: 7E905622116FFF7
+- expected_values:
+    A5_ACCEL_7E1: -0.1
+  response: 7E905622116FFFF

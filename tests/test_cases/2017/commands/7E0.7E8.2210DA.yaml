@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2210DA
+test_cases:
+- expected_values:
+    A5_INJ_2_RAIL_P_2: 0.0072
+  response: 7E8056210DA0090

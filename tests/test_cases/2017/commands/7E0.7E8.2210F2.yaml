@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2210F2
+test_cases:
+- expected_values:
+    A5_SUM_MIS_CNT: 0
+  response: 7E8056210F20000

@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221033
+test_cases:
+- expected_values:
+    A5_TIME_SINCE_SHIFT: 30
+  response: '7E90462103301'
+- expected_values:
+    A5_TIME_SINCE_SHIFT: 7650
+  response: 7E904621033FF

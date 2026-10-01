@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221092
+test_cases:
+- expected_values:
+    A5_CAM_SPD: 0
+  response: '7E8056210920000'
+- expected_values:
+    A5_CAM_SPD: 767.5
+  response: 7E8056210920BFE
+- expected_values:
+    A5_CAM_SPD: 777
+  response: 7E8056210920C24

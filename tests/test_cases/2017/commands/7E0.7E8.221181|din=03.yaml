@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.221181|din=03
+test_cases:
+- expected_values:
+    A5_CHG_ADJUSTER_OUTPUT: 0
+  response: '7E8056211810000'
+- expected_values:
+    A5_CHG_ADJUSTER_OUTPUT: 2.65
+  response: '7E8056211810109'
+- expected_values:
+    A5_CHG_ADJUSTER_OUTPUT: 3.88
+  response: '7E8056211810184'
+- expected_values:
+    A5_CHG_ADJUSTER_OUTPUT: 5.37
+  response: '7E8056211810219'
+- expected_values:
+    A5_CHG_ADJUSTER_OUTPUT: 5.67
+  response: '7E8056211810237'
+- expected_values:
+    A5_CHG_ADJUSTER_OUTPUT: 6.11
+  response: '7E8056211810263'
+- expected_values:
+    A5_CHG_ADJUSTER_OUTPUT: 8.15
+  response: 7E805621181032F
+- expected_values:
+    A5_CHG_ADJUSTER_OUTPUT: 8.21
+  response: '7E8056211810335'
+- expected_values:
+    A5_CHG_ADJUSTER_OUTPUT: -18.84
+  response: 7E805621181F8A4
+- expected_values:
+    A5_CHG_ADJUSTER_OUTPUT: -1.68
+  response: 7E805621181FF58

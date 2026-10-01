@@ -1,0 +1,8 @@
+command_id: 710.77A.222A18|fc=1
+test_cases:
+- expected_values:
+    A5_ENTIRE_ENERGY: 28153.4
+  response: 77A06622A18044BBE
+- expected_values:
+    A5_ENTIRE_ENERGY: 28153.7
+  response: 77A06622A18044BC1

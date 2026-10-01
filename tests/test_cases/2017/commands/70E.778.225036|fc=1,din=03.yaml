@@ -1,0 +1,47 @@
+command_id: 70E.778.225036|fc=1,din=03
+test_cases:
+- expected_values:
+    A5_HUMIDITY_SENS_REL: 49.5
+  response: |-
+    778100C625036007700
+    778216401E3024F00AA
+- expected_values:
+    A5_HUMIDITY_SENS_REL: 42.57
+  response: |-
+    778100C625036008100
+    778215601FF028400AA
+- expected_values:
+    A5_HUMIDITY_SENS_REL: 31.185
+  response: |-
+    778100C625036008C00
+    778213F01FD02BA00AA
+- expected_values:
+    A5_HUMIDITY_SENS_REL: 28.71
+  response: |-
+    778100C625036008D00
+    778213A01F602C000AA
+- expected_values:
+    A5_HUMIDITY_SENS_REL: 22.77
+  response: |-
+    778100C625036009600
+    778212E01F602ED00AA
+- expected_values:
+    A5_HUMIDITY_SENS_REL: 23.76
+  response: |-
+    778100C625036009600
+    778213001FC02EA00AA
+- expected_values:
+    A5_HUMIDITY_SENS_REL: 23.76
+  response: |-
+    778100C625036009600
+    7782130020002EA00AA
+- expected_values:
+    A5_HUMIDITY_SENS_REL: 22.275
+  response: |-
+    778100C625036009700
+    778212D01F902F200AA
+- expected_values:
+    A5_HUMIDITY_SENS_REL: 22.275
+  response: |-
+    778100C625036009A00
+    778212D020302FE00AA

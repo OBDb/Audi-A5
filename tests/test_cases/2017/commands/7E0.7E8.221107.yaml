@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221107
+test_cases:
+- expected_values:
+    A5_INJ_AMOUNT_DEV_CYL_5: 0
+  response: '7E8056211070000'
+- expected_values:
+    A5_INJ_AMOUNT_DEV_CYL_5: -0.32
+  response: 7E805621107FFE0
+- expected_values:
+    A5_INJ_AMOUNT_DEV_CYL_5: -0.02
+  response: 7E805621107FFFE

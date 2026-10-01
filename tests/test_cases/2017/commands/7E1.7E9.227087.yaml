@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.227087
+test_cases:
+- expected_values:
+    A5_ADPT_CNT_FAST_FILL: 85
+  response: '7E90462708755'

@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.222130
+test_cases:
+- expected_values:
+    A5_TQ_CONV: 0.99
+  response: '7E90462213063'
+- expected_values:
+    A5_TQ_CONV: 1.6
+  response: 7E904622130A0
+- expected_values:
+    A5_TQ_CONV: 1.83
+  response: 7E904622130B7

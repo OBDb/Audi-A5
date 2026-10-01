@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.227086
+test_cases:
+- expected_values:
+    A5_FAST_FILL_TIME_CLU: 24
+  response: 7E9046270860C

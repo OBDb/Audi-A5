@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221093
+test_cases:
+- expected_values:
+    A5_CAM_ADPT_INT_PHASE: 19.70953
+  response: '7E8056210930381'

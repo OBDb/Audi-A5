@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.2270D1
+test_cases:
+- expected_values:
+    A5_SHIFT_PROCCESS: 12
+    A5_SHIFT_PROCCESS_TGT: 1
+  response: 7E9056270D1010C
+- expected_values:
+    A5_SHIFT_PROCCESS: 2
+    A5_SHIFT_PROCCESS_TGT: 2
+  response: 7E9056270D10202
+- expected_values:
+    A5_SHIFT_PROCCESS: 13
+    A5_SHIFT_PROCCESS_TGT: 13
+  response: 7E9056270D10D0D

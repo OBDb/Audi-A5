@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221111
+test_cases:
+- expected_values:
+    A5_PQ35_RAD_COOL_T_CMD: null
+  response: '7E8056211110000'

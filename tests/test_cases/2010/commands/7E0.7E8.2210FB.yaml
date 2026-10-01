@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2210FB
+test_cases:
+- expected_values:
+    A5_PQ35_EXH_GAS_T_1: null
+  response: 7E8056210FB0000
