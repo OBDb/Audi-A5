@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.222131
 test_cases:
 - expected_values:
-    AUDI_TORQUE_CONVERTER_SLIP: 6
+    A5_TORQUE_CONVERTER_SLIP_TCM: 6
   response: '7E9056221310006'
 - expected_values:
-    AUDI_TORQUE_CONVERTER_SLIP: 9
+    A5_TORQUE_CONVERTER_SLIP_TCM: 9
   response: '7E9056221310009'

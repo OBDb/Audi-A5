@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221723
 test_cases:
 - expected_values:
-    AUDI_EARLY_IGN_CNT_CYL_3: 9616
+    A5_EARLY_IGN_CNT_CYL_3: 9616
   response: '7E8056217232590'
 - expected_values:
-    AUDI_EARLY_IGN_CNT_CYL_3: 9625
+    A5_EARLY_IGN_CNT_CYL_3: 9625
   response: '7E8056217232599'
 - expected_values:
-    AUDI_EARLY_IGN_CNT_CYL_3: 9634
+    A5_EARLY_IGN_CNT_CYL_3: 9634
   response: 7E80562172325A2

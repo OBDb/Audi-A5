@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22113D|din=03
+test_cases:
+- expected_values:
+    A5_PQ35_O2_SEN_1_LAMBDA: 0
+  response: 7E80562113D0000

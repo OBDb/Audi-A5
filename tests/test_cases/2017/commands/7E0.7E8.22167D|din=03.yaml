@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22167D|din=03
+test_cases:
+- expected_values:
+    A5_PQ35_POST_INJ_3_QTY_SPEC: 0
+  response: 7E80562167D0000
+- expected_values:
+    A5_PQ35_POST_INJ_3_QTY_SPEC: 2.53
+  response: 7E80562167D00FD
+- expected_values:
+    A5_PQ35_POST_INJ_3_QTY_SPEC: 5.55
+  response: 7E80562167D022B

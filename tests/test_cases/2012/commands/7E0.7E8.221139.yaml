@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.221139
+test_cases:
+- expected_values:
+    A5_MEAN_INJ_QUANTITY: 0
+  response: '7E80762113900000000'
+- expected_values:
+    A5_MEAN_INJ_QUANTITY: 0
+  response: '7E80762113900000476'
+- expected_values:
+    A5_MEAN_INJ_QUANTITY: 0
+  response: 7E807621139000004CE
+- expected_values:
+    A5_MEAN_INJ_QUANTITY: 0
+  response: '7E80762113900000522'
+- expected_values:
+    A5_MEAN_INJ_QUANTITY: 0
+  response: '7E80762113900000534'
+- expected_values:
+    A5_MEAN_INJ_QUANTITY: 0
+  response: '7E80762113900000572'
+- expected_values:
+    A5_MEAN_INJ_QUANTITY: 0
+  response: '7E80762113900000973'
+- expected_values:
+    A5_MEAN_INJ_QUANTITY: 0
+  response: 7E807621139000009E5
+- expected_values:
+    A5_MEAN_INJ_QUANTITY: 0
+  response: 7E807621139000009E6
+- expected_values:
+    A5_MEAN_INJ_QUANTITY: 0
+  response: 7E80762113900000AE0

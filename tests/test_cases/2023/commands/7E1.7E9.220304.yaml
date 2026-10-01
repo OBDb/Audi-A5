@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.220304
+test_cases:
+- expected_values:
+    A5_DRIVE_TIME_SPORT: 7
+  response: '7E90462030407'

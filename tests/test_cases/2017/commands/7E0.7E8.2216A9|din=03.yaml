@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2216A9|din=03
+test_cases:
+- expected_values:
+    A5_PQ35_ODO_2: 286045
+  response: 7E8076216A900045D5D
+- expected_values:
+    A5_PQ35_ODO_2: 286207
+  response: 7E8076216A900045DFF
+- expected_values:
+    A5_PQ35_ODO_2: 286720
+  response: 7E8076216A900046000
+- expected_values:
+    A5_PQ35_ODO_2: 289792
+  response: 7E8076216A900046C00

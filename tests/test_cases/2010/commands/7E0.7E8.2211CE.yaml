@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2211CE
 test_cases:
 - expected_values:
-    AUDI_LOW_FUEL_P_CMD: 11
+    A5_LOW_FUEL_P_CMD: 11
   response: 7E8056211CE006E
 - expected_values:
-    AUDI_LOW_FUEL_P_CMD: 20.4
+    A5_LOW_FUEL_P_CMD: 20.4
   response: 7E8056211CE00CC
 - expected_values:
-    AUDI_LOW_FUEL_P_CMD: 32.5
+    A5_LOW_FUEL_P_CMD: 32.5
   response: 7E8056211CE0145
 - expected_values:
-    AUDI_LOW_FUEL_P_CMD: 32.6
+    A5_LOW_FUEL_P_CMD: 32.6
   response: 7E8056211CE0146

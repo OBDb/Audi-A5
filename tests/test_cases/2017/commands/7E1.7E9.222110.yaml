@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.222110
 test_cases:
 - expected_values:
-    AUDI_ENG_SPEC_TQ_DURING: 0
+    A5_ENG_SPEC_TQ_DURING: 0
   response: '7E9056221100000'
 - expected_values:
-    AUDI_ENG_SPEC_TQ_DURING: 65482
+    A5_ENG_SPEC_TQ_DURING: 65482
   response: 7E905622110FFCA
 - expected_values:
-    AUDI_ENG_SPEC_TQ_DURING: 65506
+    A5_ENG_SPEC_TQ_DURING: 65506
   response: 7E905622110FFE2

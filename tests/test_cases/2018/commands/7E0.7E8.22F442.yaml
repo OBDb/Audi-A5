@@ -1,18 +1,14 @@
 command_id: 7E0.7E8.22F442
 test_cases:
 - expected_values:
-    AUDI_KL30_V: 11.406
-    AUDI_VPWR: 11.406
+    A5_VPWR: 11.406
   response: 7E80562F4422C8E
 - expected_values:
-    AUDI_KL30_V: 11.777
-    AUDI_VPWR: 11.777
+    A5_VPWR: 11.777
   response: 7E80562F4422E01
 - expected_values:
-    AUDI_KL30_V: 14.335
-    AUDI_VPWR: 14.335
+    A5_VPWR: 14.335
   response: 7E80562F44237FF
 - expected_values:
-    AUDI_KL30_V: 15.117
-    AUDI_VPWR: 15.117
+    A5_VPWR: 15.117
   response: 7E80562F4423B0D

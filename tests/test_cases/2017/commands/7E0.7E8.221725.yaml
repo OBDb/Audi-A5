@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.221725
 test_cases:
 - expected_values:
-    AUDI_EARLY_IGN_CNT_CYL_2: 12959
+    A5_EARLY_IGN_CNT_CYL_2: 12959
   response: 7E805621725329F
 - expected_values:
-    AUDI_EARLY_IGN_CNT_CYL_2: 12968
+    A5_EARLY_IGN_CNT_CYL_2: 12968
   response: 7E80562172532A8
 - expected_values:
-    AUDI_EARLY_IGN_CNT_CYL_2: 12977
+    A5_EARLY_IGN_CNT_CYL_2: 12977
   response: 7E80562172532B1
 - expected_values:
-    AUDI_EARLY_IGN_CNT_CYL_2: 12986
+    A5_EARLY_IGN_CNT_CYL_2: 12986
   response: 7E80562172532BA
 - expected_values:
-    AUDI_EARLY_IGN_CNT_CYL_2: 12995
+    A5_EARLY_IGN_CNT_CYL_2: 12995
   response: 7E80562172532C3
 - expected_values:
-    AUDI_EARLY_IGN_CNT_CYL_2: 13004
+    A5_EARLY_IGN_CNT_CYL_2: 13004
   response: 7E80562172532CC
 - expected_values:
-    AUDI_EARLY_IGN_CNT_CYL_2: 13014
+    A5_EARLY_IGN_CNT_CYL_2: 13014
   response: 7E80562172532D6

@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.22132A
 test_cases:
 - expected_values:
-    AUDI_MQB_DL382_P_SENSOR_1_T: 19
+    A5_MQB_DL382_P_SENSOR_1_T: 19
   response: 7E90562132A0013
 - expected_values:
-    AUDI_MQB_DL382_P_SENSOR_1_T: 79
+    A5_MQB_DL382_P_SENSOR_1_T: 79
   response: 7E90562132A004F

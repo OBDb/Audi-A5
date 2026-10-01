@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211CC
+test_cases:
+- expected_values:
+    A5_BOOST_REGULATOR_FEEDBACK: 65.38
+  response: 7E8056211CC198A
+- expected_values:
+    A5_BOOST_REGULATOR_FEEDBACK: 65.5
+  response: 7E8056211CC1996
+- expected_values:
+    A5_BOOST_REGULATOR_FEEDBACK: 71.58
+  response: 7E8056211CC1BF6

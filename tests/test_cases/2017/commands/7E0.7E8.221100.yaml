@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221100
 test_cases:
 - expected_values:
-    AUDI_PQ35_INJ_DEV_CYL_3: 0
+    A5_PQ35_INJ_DEV_CYL_3: 0
   response: '7E8056211000000'
 - expected_values:
-    AUDI_PQ35_INJ_DEV_CYL_3: -0.91
+    A5_PQ35_INJ_DEV_CYL_3: -0.91
   response: 7E805621100FFA5
 - expected_values:
-    AUDI_PQ35_INJ_DEV_CYL_3: -0.01
+    A5_PQ35_INJ_DEV_CYL_3: -0.01
   response: 7E805621100FFFF
