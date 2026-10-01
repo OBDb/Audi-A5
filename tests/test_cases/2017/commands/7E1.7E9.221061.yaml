@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.221061
+test_cases:
+- expected_values:
+    A5_DES_TQ_RAW: 4
+  response: '7E9056210610004'
+- expected_values:
+    A5_DES_TQ_RAW: 250
+  response: 7E90562106100FA
+- expected_values:
+    A5_DES_TQ_RAW: -54
+  response: 7E905621061FFCA

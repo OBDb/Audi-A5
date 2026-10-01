@@ -1,0 +1,29 @@
+command_id: 710.77A.222A17|fc=1
+test_cases:
+- expected_values:
+    A5_OVERALL_ENERGY: 5267.85
+  response: 77A06622A17001399
+- expected_values:
+    A5_OVERALL_ENERGY: 5268.9
+  response: 77A06622A1700139A
+- expected_values:
+    A5_OVERALL_ENERGY: 5269.95
+  response: 77A06622A1700139B
+- expected_values:
+    A5_OVERALL_ENERGY: 5271
+  response: 77A06622A1700139C
+- expected_values:
+    A5_OVERALL_ENERGY: 5272.05
+  response: 77A06622A1700139D
+- expected_values:
+    A5_OVERALL_ENERGY: 5273.1
+  response: 77A06622A1700139E
+- expected_values:
+    A5_OVERALL_ENERGY: 5274.15
+  response: 77A06622A1700139F
+- expected_values:
+    A5_OVERALL_ENERGY: 5275.2
+  response: 77A06622A170013A0
+- expected_values:
+    A5_OVERALL_ENERGY: 5276.25
+  response: 77A06622A170013A1

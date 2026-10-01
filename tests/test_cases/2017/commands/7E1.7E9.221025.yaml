@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.221025
+test_cases:
+- expected_values:
+    A5_CURRENT_N218_P_CTRL_4: 50
+  response: 7E90562102501F4
+- expected_values:
+    A5_CURRENT_N218_P_CTRL_4: 318.5
+  response: 7E9056210250C71
+- expected_values:
+    A5_CURRENT_N218_P_CTRL_4: 327.9
+  response: 7E9056210250CCF
+- expected_values:
+    A5_CURRENT_N218_P_CTRL_4: 592
+  response: '7E9056210251720'
+- expected_values:
+    A5_CURRENT_N218_P_CTRL_4: 807.6
+  response: 7E9056210251F8C
+- expected_values:
+    A5_CURRENT_N218_P_CTRL_4: 850
+  response: '7E9056210252134'

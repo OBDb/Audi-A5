@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22103A
+test_cases:
+- expected_values:
+    A5_TIME_AFTERRUN: 0
+  response: 7E90562103A0000
+- expected_values:
+    A5_TIME_AFTERRUN: 6
+  response: 7E90562103A0006

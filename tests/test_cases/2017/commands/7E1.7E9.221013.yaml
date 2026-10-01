@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221013
+test_cases:
+- expected_values:
+    A5_CURRENT_TYPE_DRIVER: 55
+  response: '7E9056210130037'
+- expected_values:
+    A5_CURRENT_TYPE_DRIVER: 80
+  response: '7E9056210130050'

@@ -10,5 +10,5 @@ test_cases:
     A5_DPF_SFC_T: 213.2
   response: 7E80562104412FF
 - expected_values:
-    A5_DPF_SFC_T: 623.9
-  response: 7E805621044230A
+    A5_DPF_SFC_T: null
+  response: 7E8056210447FFF

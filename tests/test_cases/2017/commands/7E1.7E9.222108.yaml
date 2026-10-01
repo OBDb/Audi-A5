@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.222108
+test_cases:
+- expected_values:
+    A5_DRIVING_RES_INDEX: -4
+  response: 7E9046221087C
+- expected_values:
+    A5_DRIVING_RES_INDEX: -1
+  response: 7E9046221087F
+- expected_values:
+    A5_DRIVING_RES_INDEX: 0
+  response: '7E90462210880'
+- expected_values:
+    A5_DRIVING_RES_INDEX: 1
+  response: '7E90462210881'
+- expected_values:
+    A5_DRIVING_RES_INDEX: 2
+  response: '7E90462210882'

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22708D
+test_cases:
+- expected_values:
+    A5_ADPT_CNT_CLU_C: 104
+  response: 7E90462708D68

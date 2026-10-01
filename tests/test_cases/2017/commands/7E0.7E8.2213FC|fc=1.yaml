@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2213FC|fc=1
+test_cases:
+- expected_values:
+    A5_KNOCK_SENS_V_CYL_2: 0.00015
+  response: 7E8076213FC00023F74
+- expected_values:
+    A5_KNOCK_SENS_V_CYL_2: 0.00015
+  response: 7E8076213FC00023F7A

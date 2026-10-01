@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.22211A
+test_cases:
+- expected_values:
+    A5_MAX_PERMISSIBLE_ENG: 10
+  response: 7E90562211A000A
+- expected_values:
+    A5_MAX_PERMISSIBLE_ENG: 415
+  response: 7E90562211A019F
+- expected_values:
+    A5_MAX_PERMISSIBLE_ENG: 546
+  response: 7E90562211A0222
+- expected_values:
+    A5_MAX_PERMISSIBLE_ENG: 660
+  response: 7E90562211A0294
