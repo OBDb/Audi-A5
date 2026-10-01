@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.222115
+test_cases:
+- expected_values:
+    A5_DYNAMIC_SHIFT: 1
+  response: '7E90462211501'
+- expected_values:
+    A5_DYNAMIC_SHIFT: 25
+  response: '7E90462211519'

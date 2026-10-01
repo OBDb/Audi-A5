@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221011
+test_cases:
+- expected_values:
+    A5_ADAPTIVE_MODE: 1
+  response: '7E90462101101'

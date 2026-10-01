@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.227090
+test_cases:
+- expected_values:
+    A5_FILL_P_CLU_D: -60
+  response: 7E904627090FA

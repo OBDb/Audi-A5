@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.224E76
+test_cases:
+- expected_values:
+    A5_AUX_HYDRAULIC_PMP_CURRENT: 0
+  response: 7E904624E7600

@@ -4,11 +4,11 @@ test_cases:
     A5_CYL_HEAD_T: 244.88
   response: 7E8056210650F4C
 - expected_values:
-    A5_CYL_HEAD_T: 321.74
-  response: 7E80562106510F7
+    A5_CYL_HEAD_T: null
+  response: 7E8056210651B03
 - expected_values:
-    A5_CYL_HEAD_T: 324.98
-  response: '7E8056210651109'
+    A5_CYL_HEAD_T: null
+  response: 7E80562106522FC
 - expected_values:
-    A5_CYL_HEAD_T: 496.52
-  response: 7E80562106514C2
+    A5_CYL_HEAD_T: null
+  response: 7E80562106540A0

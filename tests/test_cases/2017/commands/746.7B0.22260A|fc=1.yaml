@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     A5_OUTSIDE_T_SYSTEM: 25.6
   response: 7B00562260A0100
+- expected_values:
+    A5_OUTSIDE_T_SYSTEM: null
+  response: 7B00562260A7D02

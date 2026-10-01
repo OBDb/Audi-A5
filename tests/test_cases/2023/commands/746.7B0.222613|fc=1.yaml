@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     A5_CABIN_T: 28
   response: 7B0056226130118
+- expected_values:
+    A5_CABIN_T: null
+  response: 7B0056226137D02

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2210F6
+test_cases:
+- expected_values:
+    A5_MIS_PER_1000_2: 4806
+  response: 7E8056210F612C6
+- expected_values:
+    A5_MIS_PER_1000_2: 4863
+  response: 7E8056210F612FF
+- expected_values:
+    A5_MIS_PER_1000_2: 6401
+  response: 7E8056210F61901
+- expected_values:
+    A5_MIS_PER_1000_2: 7225
+  response: 7E8056210F61C39

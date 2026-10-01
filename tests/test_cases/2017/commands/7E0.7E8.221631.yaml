@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221631
+test_cases:
+- expected_values:
+    A5_PRE_INJ_3_START: 3.27398
+  response: '7E8056216310095'
+- expected_values:
+    A5_PRE_INJ_3_START: 10.83269
+  response: 7E80562163101ED
+- expected_values:
+    A5_PRE_INJ_3_START: 17.29275
+  response: '7E8056216310313'
+- expected_values:
+    A5_PRE_INJ_3_START: 28.76266
+  response: 7E805621631051D

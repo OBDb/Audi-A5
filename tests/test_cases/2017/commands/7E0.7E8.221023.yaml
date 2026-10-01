@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221023
+test_cases:
+- expected_values:
+    A5_AC_COMP_TQ: 2.7
+  response: 7E805621023001B
+- expected_values:
+    A5_AC_COMP_TQ: 15
+  response: '7E8056210230096'
