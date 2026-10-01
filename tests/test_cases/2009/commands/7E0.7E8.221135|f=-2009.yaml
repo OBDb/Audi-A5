@@ -1,11 +1,11 @@
-command_id: 7E0.7E8.221135
+command_id: 7E0.7E8.221135|f=-2009
 test_cases:
 - expected_values:
-    A5_COOLANT_T: -200
+    A5_EARLY_COOLANT_T: 73.1
   response: 7E80562113502DB
 - expected_values:
-    A5_COOLANT_T: -199.8
+    A5_EARLY_COOLANT_T: 73.3
   response: 7E80562113502DD
 - expected_values:
-    A5_COOLANT_T: -199.7
+    A5_EARLY_COOLANT_T: 73.4
   response: 7E80562113502DE

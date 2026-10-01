@@ -109,7 +109,7 @@ unsupported_commands_by_ecu:
   "746":
   - 746.2227C4
   "7E0":
-  - 7E0.7E8.22028D:A5_ECU_TEMP
+  - 7E0.7E8.22028D|f=-2022:A5_ECU_TEMP
   - 7E0.7E8.2208D2
   - 7E0.7E8.221004:A5_AAT_V2
   - 7E0.7E8.2210E0:A5_ODO_2

@@ -4,5 +4,8 @@ test_cases:
     A5_PQ35_TRANS_IN_SPD: 0
   response: 7E8056211F10000
 - expected_values:
-    A5_PQ35_TRANS_IN_SPD: 16383.5
-  response: 7E8056211F17FFF
+    A5_PQ35_TRANS_IN_SPD: 255
+  response: 7E8056211F101FE
+- expected_values:
+    A5_PQ35_TRANS_IN_SPD: 3988
+  response: 7E8056211F11F28
