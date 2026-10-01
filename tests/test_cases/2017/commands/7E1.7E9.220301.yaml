@@ -4,5 +4,5 @@ test_cases:
     A5_CTRL_MODULE_T_7E1: 25
   response: '7E90462030141'
 - expected_values:
-    A5_CTRL_MODULE_T_7E1: 58
-  response: '7E90462030162'
+    A5_CTRL_MODULE_T_7E1: 59
+  response: '7E90462030163'
