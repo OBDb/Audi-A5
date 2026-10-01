@@ -1,4 +1,4 @@
-command_id: 7E0.7E8.22028D
+command_id: 7E0.7E8.22028D|f=-2022
 test_cases:
 - expected_values:
     A5_ECU_TEMP: 46

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2210F9|f=-2012
+test_cases:
+- expected_values:
+    A5_EARLY_DPF_OUT_T: 149.4
+  response: 7E8056210F905D6

@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221515
 test_cases:
 - expected_values:
-    A5_CAT_T_CALC: 12330
+    A5_CAT_T_CALC: -5
   response: 7E80562151509AC
 - expected_values:
-    A5_CAT_T_CALC: 26830
+    A5_CAT_T_CALC: 55
   response: '7E8056215151500'
 - expected_values:
-    A5_CAT_T_CALC: 66470
+    A5_CAT_T_CALC: 205
   response: 7E80562151533F8
 - expected_values:
-    A5_CAT_T_CALC: 127450
+    A5_CAT_T_CALC: 445
   response: 7E805621515639C
