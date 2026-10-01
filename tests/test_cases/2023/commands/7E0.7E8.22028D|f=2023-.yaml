@@ -1,14 +1,14 @@
-command_id: 7E0.7E8.22028D
+command_id: 7E0.7E8.22028D|f=2023-
 test_cases:
 - expected_values:
-    A5_ECU_TEMP: 44
+    A5_ECU_TEMP_KELVIN: -40
   response: 7E80562028D01B8
 - expected_values:
-    A5_ECU_TEMP: 307.1
+    A5_ECU_TEMP_KELVIN: 34
   response: 7E80562028D0BFF
 - expected_values:
-    A5_ECU_TEMP: 307.2
+    A5_ECU_TEMP_KELVIN: 34.1
   response: 7E80562028D0C00
 - expected_values:
-    A5_ECU_TEMP: 332.8
+    A5_ECU_TEMP_KELVIN: 59.7
   response: 7E80562028D0D00
