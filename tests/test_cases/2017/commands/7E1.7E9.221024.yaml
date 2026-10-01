@@ -4,5 +4,8 @@ test_cases:
     A5_CURRENT_N215_P_CTRL_1: 50
   response: 7E90562102401F4
 - expected_values:
+    A5_CURRENT_N215_P_CTRL_1: 472.4
+  response: '7E9056210241274'
+- expected_values:
     A5_CURRENT_N215_P_CTRL_1: 850
   response: '7E9056210242134'

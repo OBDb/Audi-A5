@@ -21,15 +21,15 @@ test_cases:
     778100C625036008D00
     778213A01F602C000AA
 - expected_values:
+    A5_HUMIDITY_SENS_REL: 23.76
+  response: |-
+    778100C625036009500
+    778213001F902E700AA
+- expected_values:
     A5_HUMIDITY_SENS_REL: 22.77
   response: |-
     778100C625036009600
     778212E01F602ED00AA
-- expected_values:
-    A5_HUMIDITY_SENS_REL: 23.76
-  response: |-
-    778100C625036009600
-    778213001FC02EA00AA
 - expected_values:
     A5_HUMIDITY_SENS_REL: 23.76
   response: |-

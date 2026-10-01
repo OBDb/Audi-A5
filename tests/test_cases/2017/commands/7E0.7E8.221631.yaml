@@ -4,8 +4,8 @@ test_cases:
     A5_PRE_INJ_3_START: 3.27398
   response: '7E8056216310095'
 - expected_values:
-    A5_PRE_INJ_3_START: 10.83269
-  response: 7E80562163101ED
+    A5_PRE_INJ_3_START: 16.47975
+  response: 7E80562163102EE
 - expected_values:
     A5_PRE_INJ_3_START: 17.29275
   response: '7E8056216310313'

@@ -16,5 +16,8 @@ test_cases:
     A5_CURRENT_N218_P_CTRL_4: 807.6
   response: 7E9056210251F8C
 - expected_values:
+    A5_CURRENT_N218_P_CTRL_4: 807.7
+  response: 7E9056210251F8D
+- expected_values:
     A5_CURRENT_N218_P_CTRL_4: 850
   response: '7E9056210252134'
