@@ -1,7 +1,7 @@
 command_id: 7E0.7E8.2258D1
 test_cases:
 - expected_values:
-    AUDI_ENG_OIL_LEVEL: 9.52
+    A5_ENG_OIL_LEVEL: 9.52
   response: |-
     7E810116258D100046A
     7E8214B00046A4703B8

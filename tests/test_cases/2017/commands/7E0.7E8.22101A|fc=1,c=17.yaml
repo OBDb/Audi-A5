@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22101A|fc=1,c=17
 test_cases:
 - expected_values:
-    AUDI_A_C_COMPRESSOR_TORQUE: 0
+    A5_A_C_COMPRESSOR_TORQUE: 0
   response: 7E80562101A0000
 - expected_values:
-    AUDI_A_C_COMPRESSOR_TORQUE: -18.1
+    A5_A_C_COMPRESSOR_TORQUE: -18.1
   response: 7E80562101AFF4B
 - expected_values:
-    AUDI_A_C_COMPRESSOR_TORQUE: -0.7
+    A5_A_C_COMPRESSOR_TORQUE: -0.7
   response: 7E80562101AFFF9

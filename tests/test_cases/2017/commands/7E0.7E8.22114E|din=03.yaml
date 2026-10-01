@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22114E|din=03
+test_cases:
+- expected_values:
+    A5_PQ35_SOOT_MASS_MEAS: 3.9
+  response: 7E80562114E0186
+- expected_values:
+    A5_PQ35_SOOT_MASS_MEAS: 7.68
+  response: 7E80562114E0300
+- expected_values:
+    A5_PQ35_SOOT_MASS_MEAS: 12.79
+  response: 7E80562114E04FF
+- expected_values:
+    A5_PQ35_SOOT_MASS_MEAS: 25.63
+  response: 7E80562114E0A03

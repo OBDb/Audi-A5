@@ -1,8 +1,8 @@
 command_id: 710.77A.224F00|fc=1
 test_cases:
 - expected_values:
-    AUDI_GEN_V_ACT: 14.5
+    A5_GEN_V_ACT: 14.5
   response: 77A04624F0027
 - expected_values:
-    AUDI_GEN_V_ACT: 15.6
+    A5_GEN_V_ACT: 15.6
   response: 77A04624F0032

@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.220305
+test_cases:
+- expected_values:
+    A5_DRIVE_TIME_MANUAL: 8
+  response: '7E90462030508'
+- expected_values:
+    A5_DRIVE_TIME_MANUAL: 11
+  response: 7E9046203050B
+- expected_values:
+    A5_DRIVE_TIME_MANUAL: 12
+  response: 7E9046203050C

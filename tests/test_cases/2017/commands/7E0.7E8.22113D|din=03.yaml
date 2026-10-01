@@ -1,0 +1,19 @@
+command_id: 7E0.7E8.22113D|din=03
+test_cases:
+- expected_values:
+    A5_PQ35_O2_SEN_1_LAMBDA: 5.81
+  response: 7E80562113D0245
+- expected_values:
+    A5_PQ35_O2_SEN_1_LAMBDA: 12.79
+  response: 7E80562113D04FF
+- expected_values:
+    A5_PQ35_O2_SEN_1_LAMBDA: 12.8
+  response: 7E80562113D0500
+- expected_values:
+    A5_PQ35_O2_SEN_1_LAMBDA: 319.99
+  response: 7E80562113D7CFF
+- expected_values:
+    A5_PQ35_O2_SEN_1_LAMBDA: 319.99
+  response: |-
+    7E8065003001E01E0
+    7E80562113D7CFF

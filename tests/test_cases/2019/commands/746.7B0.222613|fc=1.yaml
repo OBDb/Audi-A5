@@ -1,0 +1,14 @@
+command_id: 746.7B0.222613|fc=1
+test_cases:
+- expected_values:
+    A5_CABIN_T: 2.5
+  response: 7B0056226130019
+- expected_values:
+    A5_CABIN_T: 25.1
+  response: 7B00562261300FB
+- expected_values:
+    A5_CABIN_T: 25.6
+  response: 7B0056226130100
+- expected_values:
+    A5_CABIN_T: 3200.2
+  response: 7B0056226137D02

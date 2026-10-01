@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211D5
 test_cases:
 - expected_values:
-    AUDI_HIGH_FUEL_P: 0
+    A5_HIGH_FUEL_P: 0
   response: 7E8056211D50000
 - expected_values:
-    AUDI_HIGH_FUEL_P: 1.406
+    A5_HIGH_FUEL_P: 1.406
   response: 7E8056211D50AFC
 - expected_values:
-    AUDI_HIGH_FUEL_P: 3.456
+    A5_HIGH_FUEL_P: 3.456
   response: 7E8056211D51B00

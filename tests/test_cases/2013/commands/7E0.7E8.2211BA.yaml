@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211BA
+test_cases:
+- expected_values:
+    A5_OIL_LEVEL: 3.8548
+  response: 7E8056211BA25A5
+- expected_values:
+    A5_OIL_LEVEL: 5.7348
+  response: 7E8056211BA3801
+- expected_values:
+    A5_OIL_LEVEL: 8.5988
+  response: 7E8056211BA53F9
+- expected_values:
+    A5_OIL_LEVEL: 9.7416
+  response: 7E8056211BA5F22

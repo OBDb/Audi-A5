@@ -1,27 +1,27 @@
 command_id: 713.77D.222B21|fc=1
 test_cases:
 - expected_values:
-    AUDI_BRAKE_P_V2: 0.00012
+    A5_BRAKE_P: 0.00012
   response: |-
     77D1009622B210ADAFF
     77D21FEFFFE00000000
 - expected_values:
-    AUDI_BRAKE_P_V2: 2.43281
+    A5_BRAKE_P: 2.43281
   response: |-
     77D1009622B210B79FF
     77D21FEFFFE00000000
 - expected_values:
-    AUDI_BRAKE_P_V2: 4.39119
+    A5_BRAKE_P: 4.39119
   response: |-
     77D1009622B210BF9FF
     77D21FEFFFE00000000
 - expected_values:
-    AUDI_BRAKE_P_V2: 10.77125
+    A5_BRAKE_P: 10.77125
   response: |-
     77D1009622B210D9AFF
     77D21FEFFFE00000000
 - expected_values:
-    AUDI_BRAKE_P_V2: 27.37164
+    A5_BRAKE_P: 27.37164
   response: |-
     77D1009622B2111D7FF
     77D21FEFFFE00000000

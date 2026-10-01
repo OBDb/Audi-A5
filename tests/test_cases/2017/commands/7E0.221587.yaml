@@ -1,5 +1,0 @@
-command_id: 7E0.221587
-test_cases:
-- expected_values:
-    AUDI_DCDC_HV_V: 0
-  response: '7E8056215870000'

@@ -1,14 +1,14 @@
 command_id: 7E1.7E9.22102A
 test_cases:
 - expected_values:
-    AUDI_CLU_CENTER_CENTRAL_T: 14855
+    A5_CLU_CENTER_CENTRAL_T: 14855
   response: 7E90562102A073A
 - expected_values:
-    AUDI_CLU_CENTER_CENTRAL_T: 5657
+    A5_CLU_CENTER_CENTRAL_T: 5657
   response: 7E90562102A1916
 - expected_values:
-    AUDI_CLU_CENTER_CENTRAL_T: -1509
+    A5_CLU_CENTER_CENTRAL_T: -1509
   response: 7E90562102A1BFA
 - expected_values:
-    AUDI_CLU_CENTER_CENTRAL_T: 16668
+    A5_CLU_CENTER_CENTRAL_T: 16668
   response: 7E90562102A1C41

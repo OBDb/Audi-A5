@@ -1,11 +1,8 @@
 command_id: 7E0.7E8.22105A|fc=1,c=17
 test_cases:
 - expected_values:
-    AUDI_BATTERY_V: 57360
+    A5_BATTERY_V: 2868
   response: 7E80562105A0B34
 - expected_values:
-    AUDI_BATTERY_V: 57900
-  response: 7E80562105A0B4F
-- expected_values:
-    AUDI_BATTERY_V: 61200
+    A5_BATTERY_V: 3060
   response: 7E80562105A0BF4

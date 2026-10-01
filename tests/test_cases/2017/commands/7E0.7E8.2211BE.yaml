@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211BE
+test_cases:
+- expected_values:
+    A5_EOT_V2: 20.9
+  response: 7E8056211BE0B7C
+- expected_values:
+    A5_EOT_V2: 34
+  response: 7E8056211BE0BFF
+- expected_values:
+    A5_EOT_V2: 85.3
+  response: 7E8056211BE0E00
+- expected_values:
+    A5_EOT_V2: 111
+  response: 7E8056211BE0F01
