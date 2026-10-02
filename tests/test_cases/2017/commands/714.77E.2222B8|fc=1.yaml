@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     A5_ODO_MILEAGE_HR: 289929.875
   response: 77E076222B81147FA93
+- expected_values:
+    A5_ODO_MILEAGE_HR: 289973.478
+  response: 77E076222B81148A4E6

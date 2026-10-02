@@ -7,8 +7,8 @@ test_cases:
     A5_EXH_GAS_T: 87.8
   response: 7E80562F43C04FE
 - expected_values:
-    A5_EXH_GAS_T: 294.2
-  response: 7E80562F43C0D0E
+    A5_EXH_GAS_T: 88.3
+  response: 7E80562F43C0503
 - expected_values:
     A5_EXH_GAS_T: null
   response: 7E80562F43C76E4
