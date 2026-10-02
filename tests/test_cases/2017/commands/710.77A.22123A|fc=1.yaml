@@ -18,3 +18,9 @@ test_cases:
   response: |-
     77A100B62123A000451
     77A215100044BB6AAAA
+- expected_values:
+    A5_BZE_Q_ELAD: 28155.5
+    A5_BZE_Q_LAD: 28299.5
+  response: |-
+    77A100B62123A000451
+    77A217300044BD3AAAA

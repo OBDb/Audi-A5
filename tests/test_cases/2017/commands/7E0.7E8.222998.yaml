@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     A5_MANUAL_ENG_STARTS: 15401
   response: 7E8056229983C29
+- expected_values:
+    A5_MANUAL_ENG_STARTS: 15406
+  response: 7E8056229983C2E

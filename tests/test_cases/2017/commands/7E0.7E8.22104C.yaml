@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22104C
 test_cases:
 - expected_values:
-    A5_AIR_MASS_SPEC: 259.4
-  response: 7E80562104C0A22
+    A5_AIR_MASS_SPEC: 257.8
+  response: 7E80562104C0A12
 - expected_values:
     A5_AIR_MASS_SPEC: 282.2
   response: 7E80562104C0B06

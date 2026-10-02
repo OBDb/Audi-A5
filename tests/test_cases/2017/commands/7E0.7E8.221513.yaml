@@ -7,5 +7,5 @@ test_cases:
     A5_ECT_LINEAR: 143.97152
   response: 7E805621513FFF6
 - expected_values:
-    A5_ECT_LINEAR: 143.98617
-  response: 7E805621513FFFB
+    A5_ECT_LINEAR: 143.9978
+  response: 7E805621513FFFF
