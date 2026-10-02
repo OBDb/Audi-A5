@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     A5_CAM_ADPT_INT_PHASE: 19.7315
   response: '7E8056210930382'
+- expected_values:
+    A5_CAM_ADPT_INT_PHASE: 19.77544
+  response: '7E8056210930384'

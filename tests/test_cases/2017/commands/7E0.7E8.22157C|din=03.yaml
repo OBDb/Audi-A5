@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22157C|din=03
 test_cases:
 - expected_values:
-    A5_DPF_STATISTICS_T: 181.4
-  response: 7E80562157C11C1
+    A5_DPF_STATISTICS_T: 181.1
+  response: 7E80562157C11BE
 - expected_values:
     A5_DPF_STATISTICS_T: 184.4
   response: 7E80562157C11DF

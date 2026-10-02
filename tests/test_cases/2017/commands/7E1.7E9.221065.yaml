@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     A5_CLU_1_T_TIME_RANGE_0: 276.48
   response: '7E9056210650036'
+- expected_values:
+    A5_CLU_1_T_TIME_RANGE_0: 286.72
+  response: '7E9056210650038'

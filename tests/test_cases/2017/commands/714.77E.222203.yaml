@@ -5,4 +5,4 @@ test_cases:
   response: 77E06622203046C8A
 - expected_values:
     A5_ODO_DASH: 255
-  response: 77E06622203046C9B
+  response: 77E06622203046CBA

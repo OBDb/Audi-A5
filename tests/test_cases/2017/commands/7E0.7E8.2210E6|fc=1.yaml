@@ -7,8 +7,8 @@ test_cases:
     A5_EOT: -45
   response: 7E8056210E60FFE
 - expected_values:
-    A5_EOT: -41
-  response: 7E8056210E61303
+    A5_EOT: -43
+  response: 7E8056210E61103
 - expected_values:
     A5_EOT: -34
   response: 7E8056210E61A51
