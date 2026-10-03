@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_AUTOMATIC_ENG_STARTS: 20504
   response: '7E8056229995018'
+- expected_values:
+    A5_AUTOMATIC_ENG_STARTS: 20505
+  response: '7E8056229995019'

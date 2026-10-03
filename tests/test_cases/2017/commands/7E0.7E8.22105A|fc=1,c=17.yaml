@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     A5_BATTERY_V: 3060
   response: 7E80562105A0BF4
+- expected_values:
+    A5_BATTERY_V: 3095
+  response: 7E80562105A0C17
