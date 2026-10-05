@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22113F
+test_cases:
+- expected_values:
+    A5_FUEL_CONS: 0.3
+  response: 7E80562113F001E
+- expected_values:
+    A5_FUEL_CONS: 0.98
+  response: 7E80562113F0062

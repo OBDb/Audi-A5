@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2215AA
+test_cases:
+- expected_values:
+    A5_PQ35_SELECTED_GEAR: 1
+  response: 7E8056215AA01F7

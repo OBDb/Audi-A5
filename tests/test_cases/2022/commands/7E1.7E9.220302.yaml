@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.220302
+test_cases:
+- expected_values:
+    A5_DRIVE_TIME: 843.25
+  response: 7E9056203020D2D

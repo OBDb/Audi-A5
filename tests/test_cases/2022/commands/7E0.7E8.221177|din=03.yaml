@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221177|din=03
+test_cases:
+- expected_values:
+    A5_T_AC_HEAT_EXCHANGER: -273
+  response: '7E8056211770000'

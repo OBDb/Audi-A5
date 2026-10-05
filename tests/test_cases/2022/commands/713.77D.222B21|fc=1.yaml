@@ -1,0 +1,12 @@
+command_id: 713.77D.222B21|fc=1
+test_cases:
+- expected_values:
+    A5_BRAKE_P: 0.06132
+  response: |-
+    77D1009622B210ADEFF
+    77D21FEFFFE00000000
+- expected_values:
+    A5_BRAKE_P: 22.84287
+  response: |-
+    77D1009622B2110AFFF
+    77D21FEFFFE00000000
