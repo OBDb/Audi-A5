@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2210E7|f=2024-;-2016
+test_cases:
+- expected_values:
+    A5_KNOCK_RETARD_5: 46.5
+  response: 7E8056210E73E8B
+- expected_values:
+    A5_KNOCK_RETARD_5: 47.25
+  response: 7E8056210E73FB1
+- expected_values:
+    A5_KNOCK_RETARD_5: 48
+  response: 7E8056210E74000
+- expected_values:
+    A5_KNOCK_RETARD_5: 48
+  response: 7E8056210E7404C
+- expected_values:
+    A5_KNOCK_RETARD_5: 48
+  response: 7E8056210E74073
+- expected_values:
+    A5_KNOCK_RETARD_5: 48.75
+  response: 7E8056210E741D4

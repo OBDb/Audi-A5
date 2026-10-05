@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22123F|f=2024-;-2016,din=03
+test_cases:
+- expected_values:
+    A5_PQ35_OIL_DYN_AVG: 6.62
+  response: 7E80562123F0677
