@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221147|f=2024-;-2016
+test_cases:
+- expected_values:
+    A5_MISFIRES_1000REV_C1: 0
+  response: '7E8056211470000'
+- expected_values:
+    A5_MISFIRES_1000REV_C1: 64536
+  response: 7E805621147FC18

@@ -1,8 +1,0 @@
-command_id: 7E0.7E8.2211BB|f=-2016
-test_cases:
-- expected_values:
-    A5_OIL_CRIT: 0
-  response: 7E8056211BB0000
-- expected_values:
-    A5_OIL_CRIT: 0.0924
-  response: 7E8056211BB00E7
