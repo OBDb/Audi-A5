@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221AC4|f=2016-
+test_cases:
+- expected_values:
+    A5_MQB_DPF_SERVICE_REGEN_I_DURATION: 0
+  response: 7E805621AC40000

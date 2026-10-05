@@ -1,0 +1,22 @@
+command_id: 7E1.7E9.221110|f=2016-
+test_cases:
+- expected_values:
+    A5_PQ35_WORKING_HOURS: 3541.85671
+  response: |-
+    7E9100D621110000000
+    7E9212600000000006E
+- expected_values:
+    A5_PQ35_WORKING_HOURS: 3635.06347
+  response: |-
+    7E9100D621110000000
+    7E9212700000000006E
+- expected_values:
+    A5_PQ35_WORKING_HOURS: 3635.06347
+  response: |-
+    7E9100D621110000000
+    7E9212700000000006F
+- expected_values:
+    A5_PQ35_WORKING_HOURS: 3635.06347
+  response: |-
+    7E9100D621110000000
+    7E92127000000000070

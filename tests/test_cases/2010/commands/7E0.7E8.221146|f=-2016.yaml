@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.221146|f=-2016
+test_cases:
+- expected_values:
+    A5_MISFIRES_TOTAL: 250
+  response: 7E80562114600FA
+- expected_values:
+    A5_MISFIRES_TOTAL: 297
+  response: '7E8056211460129'
+- expected_values:
+    A5_MISFIRES_TOTAL: 301
+  response: 7E805621146012D
+- expected_values:
+    A5_MISFIRES_TOTAL: 302
+  response: 7E805621146012E
+- expected_values:
+    A5_MISFIRES_TOTAL: 304
+  response: '7E8056211460130'
+- expected_values:
+    A5_MISFIRES_TOTAL: 305
+  response: '7E8056211460131'
+- expected_values:
+    A5_MISFIRES_TOTAL: 306
+  response: '7E8056211460132'
+- expected_values:
+    A5_MISFIRES_TOTAL: 311
+  response: '7E8056211460137'
+- expected_values:
+    A5_MISFIRES_TOTAL: 312
+  response: '7E8056211460138'

@@ -1,0 +1,13 @@
+command_id: 7E1.7E9.22214D|f=2016-
+test_cases:
+- expected_values:
+    A5_MQB_DL382_CLUTCH_2_P: 7.2
+  response: |-
+    22214D
+    7E90462214D52
+- expected_values:
+    A5_MQB_DL382_CLUTCH_2_P: 0
+  response: 7E90462214D0A
+- expected_values:
+    A5_MQB_DL382_CLUTCH_2_P: 13.8
+  response: 7E90462214D94

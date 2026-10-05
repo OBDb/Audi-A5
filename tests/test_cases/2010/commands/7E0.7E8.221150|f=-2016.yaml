@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221150|f=-2016
+test_cases:
+- expected_values:
+    A5_MISFIRES_C3_ECM: 0
+  response: '7E8056211500000'

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.2213CD|f=2016-
+test_cases:
+- expected_values:
+    A5_MQB_DL382_CLUTCH_2_ABSOLUTE_P: 1
+  response: 7E9046213CD14

@@ -1,8 +1,0 @@
-command_id: 7E0.7E8.2214CB
-test_cases:
-- expected_values:
-    A5_GEAR_V2: 0
-  response: 7E8046214CB00
-- expected_values:
-    A5_GEAR_V2: 1
-  response: 7E8046214CB01

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221213|f=-2016
+test_cases:
+- expected_values:
+    A5_PQ35_ENVD_CAM_IN_1: 246
+  response: 7E805621213F644

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221078|f=2016-
+test_cases:
+- expected_values:
+    A5_PQ35_CLUTCH_2_CHAR_CURVE_SHIFT: 3.01056
+  response: 7E905621078000C

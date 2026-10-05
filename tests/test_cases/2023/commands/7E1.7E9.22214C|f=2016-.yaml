@@ -1,0 +1,26 @@
+command_id: 7E1.7E9.22214C|f=2016-
+test_cases:
+- expected_values:
+    A5_MQB_DL382_CLUTCH_1_P: 0
+  response: 7E90462214C0A
+- expected_values:
+    A5_MQB_DL382_CLUTCH_1_P: 1.2
+  response: 7E90462214C16
+- expected_values:
+    A5_MQB_DL382_CLUTCH_1_P: 3.1
+  response: 7E90462214C29
+- expected_values:
+    A5_MQB_DL382_CLUTCH_1_P: 3.2
+  response: 7E90462214C2A
+- expected_values:
+    A5_MQB_DL382_CLUTCH_1_P: 3.8
+  response: 7E90462214C30
+- expected_values:
+    A5_MQB_DL382_CLUTCH_1_P: 4.3
+  response: 7E90462214C35
+- expected_values:
+    A5_MQB_DL382_CLUTCH_1_P: 7.3
+  response: 7E90462214C53
+- expected_values:
+    A5_MQB_DL382_CLUTCH_1_P: 7.9
+  response: 7E90462214C59
