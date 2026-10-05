@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.222106
+test_cases:
+- expected_values:
+    A5_VSS_HR: 0
+  response: '7E9056221060000'

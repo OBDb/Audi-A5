@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222CD8
+test_cases:
+- expected_values:
+    A5_OIL_P_VLV_PISTON: 100
+  response: 7E805622CD82710

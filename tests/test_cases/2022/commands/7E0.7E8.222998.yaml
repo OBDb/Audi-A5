@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222998
+test_cases:
+- expected_values:
+    A5_MANUAL_ENG_STARTS: 3910
+  response: 7E8056229980F46

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211DD
+test_cases:
+- expected_values:
+    A5_INT_MANIFOLD_P_CMD: 285
+  response: 7E8056211DD0E40

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221121
+test_cases:
+- expected_values:
+    A5_CLU_2_LO_ADPT_POINT: 3.145
+  response: 7E9056211210C49

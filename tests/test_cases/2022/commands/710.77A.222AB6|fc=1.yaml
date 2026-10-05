@@ -1,0 +1,7 @@
+command_id: 710.77A.222AB6|fc=1
+test_cases:
+- expected_values:
+    A5_RANGE_V2: 50
+  response: |-
+    77A100A622AB6003200
+    77A213207FD01AAAAAA

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221116
+test_cases:
+- expected_values:
+    A5_PQ35_COOL_FAN_1_DUTY: 100
+  response: 7E8056211167FFF

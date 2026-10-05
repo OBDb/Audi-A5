@@ -1,0 +1,8 @@
+command_id: 710.77A.222A09
+test_cases:
+- expected_values:
+    A5_SSB_C: 9.824
+  response: 77A07622A0900002660
+- expected_values:
+    A5_SSB_C: 22.229
+  response: 77A07622A09000056D5

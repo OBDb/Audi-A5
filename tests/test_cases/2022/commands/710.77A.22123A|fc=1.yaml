@@ -1,0 +1,14 @@
+command_id: 710.77A.22123A|fc=1
+test_cases:
+- expected_values:
+    A5_BZE_Q_ELAD: 4506.3
+    A5_BZE_Q_LAD: 4498.8
+  response: |-
+    77A100B62123A0000AF
+    77A21BC0000B007AAAA
+- expected_values:
+    A5_BZE_Q_ELAD: 4507
+    A5_BZE_Q_LAD: 4499.2
+  response: |-
+    77A100B62123A0000AF
+    77A21C00000B00EAAAA

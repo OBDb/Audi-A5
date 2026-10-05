@@ -1,0 +1,8 @@
+command_id: 710.77A.222A00|fc=1
+test_cases:
+- expected_values:
+    A5_SSB_VT: 14.9
+  response: 77A04622A002B
+- expected_values:
+    A5_SSB_VT: 15.5
+  response: 77A04622A0031

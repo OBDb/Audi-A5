@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.222108
+test_cases:
+- expected_values:
+    A5_DRIVING_RES_INDEX: -126
+  response: '7E90462210802'
