@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22132A|f=2016-
+test_cases:
+- expected_values:
+    A5_MQB_DL382_P_SENSOR_1_T: 37
+  response: 7E90562132A0025
+- expected_values:
+    A5_MQB_DL382_P_SENSOR_1_T: 78
+  response: 7E90562132A004E

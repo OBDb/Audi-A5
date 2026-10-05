@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221AC2|f=2016-
+test_cases:
+- expected_values:
+    A5_MQB_DPF_FIELD_REGEN_REQUEST: 0
+  response: 7E804621AC200

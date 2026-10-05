@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22132B|f=2016-
+test_cases:
+- expected_values:
+    A5_MQB_DL382_P_SENSOR_2_T: 45
+  response: 7E90562132B002D

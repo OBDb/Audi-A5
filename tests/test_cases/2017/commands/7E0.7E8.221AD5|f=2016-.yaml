@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221AD5|f=2016-
+test_cases:
+- expected_values:
+    A5_MQB_DPF_INLET_LAMBDA_VALUE: 0.904
+  response: 7E805621AD50388
+- expected_values:
+    A5_MQB_DPF_INLET_LAMBDA_VALUE: 1.279
+  response: 7E805621AD504FF
+- expected_values:
+    A5_MQB_DPF_INLET_LAMBDA_VALUE: 1.28
+  response: 7E805621AD50500
+- expected_values:
+    A5_MQB_DPF_INLET_LAMBDA_VALUE: 31.999
+  response: 7E805621AD57CFF

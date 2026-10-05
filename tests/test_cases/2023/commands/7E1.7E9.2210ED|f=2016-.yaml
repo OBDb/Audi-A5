@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.2210ED|f=2016-
+test_cases:
+- expected_values:
+    A5_PQ35_CLUTCH_2_FAILED_ADAPTS_COUNTER: 640
+  response: 7E9056210ED0280

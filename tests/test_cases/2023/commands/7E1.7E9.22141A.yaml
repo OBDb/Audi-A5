@@ -1,5 +1,0 @@
-command_id: 7E1.7E9.22141A
-test_cases:
-- expected_values:
-    A5_MQB_DL382_STIFFNESS_POINT_P_CLUTCH_2: 3.832
-  response: 7E90562141A0EF8

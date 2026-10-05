@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22202A|f=2016-
+test_cases:
+- expected_values:
+    A5_PQ35_CHARGE_AIR_P_ACTUAL: 77.76
+  response: 7E80562202A03CC
+- expected_values:
+    A5_PQ35_CHARGE_AIR_P_ACTUAL: 80
+  response: 7E80562202A03E8

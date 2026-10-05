@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222061|f=2016-
+test_cases:
+- expected_values:
+    A5_APP_POS1: 0.751
+  response: 7E80562206102EF
+- expected_values:
+    A5_APP_POS1: 0.767
+  response: 7E80562206102FF
+- expected_values:
+    A5_APP_POS1: 1.042
+  response: '7E8056220610412'
+- expected_values:
+    A5_APP_POS1: 1.859
+  response: '7E8056220610743'

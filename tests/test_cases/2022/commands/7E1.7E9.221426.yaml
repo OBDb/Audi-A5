@@ -1,5 +1,0 @@
-command_id: 7E1.7E9.221426
-test_cases:
-- expected_values:
-    A5_MQB_DL382_CLUTCH_0_CMD_P_OFFSET: 0
-  response: '7E9056214260000'

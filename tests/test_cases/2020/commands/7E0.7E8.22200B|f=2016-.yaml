@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22200B|f=2016-
+test_cases:
+- expected_values:
+    A5_PQ35_TIMING_ANGLE_RETARDATION_CYL_2: -48
+  response: 7E80562200B0000
+- expected_values:
+    A5_PQ35_TIMING_ANGLE_RETARDATION_CYL_2: 47.625
+  response: 7E80562200BFF8F
+- expected_values:
+    A5_PQ35_TIMING_ANGLE_RETARDATION_CYL_2: 47.625
+  response: 7E80562200BFFB5

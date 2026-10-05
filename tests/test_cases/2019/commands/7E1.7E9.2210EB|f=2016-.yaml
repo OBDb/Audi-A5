@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.2210EB|f=2016-
+test_cases:
+- expected_values:
+    A5_PQ35_CLUTCH_2_ADAPT_KISS_POINT_PART_1_ODO_READING: 327700
+  response: 7E9056210EB0280
