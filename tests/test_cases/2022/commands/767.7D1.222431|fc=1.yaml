@@ -8,3 +8,7 @@ test_cases:
     A5_GPS_SATS_TRACKED: 36
     A5_GPS_SATS_VISIBLE: 4
   response: 7D10662243104241E
+- expected_values:
+    A5_GPS_SATS_TRACKED: 37
+    A5_GPS_SATS_VISIBLE: 4
+  response: 7D10662243104251E

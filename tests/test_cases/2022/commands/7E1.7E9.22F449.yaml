@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_ACCEL_PEDAL_POS_7E1: 14.90196
   response: 7E90462F44926
+- expected_values:
+    A5_ACCEL_PEDAL_POS_7E1: 40.39216
+  response: 7E90462F44967

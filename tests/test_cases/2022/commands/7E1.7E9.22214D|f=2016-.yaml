@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_MQB_DL382_CLUTCH_2_P: 0.7
   response: 7E90462214D11
+- expected_values:
+    A5_MQB_DL382_CLUTCH_2_P: 11
+  response: 7E90462214D78

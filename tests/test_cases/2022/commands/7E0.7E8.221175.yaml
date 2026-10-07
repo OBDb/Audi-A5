@@ -4,5 +4,8 @@ test_cases:
     A5_INTEGRATED_MASS_AIR: 640.008
   response: '7E8056211750708'
 - expected_values:
+    A5_INTEGRATED_MASS_AIR: 3350.44188
+  response: 7E80562117524CF
+- expected_values:
     A5_INTEGRATED_MASS_AIR: 4305.12048
   response: 7E8056211752F4C

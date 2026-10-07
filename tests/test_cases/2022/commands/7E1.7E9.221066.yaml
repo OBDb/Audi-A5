@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_ANALYSIS_CLU_1_T_1: 0
   response: '7E9056210660000'
+- expected_values:
+    A5_ANALYSIS_CLU_1_T_1: 117.78
+  response: '7E9056210660117'

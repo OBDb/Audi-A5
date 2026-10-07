@@ -4,5 +4,8 @@ test_cases:
     A5_VPWR: 12.06
   response: 7E80562F4422F1C
 - expected_values:
+    A5_VPWR: 14.4
+  response: 7E80562F4423840
+- expected_values:
     A5_VPWR: 14.84
   response: 7E80562F44239F8

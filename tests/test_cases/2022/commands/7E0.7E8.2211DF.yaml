@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2211DF
 test_cases:
 - expected_values:
+    A5_POWERTRAIN_OVERALL: 6.42
+  response: 7E8056211DF0282
+- expected_values:
     A5_POWERTRAIN_OVERALL: 13.49
   response: 7E8056211DF0545
 - expected_values:

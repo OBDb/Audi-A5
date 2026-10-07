@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_ODO_2: 45718
   response: 7E8076210E00000B296
+- expected_values:
+    A5_ODO_2: 45720
+  response: 7E8076210E00000B298

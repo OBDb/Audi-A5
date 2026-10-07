@@ -4,5 +4,8 @@ test_cases:
     A5_CLIMATE_REFRIG_P: 7.2
   response: 7B00462260524
 - expected_values:
+    A5_CLIMATE_REFRIG_P: 7.4
+  response: 7B00462260525
+- expected_values:
     A5_CLIMATE_REFRIG_P: 8.6
   response: 7B0046226052B

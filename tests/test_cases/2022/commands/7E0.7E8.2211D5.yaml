@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     A5_HIGH_FUEL_P: 0.072
   response: 7E8056211D50090
+- expected_values:
+    A5_HIGH_FUEL_P: 0.832
+  response: 7E8056211D50680

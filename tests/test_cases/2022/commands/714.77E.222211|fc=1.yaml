@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     A5_PQ35_CHG_AIR_P: 0.78431
   response: '77E0462221102'
+- expected_values:
+    A5_PQ35_CHG_AIR_P: 55.29412
+  response: 77E046222118D

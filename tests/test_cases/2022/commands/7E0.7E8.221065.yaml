@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_CYL_HEAD_T: 185.12
   response: 7E8056210650E00
+- expected_values:
+    A5_CYL_HEAD_T: 195.74
+  response: 7E8056210650E3B

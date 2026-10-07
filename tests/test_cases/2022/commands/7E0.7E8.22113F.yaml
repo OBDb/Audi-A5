@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     A5_FUEL_CONS: 0.98
   response: 7E80562113F0062
+- expected_values:
+    A5_FUEL_CONS: 2.88
+  response: 7E80562113F0120

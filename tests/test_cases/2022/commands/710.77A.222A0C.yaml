@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_SSB_SOC: 52
   response: 77A04622A0C34
+- expected_values:
+    A5_SSB_SOC: 55
+  response: 77A04622A0C37

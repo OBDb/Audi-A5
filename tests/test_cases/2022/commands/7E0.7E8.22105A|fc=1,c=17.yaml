@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.22105A|fc=1,c=17
 test_cases:
 - expected_values:
+    A5_BATTERY_V: 717
+  response: 7E80562105A02CD
+- expected_values:
     A5_BATTERY_V: 718
   response: 7E80562105A02CE

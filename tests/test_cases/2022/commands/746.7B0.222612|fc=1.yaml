@@ -5,4 +5,7 @@ test_cases:
   response: 7B005622612004D
 - expected_values:
     A5_CLIMATE_T_AFTER_EVAP: 0
+  response: 7B0056226120069
+- expected_values:
+    A5_CLIMATE_T_AFTER_EVAP: 0
   response: 7B005622612006B

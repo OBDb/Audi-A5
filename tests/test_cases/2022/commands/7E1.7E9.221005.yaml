@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_VSS_ESP: 0
   response: '7E9056210050000'
+- expected_values:
+    A5_VSS_ESP: 34.1
+  response: 7E9056210050D52

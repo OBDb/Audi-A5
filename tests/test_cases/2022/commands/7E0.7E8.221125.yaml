@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221125
 test_cases:
 - expected_values:
+    A5_CAM_ADPT_INT_BANK_1: -0.61523
+  response: 7E805621125FFE4
+- expected_values:
     A5_CAM_ADPT_INT_BANK_1: -0.43945
   response: 7E805621125FFEC
 - expected_values:

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_POST_INJ_2: 1.7136
   response: 7E80562121B10BC
+- expected_values:
+    A5_POST_INJ_2: 2.1612
+  response: 7E80562121B151B

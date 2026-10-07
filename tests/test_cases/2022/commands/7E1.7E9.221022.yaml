@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.221022
 test_cases:
 - expected_values:
+    A5_TCM_TQ_LOSSES: 140
+  response: 7E905621022008C
+- expected_values:
     A5_TCM_TQ_LOSSES: 145
   response: '7E9056210220091'

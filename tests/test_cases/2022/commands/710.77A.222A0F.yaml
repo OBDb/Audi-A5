@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_SSB_AH: 24
   response: 77A04622A0F18
+- expected_values:
+    A5_SSB_AH: 25
+  response: 77A04622A0F19

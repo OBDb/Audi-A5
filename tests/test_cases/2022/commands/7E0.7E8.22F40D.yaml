@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     A5_VSS: 30
   response: 7E80462F40D1E
+- expected_values:
+    A5_VSS: 34
+  response: 7E80462F40D22
