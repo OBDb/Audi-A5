@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_PQ35_SELECTED_GEAR: 1
   response: 7E8056215AA01F7
+- expected_values:
+    A5_PQ35_SELECTED_GEAR: 3
+  response: 7E8056215AA037E

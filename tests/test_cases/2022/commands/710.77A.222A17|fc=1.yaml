@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     A5_OVERALL_ENERGY: 5093.55
   response: 77A06622A170012F3
+- expected_values:
+    A5_OVERALL_ENERGY: 5100.9
+  response: 77A06622A170012FA

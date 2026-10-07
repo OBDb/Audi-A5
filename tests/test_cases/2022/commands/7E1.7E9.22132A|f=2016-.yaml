@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_MQB_DL382_P_SENSOR_1_T: 47
   response: 7E90562132A002F
+- expected_values:
+    A5_MQB_DL382_P_SENSOR_1_T: 51
+  response: 7E90562132A0033

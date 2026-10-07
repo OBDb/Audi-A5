@@ -5,4 +5,7 @@ test_cases:
   response: 7B00562260D0093
 - expected_values:
     A5_CLIMATE_FR_R_DEFL_T: 0
+  response: 7B00562260D009D
+- expected_values:
+    A5_CLIMATE_FR_R_DEFL_T: 0
   response: 7B00562260D00A2

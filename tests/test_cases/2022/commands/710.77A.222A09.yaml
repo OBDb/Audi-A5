@@ -4,5 +4,8 @@ test_cases:
     A5_SSB_C: 9.824
   response: 77A07622A0900002660
 - expected_values:
+    A5_SSB_C: 10.034
+  response: 77A07622A0900002732
+- expected_values:
     A5_SSB_C: 22.229
   response: 77A07622A09000056D5

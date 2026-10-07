@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_CAM_ADPT_EXH_BANK_1: 0
   response: '7E8056211280000'
+- expected_values:
+    A5_CAM_ADPT_EXH_BANK_1: -0.4834
+  response: 7E805621128FFEA

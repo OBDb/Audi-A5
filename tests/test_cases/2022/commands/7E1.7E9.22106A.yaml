@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_RESERVE_TQ: 0
   response: 7E90562106A0000
+- expected_values:
+    A5_RESERVE_TQ: 1311
+  response: 7E90562106A051F

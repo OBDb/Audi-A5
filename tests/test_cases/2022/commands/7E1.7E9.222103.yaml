@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_MQB_TCM_TRANSMISSION_OUTPUT_SPD: 0
   response: '7E9056221030000'
+- expected_values:
+    A5_MQB_TCM_TRANSMISSION_OUTPUT_SPD: 355
+  response: 7E905622103058C

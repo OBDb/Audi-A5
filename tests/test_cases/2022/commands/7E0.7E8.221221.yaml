@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221221
 test_cases:
 - expected_values:
+    A5_PQ35_ACCEL_PED_1: 6.2
+  response: 7E805621221001F
+- expected_values:
     A5_PQ35_ACCEL_PED_1: 6.4
   response: '7E8056212210020'
 - expected_values:

@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.2215D4
 test_cases:
 - expected_values:
+    A5_LAMBDA_OUTPUT: 0.99027
+  response: 7E8056215D47EC1
+- expected_values:
     A5_LAMBDA_OUTPUT: 0.99921
   response: 7E8056215D47FE6

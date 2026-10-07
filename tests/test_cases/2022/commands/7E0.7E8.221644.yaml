@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.221644
 test_cases:
 - expected_values:
+    A5_LATERAL_ACCEL: 0
+  response: '7E8056216440000'
+- expected_values:
     A5_LATERAL_ACCEL: -0.01
   response: 7E805621644FFFF

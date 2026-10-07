@@ -4,5 +4,8 @@ test_cases:
     A5_CLIMATE_RAD_FAN_ACT_DUTY: 0
   response: 7B0056226060000
 - expected_values:
+    A5_CLIMATE_RAD_FAN_ACT_DUTY: 0
+  response: 7B00562260600FA
+- expected_values:
     A5_CLIMATE_RAD_FAN_ACT_DUTY: 0.4
   response: 7B00562260601CC

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_MQB_TCM_TRANSMISSION_INPUT_SPD: 804
   response: 7E9056221020C90
+- expected_values:
+    A5_MQB_TCM_TRANSMISSION_INPUT_SPD: 1311
+  response: 7E905622102147C

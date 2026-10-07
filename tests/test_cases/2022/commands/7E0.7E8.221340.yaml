@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_TQ_INCREASE_REQ_ESP: -44204
   response: 7E807621340FFF94148
+- expected_values:
+    A5_TQ_INCREASE_REQ_ESP: -21037
+  response: 7E807621340FFFCCA3E

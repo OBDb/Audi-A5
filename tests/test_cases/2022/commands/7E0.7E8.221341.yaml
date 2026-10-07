@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.221341
 test_cases:
 - expected_values:
+    A5_PQ35_CAMS_END: 45.8
+  response: 7E80562134100E5
+- expected_values:
     A5_PQ35_CAMS_END: 78.8
   response: 7E805621341018A

@@ -4,5 +4,8 @@ test_cases:
     A5_BRAKE_BOOSTER_P: 110.97514
   response: 7E8056211CF0B19
 - expected_values:
+    A5_BRAKE_BOOSTER_P: 130.97489
+  response: 7E8056211CF0D19
+- expected_values:
     A5_BRAKE_BOOSTER_P: 134.99827
   response: 7E8056211CF0D80
