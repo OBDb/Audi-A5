@@ -1,8 +1,17 @@
 command_id: 7E1.7E9.222102
 test_cases:
 - expected_values:
+    A5_MQB_TCM_TRANSMISSION_INPUT_SPD: 802
+  response: 7E9056221020C88
+- expected_values:
+    A5_MQB_TCM_TRANSMISSION_INPUT_SPD: 803
+  response: 7E9056221020C8C
+- expected_values:
     A5_MQB_TCM_TRANSMISSION_INPUT_SPD: 804
   response: 7E9056221020C90
+- expected_values:
+    A5_MQB_TCM_TRANSMISSION_INPUT_SPD: 805
+  response: 7E9056221020C94
 - expected_values:
     A5_MQB_TCM_TRANSMISSION_INPUT_SPD: 1311
   response: 7E905622102147C

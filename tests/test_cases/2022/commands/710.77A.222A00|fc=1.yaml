@@ -4,5 +4,11 @@ test_cases:
     A5_SSB_VT: 14.9
   response: 77A04622A002B
 - expected_values:
+    A5_SSB_VT: 15.2
+  response: 77A04622A002E
+- expected_values:
+    A5_SSB_VT: 15.3
+  response: 77A04622A002F
+- expected_values:
     A5_SSB_VT: 15.5
   response: 77A04622A0031

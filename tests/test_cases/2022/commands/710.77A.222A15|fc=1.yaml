@@ -4,8 +4,17 @@ test_cases:
     A5_ENERGY_BALANCE_LAST: 0.2
   response: 77A05622A150014
 - expected_values:
+    A5_ENERGY_BALANCE_LAST: 1
+  response: 77A05622A150064
+- expected_values:
     A5_ENERGY_BALANCE_LAST: 1.1
   response: 77A05622A15006E
 - expected_values:
     A5_ENERGY_BALANCE_LAST: 1.2
   response: 77A05622A150078
+- expected_values:
+    A5_ENERGY_BALANCE_LAST: 3.4
+  response: 77A05622A150154
+- expected_values:
+    A5_ENERGY_BALANCE_LAST: 4.3
+  response: 77A05622A1501AE

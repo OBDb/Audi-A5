@@ -6,3 +6,24 @@ test_cases:
 - expected_values:
     A5_PQ35_CAMS_END: 78.8
   response: 7E805621341018A
+- expected_values:
+    A5_PQ35_CAMS_END: -46.6
+  response: 7E805621341FF17
+- expected_values:
+    A5_PQ35_CAMS_END: -36.4
+  response: 7E805621341FF4A
+- expected_values:
+    A5_PQ35_CAMS_END: -31.4
+  response: 7E805621341FF63
+- expected_values:
+    A5_PQ35_CAMS_END: -19.4
+  response: 7E805621341FF9F
+- expected_values:
+    A5_PQ35_CAMS_END: -17.8
+  response: 7E805621341FFA7
+- expected_values:
+    A5_PQ35_CAMS_END: -16
+  response: 7E805621341FFB0
+- expected_values:
+    A5_PQ35_CAMS_END: -3.2
+  response: 7E805621341FFF0

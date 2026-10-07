@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_MANUAL_ENG_STARTS: 3910
   response: 7E8056229980F46
+- expected_values:
+    A5_MANUAL_ENG_STARTS: 3911
+  response: 7E8056229980F47

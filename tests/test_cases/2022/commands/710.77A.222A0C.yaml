@@ -1,6 +1,15 @@
 command_id: 710.77A.222A0C
 test_cases:
 - expected_values:
+    A5_SSB_SOC: 35
+  response: 77A04622A0C23
+- expected_values:
+    A5_SSB_SOC: 39
+  response: 77A04622A0C27
+- expected_values:
+    A5_SSB_SOC: 41
+  response: 77A04622A0C29
+- expected_values:
     A5_SSB_SOC: 52
   response: 77A04622A0C34
 - expected_values:

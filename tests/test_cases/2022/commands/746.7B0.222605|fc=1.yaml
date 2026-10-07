@@ -1,6 +1,12 @@
 command_id: 746.7B0.222605|fc=1
 test_cases:
 - expected_values:
+    A5_CLIMATE_REFRIG_P: 5.4
+  response: 7B0046226051B
+- expected_values:
+    A5_CLIMATE_REFRIG_P: 5.6
+  response: 7B0046226051C
+- expected_values:
     A5_CLIMATE_REFRIG_P: 7.2
   response: 7B00462260524
 - expected_values:

@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     A5_PQ35_CLUTCH_2_CHAR_CURVE_SHIFT: 21.57568
   response: '7E9056210780056'
+- expected_values:
+    A5_PQ35_CLUTCH_2_CHAR_CURVE_SHIFT: -4.7677
+  response: 7E905621078FFEC
+- expected_values:
+    A5_PQ35_CLUTCH_2_CHAR_CURVE_SHIFT: -4.26594
+  response: 7E905621078FFEE

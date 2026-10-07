@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.221509
 test_cases:
 - expected_values:
+    A5_AMBIENT_AIR_P: 1003.431
+  response: '7E8056215096481'
+- expected_values:
+    A5_AMBIENT_AIR_P: 1003.626
+  response: '7E8056215096486'
+- expected_values:
     A5_AMBIENT_AIR_P: 1010.217
   response: 7E805621509652F
 - expected_values:

@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     A5_AUX_HYDRAULIC_PMP: 64
   response: 7E9056270D60260
+- expected_values:
+    A5_AUX_HYDRAULIC_PMP: 128
+  response: 7E9056270D6042C
+- expected_values:
+    A5_AUX_HYDRAULIC_PMP: 128
+  response: 7E9056270D6042F
+- expected_values:
+    A5_AUX_HYDRAULIC_PMP: 128
+  response: 7E9056270D6043E

@@ -4,5 +4,29 @@ test_cases:
     A5_RUNTM: 93
   response: 7E80562F41F005D
 - expected_values:
+    A5_RUNTM: 95
+  response: 7E80562F41F005F
+- expected_values:
+    A5_RUNTM: 164
+  response: 7E80562F41F00A4
+- expected_values:
+    A5_RUNTM: 195
+  response: 7E80562F41F00C3
+- expected_values:
+    A5_RUNTM: 229
+  response: 7E80562F41F00E5
+- expected_values:
+    A5_RUNTM: 262
+  response: 7E80562F41F0106
+- expected_values:
+    A5_RUNTM: 315
+  response: 7E80562F41F013B
+- expected_values:
+    A5_RUNTM: 325
+  response: 7E80562F41F0145
+- expected_values:
+    A5_RUNTM: 361
+  response: 7E80562F41F0169
+- expected_values:
     A5_RUNTM: 466
   response: 7E80562F41F01D2

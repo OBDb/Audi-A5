@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     A5_HEATER_CIRCULATION: 62.37
   response: 7E80562167F185D
+- expected_values:
+    A5_HEATER_CIRCULATION: 94.78
+  response: 7E80562167F2506

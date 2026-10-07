@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22F446
 test_cases:
 - expected_values:
+    A5_AAT_7E0: 13
+  response: 7E80462F44635
+- expected_values:
     A5_AAT_7E0: 20
   response: 7E80462F4463C
 - expected_values:

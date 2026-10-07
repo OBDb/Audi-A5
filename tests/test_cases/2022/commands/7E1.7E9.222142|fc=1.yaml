@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     A5_SPEC_TQ_CLU_1_DATA: 36.4
   response: 7E90562214202D8
+- expected_values:
+    A5_SPEC_TQ_CLU_1_DATA: -500
+  response: 7E905622142D8F0

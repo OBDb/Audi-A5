@@ -4,5 +4,29 @@ test_cases:
     A5_LAMBDA_OUTPUT: 0.99027
   response: 7E8056215D47EC1
 - expected_values:
+    A5_LAMBDA_OUTPUT: 0.99637
+  response: 7E8056215D47F89
+- expected_values:
     A5_LAMBDA_OUTPUT: 0.99921
   response: 7E8056215D47FE6
+- expected_values:
+    A5_LAMBDA_OUTPUT: 1.00189
+  response: 7E8056215D4803E
+- expected_values:
+    A5_LAMBDA_OUTPUT: 1.00583
+  response: 7E8056215D480BF
+- expected_values:
+    A5_LAMBDA_OUTPUT: 1.00678
+  response: 7E8056215D480DE
+- expected_values:
+    A5_LAMBDA_OUTPUT: 1.0076
+  response: 7E8056215D480F9
+- expected_values:
+    A5_LAMBDA_OUTPUT: 1.00949
+  response: 7E8056215D48137
+- expected_values:
+    A5_LAMBDA_OUTPUT: 1.01245
+  response: 7E8056215D48198
+- expected_values:
+    A5_LAMBDA_OUTPUT: 1.01892
+  response: 7E8056215D4826C

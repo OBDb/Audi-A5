@@ -4,5 +4,26 @@ test_cases:
     A5_PQ35_SELECTED_GEAR: 1
   response: 7E8056215AA01F7
 - expected_values:
+    A5_PQ35_SELECTED_GEAR: 2
+  response: 7E8056215AA0203
+- expected_values:
+    A5_PQ35_SELECTED_GEAR: 2
+  response: 7E8056215AA0205
+- expected_values:
+    A5_PQ35_SELECTED_GEAR: 2
+  response: 7E8056215AA0206
+- expected_values:
+    A5_PQ35_SELECTED_GEAR: 2
+  response: 7E8056215AA0207
+- expected_values:
+    A5_PQ35_SELECTED_GEAR: 2
+  response: 7E8056215AA0209
+- expected_values:
+    A5_PQ35_SELECTED_GEAR: 2
+  response: 7E8056215AA020E
+- expected_values:
+    A5_PQ35_SELECTED_GEAR: 2
+  response: 7E8056215AA0213
+- expected_values:
     A5_PQ35_SELECTED_GEAR: 3
   response: 7E8056215AA037E

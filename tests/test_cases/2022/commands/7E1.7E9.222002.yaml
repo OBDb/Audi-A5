@@ -1,6 +1,15 @@
 command_id: 7E1.7E9.222002
 test_cases:
 - expected_values:
+    A5_ENG_TQ_7E1: 0
+  response: '7E9056220020000'
+- expected_values:
+    A5_ENG_TQ_7E1: 2
+  response: '7E9056220020002'
+- expected_values:
+    A5_ENG_TQ_7E1: 3
+  response: '7E9056220020003'
+- expected_values:
     A5_ENG_TQ_7E1: 5
   response: '7E9056220020005'
 - expected_values:

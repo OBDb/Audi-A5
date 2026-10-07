@@ -1,6 +1,30 @@
 command_id: 7E0.7E8.221065
 test_cases:
 - expected_values:
+    A5_CYL_HEAD_T: 95.12
+  response: 7E8056210650C0C
+- expected_values:
+    A5_CYL_HEAD_T: 112.94
+  response: 7E8056210650C6F
+- expected_values:
+    A5_CYL_HEAD_T: 119.78
+  response: 7E8056210650C95
+- expected_values:
+    A5_CYL_HEAD_T: 126.26
+  response: 7E8056210650CB9
+- expected_values:
+    A5_CYL_HEAD_T: 129.14
+  response: 7E8056210650CC9
+- expected_values:
+    A5_CYL_HEAD_T: 137.78
+  response: 7E8056210650CF9
+- expected_values:
+    A5_CYL_HEAD_T: 139.4
+  response: 7E8056210650D02
+- expected_values:
+    A5_CYL_HEAD_T: 146.06
+  response: 7E8056210650D27
+- expected_values:
     A5_CYL_HEAD_T: 185.12
   response: 7E8056210650E00
 - expected_values:

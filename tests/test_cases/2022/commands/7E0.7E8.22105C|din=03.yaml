@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     A5_PQ35_GEN_LOAD: 2.37
   response: 7E80562105C00ED
+- expected_values:
+    A5_PQ35_GEN_LOAD: 3.36
+  response: 7E80562105C0150
+- expected_values:
+    A5_PQ35_GEN_LOAD: 3.75
+  response: 7E80562105C0177
+- expected_values:
+    A5_PQ35_GEN_LOAD: 3.96
+  response: 7E80562105C018C

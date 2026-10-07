@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     A5_CURRENT_N215_P_CTRL_1: 14.5
   response: '7E9056210240091'
+- expected_values:
+    A5_CURRENT_N215_P_CTRL_1: 14.8
+  response: '7E9056210240094'

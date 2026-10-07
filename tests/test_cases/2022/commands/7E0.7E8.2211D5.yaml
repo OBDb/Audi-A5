@@ -4,8 +4,29 @@ test_cases:
     A5_HIGH_FUEL_P: 0
   response: 7E8056211D50000
 - expected_values:
+    A5_HIGH_FUEL_P: 0.006
+  response: 7E8056211D5000C
+- expected_values:
+    A5_HIGH_FUEL_P: 0.02
+  response: 7E8056211D50028
+- expected_values:
+    A5_HIGH_FUEL_P: 0.032
+  response: 7E8056211D50040
+- expected_values:
+    A5_HIGH_FUEL_P: 0.058
+  response: 7E8056211D50074
+- expected_values:
     A5_HIGH_FUEL_P: 0.072
   response: 7E8056211D50090
 - expected_values:
     A5_HIGH_FUEL_P: 0.832
   response: 7E8056211D50680
+- expected_values:
+    A5_HIGH_FUEL_P: -0.06
+  response: 7E8056211D5FF88
+- expected_values:
+    A5_HIGH_FUEL_P: -0.048
+  response: 7E8056211D5FFA0
+- expected_values:
+    A5_HIGH_FUEL_P: -0.02
+  response: 7E8056211D5FFD8
