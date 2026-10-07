@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     A5_CLR_DIST: 25546
   response: 7E80562F43163CA
+- expected_values:
+    A5_CLR_DIST: 25547
+  response: 7E80562F43163CB

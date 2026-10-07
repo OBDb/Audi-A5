@@ -1,6 +1,15 @@
 command_id: 7E0.7E8.22121B|din=03
 test_cases:
 - expected_values:
+    A5_POST_INJ_2: 1.7068
+  response: 7E80562121B10AB
+- expected_values:
+    A5_POST_INJ_2: 1.7084
+  response: 7E80562121B10AF
+- expected_values:
+    A5_POST_INJ_2: 1.7092
+  response: 7E80562121B10B1
+- expected_values:
     A5_POST_INJ_2: 1.7136
   response: 7E80562121B10BC
 - expected_values:

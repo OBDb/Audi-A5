@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     A5_TCM_TQ_LOSSES: 145
   response: '7E9056210220091'
+- expected_values:
+    A5_TCM_TQ_LOSSES: 147
+  response: '7E9056210220093'
+- expected_values:
+    A5_TCM_TQ_LOSSES: 148
+  response: '7E9056210220094'

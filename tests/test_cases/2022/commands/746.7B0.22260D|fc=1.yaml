@@ -2,6 +2,9 @@ command_id: 746.7B0.22260D|fc=1
 test_cases:
 - expected_values:
     A5_CLIMATE_FR_R_DEFL_T: 0
+  response: 7B00562260D0073
+- expected_values:
+    A5_CLIMATE_FR_R_DEFL_T: 0
   response: 7B00562260D0093
 - expected_values:
     A5_CLIMATE_FR_R_DEFL_T: 0
@@ -9,3 +12,9 @@ test_cases:
 - expected_values:
     A5_CLIMATE_FR_R_DEFL_T: 0
   response: 7B00562260D00A2
+- expected_values:
+    A5_CLIMATE_FR_R_DEFL_T: 0
+  response: 7B00562260D00DE
+- expected_values:
+    A5_CLIMATE_FR_R_DEFL_T: 0
+  response: 7B00562260D00F4

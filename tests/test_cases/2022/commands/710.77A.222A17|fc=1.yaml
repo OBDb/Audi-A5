@@ -1,6 +1,15 @@
 command_id: 710.77A.222A17|fc=1
 test_cases:
 - expected_values:
+    A5_OVERALL_ENERGY: 4961.25
+  response: 77A06622A17001275
+- expected_values:
+    A5_OVERALL_ENERGY: 4986.45
+  response: 77A06622A1700128D
+- expected_values:
+    A5_OVERALL_ENERGY: 4995.9
+  response: 77A06622A17001296
+- expected_values:
     A5_OVERALL_ENERGY: 5090.4
   response: 77A06622A170012F0
 - expected_values:

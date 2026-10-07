@@ -7,5 +7,14 @@ test_cases:
     A5_SSB_V: 14.702
   response: 77A05622A0729CE
 - expected_values:
+    A5_SSB_V: 14.854
+  response: 77A05622A072A66
+- expected_values:
+    A5_SSB_V: 14.859
+  response: 77A05622A072A6B
+- expected_values:
+    A5_SSB_V: 14.93
+  response: 77A05622A072AB2
+- expected_values:
     A5_SSB_V: 15.015
   response: 77A05622A072B07

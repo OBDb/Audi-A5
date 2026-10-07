@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     A5_BAT_INTERNAL_RES_RAW: 4.6
   response: 77A04622A2517
+- expected_values:
+    A5_BAT_INTERNAL_RES_RAW: 4.8
+  response: 77A04622A2518
+- expected_values:
+    A5_BAT_INTERNAL_RES_RAW: 5.2
+  response: 77A04622A251A
+- expected_values:
+    A5_BAT_INTERNAL_RES_RAW: 6.2
+  response: 77A04622A251F

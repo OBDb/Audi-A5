@@ -1,6 +1,30 @@
 command_id: 7E0.7E8.2211BD
 test_cases:
 - expected_values:
+    A5_OIL_LEVEL_WARN: 1.1556
+  response: 7E8056211BD0B49
+- expected_values:
+    A5_OIL_LEVEL_WARN: 1.1672
+  response: 7E8056211BD0B66
+- expected_values:
+    A5_OIL_LEVEL_WARN: 1.1748
+  response: 7E8056211BD0B79
+- expected_values:
+    A5_OIL_LEVEL_WARN: 1.1828
+  response: 7E8056211BD0B8D
+- expected_values:
+    A5_OIL_LEVEL_WARN: 1.184
+  response: 7E8056211BD0B90
+- expected_values:
+    A5_OIL_LEVEL_WARN: 1.1968
+  response: 7E8056211BD0BB0
+- expected_values:
+    A5_OIL_LEVEL_WARN: 1.1972
+  response: 7E8056211BD0BB1
+- expected_values:
+    A5_OIL_LEVEL_WARN: 1.2036
+  response: 7E8056211BD0BC1
+- expected_values:
     A5_OIL_LEVEL_WARN: 1.3764
   response: 7E8056211BD0D71
 - expected_values:

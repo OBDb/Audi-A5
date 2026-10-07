@@ -1,6 +1,9 @@
 command_id: 746.7B0.22260A|fc=1
 test_cases:
 - expected_values:
+    A5_OUTSIDE_T_SYSTEM: 13
+  response: 7B00562260A0082
+- expected_values:
     A5_OUTSIDE_T_SYSTEM: 20.4
   response: 7B00562260A00CC
 - expected_values:

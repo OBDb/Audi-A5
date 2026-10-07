@@ -6,3 +6,12 @@ test_cases:
 - expected_values:
     A5_INJ_2_RAIL_P_1: 0.0016
   response: 7E8056210D40020
+- expected_values:
+    A5_INJ_2_RAIL_P_1: -0.0101
+  response: 7E8056210D4FF36
+- expected_values:
+    A5_INJ_2_RAIL_P_1: -0.0072
+  response: 7E8056210D4FF70
+- expected_values:
+    A5_INJ_2_RAIL_P_1: -0.00265
+  response: 7E8056210D4FFCB

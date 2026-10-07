@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     A5_ENTIRE_ENERGY: 4507
   response: 77A06622A1800B00E
+- expected_values:
+    A5_ENTIRE_ENERGY: 4521.9
+  response: 77A06622A1800B0A3

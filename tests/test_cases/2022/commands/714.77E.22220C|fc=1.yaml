@@ -1,6 +1,9 @@
 command_id: 714.77E.22220C|fc=1
 test_cases:
 - expected_values:
+    A5_OUTSIDE_T: 13.5
+  response: 77E0462220C7F
+- expected_values:
     A5_OUTSIDE_T: 20.5
   response: 77E0462220C8D
 - expected_values:

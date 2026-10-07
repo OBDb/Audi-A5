@@ -4,5 +4,14 @@ test_cases:
     A5_GEN_CURRENT: 49
   response: 77A05622A1C0190
 - expected_values:
+    A5_GEN_CURRENT: 81
+  response: 77A05622A1C02D0
+- expected_values:
+    A5_GEN_CURRENT: 85
+  response: 77A05622A1C02F8
+- expected_values:
+    A5_GEN_CURRENT: 93
+  response: 77A05622A1C0348
+- expected_values:
     A5_GEN_CURRENT: 117
   response: 77A05622A1C0438

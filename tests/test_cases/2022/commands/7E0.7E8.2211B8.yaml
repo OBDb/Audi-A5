@@ -1,6 +1,18 @@
 command_id: 7E0.7E8.2211B8
 test_cases:
 - expected_values:
+    A5_AIR_LEAKAGE: 4
+  response: 7E8056211B80028
+- expected_values:
+    A5_AIR_LEAKAGE: 4.1
+  response: 7E8056211B80029
+- expected_values:
+    A5_AIR_LEAKAGE: 4.3
+  response: 7E8056211B8002B
+- expected_values:
+    A5_AIR_LEAKAGE: 4.4
+  response: 7E8056211B8002C
+- expected_values:
     A5_AIR_LEAKAGE: 4.7
   response: 7E8056211B8002F
 - expected_values:

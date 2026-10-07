@@ -1,6 +1,18 @@
 command_id: 767.7D1.222431|fc=1
 test_cases:
 - expected_values:
+    A5_GPS_SATS_TRACKED: 30
+    A5_GPS_SATS_VISIBLE: 4
+  response: 7D106622431041E1C
+- expected_values:
+    A5_GPS_SATS_TRACKED: 33
+    A5_GPS_SATS_VISIBLE: 4
+  response: 7D10662243104211A
+- expected_values:
+    A5_GPS_SATS_TRACKED: 33
+    A5_GPS_SATS_VISIBLE: 4
+  response: 7D10662243104211C
+- expected_values:
     A5_GPS_SATS_TRACKED: 35
     A5_GPS_SATS_VISIBLE: 4
   response: 7D10662243104231E

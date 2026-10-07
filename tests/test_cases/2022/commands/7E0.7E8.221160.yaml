@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     A5_ODO_HD: 45504.058
   response: 7E80762116002B6563A
+- expected_values:
+    A5_ODO_HD: 45504.501
+  response: 7E80762116002B657F5

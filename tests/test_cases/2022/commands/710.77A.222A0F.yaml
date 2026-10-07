@@ -1,6 +1,15 @@
 command_id: 710.77A.222A0F
 test_cases:
 - expected_values:
+    A5_SSB_AH: 8
+  response: 77A04622A0F08
+- expected_values:
+    A5_SSB_AH: 12
+  response: 77A04622A0F0C
+- expected_values:
+    A5_SSB_AH: 13
+  response: 77A04622A0F0D
+- expected_values:
     A5_SSB_AH: 24
   response: 77A04622A0F18
 - expected_values:

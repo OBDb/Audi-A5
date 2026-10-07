@@ -4,5 +4,14 @@ test_cases:
     A5_PRE_INJ_3_ACTIVATION: 0.3228
   response: 7E80562121A0327
 - expected_values:
+    A5_PRE_INJ_3_ACTIVATION: 0.3544
+  response: 7E80562121A0376
+- expected_values:
+    A5_PRE_INJ_3_ACTIVATION: 0.362
+  response: 7E80562121A0389
+- expected_values:
+    A5_PRE_INJ_3_ACTIVATION: 0.386
+  response: 7E80562121A03C5
+- expected_values:
     A5_PRE_INJ_3_ACTIVATION: 0.8292
   response: 7E80562121A0819

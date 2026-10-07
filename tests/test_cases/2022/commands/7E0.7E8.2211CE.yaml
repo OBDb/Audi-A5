@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.2211CE
 test_cases:
 - expected_values:
+    A5_LOW_FUEL_P_CMD: 469.2
+  response: 7E8056211CE1254
+- expected_values:
+    A5_LOW_FUEL_P_CMD: 500
+  response: 7E8056211CE1388
+- expected_values:
     A5_LOW_FUEL_P_CMD: 649.2
   response: 7E8056211CE195C
 - expected_values:

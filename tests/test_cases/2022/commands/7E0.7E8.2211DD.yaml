@@ -4,5 +4,29 @@ test_cases:
     A5_INT_MANIFOLD_P_CMD: 285
   response: 7E8056211DD0E40
 - expected_values:
+    A5_INT_MANIFOLD_P_CMD: 296.40625
+  response: 7E8056211DD0ED2
+- expected_values:
+    A5_INT_MANIFOLD_P_CMD: 298.04688
+  response: 7E8056211DD0EE7
+- expected_values:
+    A5_INT_MANIFOLD_P_CMD: 300.85938
+  response: 7E8056211DD0F0B
+- expected_values:
+    A5_INT_MANIFOLD_P_CMD: 301.40625
+  response: 7E8056211DD0F12
+- expected_values:
+    A5_INT_MANIFOLD_P_CMD: 305.85938
+  response: 7E8056211DD0F4B
+- expected_values:
+    A5_INT_MANIFOLD_P_CMD: 308.98438
+  response: 7E8056211DD0F73
+- expected_values:
+    A5_INT_MANIFOLD_P_CMD: 311.875
+  response: 7E8056211DD0F98
+- expected_values:
+    A5_INT_MANIFOLD_P_CMD: 320.46875
+  response: 7E8056211DD1006
+- expected_values:
     A5_INT_MANIFOLD_P_CMD: 329.76562
   response: 7E8056211DD107D
