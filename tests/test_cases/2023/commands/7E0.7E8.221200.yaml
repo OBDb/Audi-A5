@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221200
+test_cases:
+- expected_values:
+    A5_EA888B_BOOST_P_CTRL_1: 64.63
+  response: 7E805621200176B
+- expected_values:
+    A5_EA888B_BOOST_P_CTRL_1: 64.63
+  response: '7E8056212001795'

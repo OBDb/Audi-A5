@@ -1,0 +1,8 @@
+command_id: 70F.779.221800|fc=1,f=2017-
+test_cases:
+- expected_values:
+    A5_CPL_SOL_I: 0
+  response: '779056218000000'
+- expected_values:
+    A5_CPL_SOL_I: 0.01172
+  response: '779056218000006'

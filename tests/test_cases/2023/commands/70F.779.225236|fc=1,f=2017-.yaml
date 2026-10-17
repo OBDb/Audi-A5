@@ -1,0 +1,7 @@
+command_id: 70F.779.225236|fc=1,f=2017-
+test_cases:
+- expected_values:
+    A5_DRIVE_SHFT_SPD_SENS: 0
+  response: |-
+    7791009625236000000
+    7792100140700000000

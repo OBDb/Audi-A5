@@ -1,0 +1,5 @@
+command_id: 70F.779.221801|fc=1,f=2017-
+test_cases:
+- expected_values:
+    A5_CPL_SENS_SPD: 0
+  response: '7790762180100000000'

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221000|fc=1
+test_cases:
+- expected_values:
+    A5_AAT_7E0_2: 12
+  response: '7E80462100050'

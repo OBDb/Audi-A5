@@ -1,0 +1,11 @@
+command_id: 713.77D.222005|fc=1
+test_cases:
+- expected_values:
+    A5_P_BRAKE_SERVO_UNIT: -929.5
+  response: 77D05622005C5E8
+- expected_values:
+    A5_P_BRAKE_SERVO_UNIT: -928.9375
+  response: 77D05622005C5F1
+- expected_values:
+    A5_P_BRAKE_SERVO_UNIT: -928.6875
+  response: 77D05622005C5F5

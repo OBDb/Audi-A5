@@ -1,0 +1,8 @@
+command_id: 710.77A.222A15|fc=1
+test_cases:
+- expected_values:
+    A5_ENERGY_BALANCE_LAST: 0.5
+  response: 77A05622A150032
+- expected_values:
+    A5_ENERGY_BALANCE_LAST: 0.6
+  response: 77A05622A15003C

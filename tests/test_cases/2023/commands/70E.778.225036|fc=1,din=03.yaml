@@ -1,0 +1,17 @@
+command_id: 70E.778.225036|fc=1,din=03
+test_cases:
+- expected_values:
+    A5_HUMIDITY_SENS_REL: 63.855
+  response: |-
+    778100C625036006C00
+    778218101D8021A00AA
+- expected_values:
+    A5_HUMIDITY_SENS_REL: 64.35
+  response: |-
+    778100C625036006C00
+    778218201D9021A00AA
+- expected_values:
+    A5_HUMIDITY_SENS_REL: 64.845
+  response: |-
+    778100C625036006C00
+    778218301DC021C00AA

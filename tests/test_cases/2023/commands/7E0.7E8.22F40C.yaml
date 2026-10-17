@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    A5_RPM: 848.75
+  response: 7E80562F40C0D43
+- expected_values:
+    A5_RPM: 850.5
+  response: 7E80562F40C0D4A
