@@ -1,0 +1,5 @@
+command_id: 714.77E.222203
+test_cases:
+- expected_values:
+    A5_ODO_DASH: 48759
+  response: 77E0662220300BE77

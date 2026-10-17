@@ -1,0 +1,5 @@
+command_id: 70E.778.222613|fc=1,din=03
+test_cases:
+- expected_values:
+    A5_INSIDE_T: 27
+  response: '778056226130302'

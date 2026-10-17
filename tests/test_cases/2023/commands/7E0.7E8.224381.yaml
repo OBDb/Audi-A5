@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.224381
+test_cases:
+- expected_values:
+    A5_LONG_TERM_FUEL_TRIM_IDLE: -0.08
+  response: 7E805624381FFF8

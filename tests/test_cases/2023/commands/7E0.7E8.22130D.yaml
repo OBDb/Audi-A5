@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22130D
+test_cases:
+- expected_values:
+    A5_FUEL_MASS_REQ_I_CTL: -2.71283
+  response: 7E80562130DFF80
+- expected_values:
+    A5_FUEL_MASS_REQ_I_CTL: -2.64925
+  response: 7E80562130DFF83

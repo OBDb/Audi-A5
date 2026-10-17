@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.222105
+test_cases:
+- expected_values:
+    A5_TQ_TRANSMITTING_FUNCTION: 14.1
+  response: 7E905622105008D

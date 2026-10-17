@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    A5_EXH_GAS_T: 389.7
+  response: 7E80562F43C10C9
+- expected_values:
+    A5_EXH_GAS_T: 406.1
+  response: 7E80562F43C116D
+- expected_values:
+    A5_EXH_GAS_T: 418.4
+  response: 7E80562F43C11E8

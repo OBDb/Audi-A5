@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221298|fc=1
+test_cases:
+- expected_values:
+    A5_CAT_T_BANK_1: 387.7875
+  response: 7E805621298294F
