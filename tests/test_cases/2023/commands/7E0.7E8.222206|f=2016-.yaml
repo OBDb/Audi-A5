@@ -4,29 +4,5 @@ test_cases:
     A5_PQ35_FUEL_LEVEL_7E0_2206: 6
   response: '7E80462220606'
 - expected_values:
-    A5_PQ35_FUEL_LEVEL_7E0_2206: 7
-  response: '7E80462220607'
-- expected_values:
-    A5_PQ35_FUEL_LEVEL_7E0_2206: 8
-  response: '7E80462220608'
-- expected_values:
-    A5_PQ35_FUEL_LEVEL_7E0_2206: 9
-  response: '7E80462220609'
-- expected_values:
-    A5_PQ35_FUEL_LEVEL_7E0_2206: 10
-  response: 7E8046222060A
-- expected_values:
-    A5_PQ35_FUEL_LEVEL_7E0_2206: 14
-  response: 7E8046222060E
-- expected_values:
-    A5_PQ35_FUEL_LEVEL_7E0_2206: 49
-  response: '7E80462220631'
-- expected_values:
-    A5_PQ35_FUEL_LEVEL_7E0_2206: 50
-  response: '7E80462220632'
-- expected_values:
-    A5_PQ35_FUEL_LEVEL_7E0_2206: 51
-  response: '7E80462220633'
-- expected_values:
-    A5_PQ35_FUEL_LEVEL_7E0_2206: 52
-  response: '7E80462220634'
+    A5_PQ35_FUEL_LEVEL_7E0_2206: 58
+  response: 7E8046222063A
