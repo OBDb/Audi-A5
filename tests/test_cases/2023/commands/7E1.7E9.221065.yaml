@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.221065
+test_cases:
+- expected_values:
+    A5_CLU_1_T_TIME_RANGE_0: 865.36
+  response: 7E90562106504A9
+- expected_values:
+    A5_CLU_1_T_TIME_RANGE_0: 1290.34
+  response: 7E90562106505FC
+- expected_values:
+    A5_CLU_1_T_TIME_RANGE_0: 1203.38
+  response: 7E90562106509EB

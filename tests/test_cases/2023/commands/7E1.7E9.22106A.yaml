@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22106A
+test_cases:
+- expected_values:
+    A5_RESERVE_TQ: 0
+  response: 7E90562106A0000
+- expected_values:
+    A5_RESERVE_TQ: 1705
+  response: 7E90562106A06A9
+- expected_values:
+    A5_RESERVE_TQ: 2463
+  response: 7E90562106A099F
