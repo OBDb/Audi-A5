@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.222104
 test_cases:
 - expected_values:
-    A5_ATF_T: 21
-  response: 7E9046221043D
+    A5_ATF_T: 18
+  response: 7E9046221043A
 - expected_values:
     A5_ATF_T: 107
   response: '7E90462210493'
