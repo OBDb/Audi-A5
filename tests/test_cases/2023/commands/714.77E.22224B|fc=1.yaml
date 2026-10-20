@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     A5_DASH_OIL_THERMAL_WEAR: 52
   response: 77E0562224B0034
+- expected_values:
+    A5_DASH_OIL_THERMAL_WEAR: 269
+  response: 77E0562224B010D
