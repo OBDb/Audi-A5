@@ -1,11 +1,11 @@
 command_id: 746.7B0.22260C|fc=1
 test_cases:
 - expected_values:
-    A5_CLIMATE_FR_L_DEFL_T: 0
+    A5_CLIMATE_FR_L_DEFL_T: 9.9
   response: 7B00562260C0063
 - expected_values:
-    A5_CLIMATE_FR_L_DEFL_T: 0
+    A5_CLIMATE_FR_L_DEFL_T: 22.7
   response: 7B00562260C00E3
 - expected_values:
-    A5_CLIMATE_FR_L_DEFL_T: 0.33333
+    A5_CLIMATE_FR_L_DEFL_T: 27.2
   response: 7B00562260C0110

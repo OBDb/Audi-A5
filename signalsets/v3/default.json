@@ -320,15 +320,15 @@
   ]},
 { "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "260C"}, "freq": 5, "dbgfilter": { "to": 2016, "years": [2018, 2021], "from": 2024 },
   "signals": [
-    {"id": "A5_CLIMATE_FR_L_DEFL_T", "path": "Engine", "fmt": { "len": 8, "max": 84.915, "div": 3, "nullmax": 84.915, "unit": "celsius" }, "name": "Front left deflector temperature"}
+    {"id": "A5_CLIMATE_FR_L_DEFL_T", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "celsius" }, "name": "Front left deflector temperature"}
   ]},
 { "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "260D"}, "freq": 5, "dbgfilter": { "to": 2016, "years": [2018, 2021], "from": 2024 },
   "signals": [
-    {"id": "A5_CLIMATE_FR_R_DEFL_T", "path": "Engine", "fmt": { "len": 8, "max": 84.915, "div": 3, "nullmax": 84.915, "unit": "celsius" }, "name": "Front right deflector temperature"}
+    {"id": "A5_CLIMATE_FR_R_DEFL_T", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "celsius" }, "name": "Front right deflector temperature"}
   ]},
 { "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2612"}, "freq": 5, "dbgfilter": { "to": 2016, "years": [2018, 2021], "from": 2024 },
   "signals": [
-    {"id": "A5_CLIMATE_T_AFTER_EVAP", "path": "Engine", "fmt": { "len": 8, "max": 42.291, "min": -42.624, "div": 3, "sign": true, "unit": "celsius" }, "name": "Temperature after evaporator"}
+    {"id": "A5_CLIMATE_T_AFTER_EVAP", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "celsius" }, "name": "Temperature after evaporator"}
   ]},
 { "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "2613"}, "freq": 5, "dbgfilter": { "to": 2016, "years": [2018, 2021], "from": 2024 },
   "signals": [
@@ -336,7 +336,7 @@
   ]},
 { "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "263D"}, "freq": 5, "dbgfilter": { "to": 2016, "years": [2018, 2021], "from": 2024 },
   "signals": [
-    {"id": "A5_CLIMATE_RR_DEFL_T", "path": "Engine", "fmt": { "len": 8, "max": 84.915, "div": 3, "nullmax": 84.915, "unit": "celsius" }, "name": "Rear deflector temperature"}
+    {"id": "A5_CLIMATE_RR_DEFL_T", "path": "Engine", "fmt": { "len": 16, "max": 400, "min": -3276.8, "div": 10, "sign": true, "nullmax": 400, "unit": "celsius" }, "name": "Rear deflector temperature"}
   ]},
 { "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "26ED"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2021], "from": 2024 },
   "signals": [

@@ -1,20 +1,20 @@
 command_id: 746.7B0.22260D|fc=1
 test_cases:
 - expected_values:
-    A5_CLIMATE_FR_R_DEFL_T: 0
+    A5_CLIMATE_FR_R_DEFL_T: 11.5
   response: 7B00562260D0073
 - expected_values:
-    A5_CLIMATE_FR_R_DEFL_T: 0
+    A5_CLIMATE_FR_R_DEFL_T: 14.7
   response: 7B00562260D0093
 - expected_values:
-    A5_CLIMATE_FR_R_DEFL_T: 0
+    A5_CLIMATE_FR_R_DEFL_T: 15.7
   response: 7B00562260D009D
 - expected_values:
-    A5_CLIMATE_FR_R_DEFL_T: 0
+    A5_CLIMATE_FR_R_DEFL_T: 16.2
   response: 7B00562260D00A2
 - expected_values:
-    A5_CLIMATE_FR_R_DEFL_T: 0
+    A5_CLIMATE_FR_R_DEFL_T: 22.2
   response: 7B00562260D00DE
 - expected_values:
-    A5_CLIMATE_FR_R_DEFL_T: 0
+    A5_CLIMATE_FR_R_DEFL_T: 24.4
   response: 7B00562260D00F4
