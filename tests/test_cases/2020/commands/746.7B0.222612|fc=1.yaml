@@ -1,8 +1,8 @@
 command_id: 746.7B0.222612|fc=1
 test_cases:
 - expected_values:
-    A5_CLIMATE_T_AFTER_EVAP: 0
+    A5_CLIMATE_T_AFTER_EVAP: 1.9
   response: 7B0056226120013
 - expected_values:
-    A5_CLIMATE_T_AFTER_EVAP: 0
+    A5_CLIMATE_T_AFTER_EVAP: 17.7
   response: 7B00562261200B1
