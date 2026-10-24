@@ -1038,9 +1038,13 @@
   "signals": [
     {"id": "A5_BOOST_REGULATOR_FEEDBACK", "path": "Engine", "fmt": { "len": 16, "max": 100, "div": 100, "sign": true, "unit": "percent" }, "name": "Boost regulator feedback"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11CD"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021, 2022], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11CD"}, "freq": 1, "filter": { "to": 2022 }, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021] },
   "signals": [
-    {"id": "A5_TCO_1_SYS", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "TCO_1_SYS"}
+    {"id": "A5_TCO_1_SYS", "path": "Engine", "fmt": { "len": 16, "max": 255, "div": 256, "nullmin": 0, "unit": "celsius" }, "name": "TCO_1_SYS"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11CD"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "from": 2024 },
+  "signals": [
+    {"id": "A5_TCO_1_SYS_BYTE", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "TCO_1_SYS"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11CE"}, "freq": 1, "dbgfilter": { "to": 2009, "years": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021], "from": 2023 },
   "signals": [
