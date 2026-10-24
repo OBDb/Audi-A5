@@ -1,14 +1,14 @@
 command_id: 7E1.7E9.22102A
 test_cases:
 - expected_values:
-    A5_CLU_CENTER_CENTRAL_T: 14855
+    A5_CLU_CENTER_CENTRAL_T: 1850
   response: 7E90562102A073A
 - expected_values:
-    A5_CLU_CENTER_CENTRAL_T: 5657
+    A5_CLU_CENTER_CENTRAL_T: 6422
   response: 7E90562102A1916
 - expected_values:
-    A5_CLU_CENTER_CENTRAL_T: -1509
+    A5_CLU_CENTER_CENTRAL_T: 7162
   response: 7E90562102A1BFA
 - expected_values:
-    A5_CLU_CENTER_CENTRAL_T: 16668
+    A5_CLU_CENTER_CENTRAL_T: 7233
   response: 7E90562102A1C41

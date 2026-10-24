@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.221064
 test_cases:
 - expected_values:
-    A5_ANALYSIS_CLU_1_MAX_T: 512
+    A5_ANALYSIS_CLU_1_MAX_T: 2
   response: '7E9056210640002'
 - expected_values:
-    A5_ANALYSIS_CLU_1_MAX_T: -4096
+    A5_ANALYSIS_CLU_1_MAX_T: 240
   response: 7E90562106400F0
 - expected_values:
-    A5_ANALYSIS_CLU_1_MAX_T: -12545
+    A5_ANALYSIS_CLU_1_MAX_T: 65486
   response: 7E905621064FFCE

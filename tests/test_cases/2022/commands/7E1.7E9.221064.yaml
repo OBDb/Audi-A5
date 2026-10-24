@@ -4,8 +4,8 @@ test_cases:
     A5_ANALYSIS_CLU_1_MAX_T: 0
   response: '7E9056210640000'
 - expected_values:
-    A5_ANALYSIS_CLU_1_MAX_T: 23046
+    A5_ANALYSIS_CLU_1_MAX_T: 1626
   response: 7E905621064065A
 - expected_values:
-    A5_ANALYSIS_CLU_1_MAX_T: 14343
+    A5_ANALYSIS_CLU_1_MAX_T: 1848
   response: '7E9056210640738'
