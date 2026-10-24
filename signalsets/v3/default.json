@@ -74,7 +74,7 @@
   ]},
 { "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "13ED"}, "freq": 0.25, "filter": { "from": 2017 }, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
-    {"id": "A5_CPL_CLU_TQ", "path": "Transmission", "fmt": { "len": 16, "max": 65535, "unit": "percent" }, "name": "Coupling clutch torque"}
+    {"id": "A5_CPL_CLU_TQ", "path": "Transmission", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Coupling clutch torque, raw"}
   ]},
 { "hdr": "70F", "rax": "779", "fcm1": true, "cmd": {"22": "1800"}, "freq": 1, "filter": { "from": 2017 }, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
@@ -796,7 +796,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1135"}, "freq": 5, "filter": { "from": 2010 }, "dbgfilter": { "years": [2011, 2012, 2013, 2014, 2015, 2016, 2018, 2021], "from": 2023 },
   "signals": [
-    {"id": "A5_COOLANT_T", "path": "Engine", "fmt": { "len": 16, "max": 300, "min": -40, "div": 10, "add": -273.1, "nullmin": -40, "nullmax": 300, "unit": "celsius" }, "name": "Coolant temperature at radiator outlet"}
+    {"id": "A5_COOLANT_T", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Coolant temperature at radiator outlet, raw"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1138"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
@@ -1490,9 +1490,13 @@
   "signals": [
     {"id": "A5_OIL_ASH_LIM", "path": "Engine", "fmt": { "len": 16, "max": 327, "min": -327, "div": 100, "sign": true, "unit": "unknown" }, "name": "Oil ash limit"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1798"}, "freq": 5, "dbgfilter": { "to": 2013, "years": [2015, 2016, 2018, 2020, 2021], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1798"}, "freq": 5, "filter": { "to": 2021 }, "dbgfilter": { "to": 2013, "years": [2015, 2016, 2018, 2020] },
   "signals": [
     {"id": "A5_MQB_CHARGE_AIR_T_TUBROCHARGER_OUTLET_CALCULATED", "path": "Battery", "fmt": { "len": 16, "max": 3003.6, "min": -273.1, "mul": 1000, "div": 10000, "add": -273.1, "sign": true, "nullmin": -273.1, "unit": "celsius" }, "name": "Charge air temp at the turbocharger outlet, calculated"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1798"}, "freq": 5, "filter": { "from": 2022 }, "dbgfilter": { "from": 2024 },
+  "signals": [
+    {"id": "A5_MQB_CHARGE_AIR_T_TUBROCHARGER_OUTLET_CALCULATED_RAW", "path": "Battery", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Charge air temp at the turbocharger outlet, calculated, raw"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "179C"}, "freq": 5, "dbgfilter": { "to": 2013, "years": [2015, 2016, 2018, 2020, 2021], "from": 2023 },
   "signals": [
@@ -2055,7 +2059,7 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "102A"}, "freq": 5, "dbgfilter": { "to": 2016, "from": 2018 },
   "signals": [
-    {"id": "A5_CLU_CENTER_CENTRAL_T", "path": "Engine", "fmt": { "len": 16, "blsb": true, "max": 32767, "min": -32768, "sign": true, "unit": "celsius" }, "name": "Clutch center central plate temperature"}
+    {"id": "A5_CLU_CENTER_CENTRAL_T", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Clutch center central plate temperature, raw"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "102B"}, "freq": 5, "dbgfilter": { "to": 2008, "years": [2010, 2011, 2013, 2014, 2015, 2016, 2018, 2021], "from": 2024 },
   "signals": [
@@ -2135,7 +2139,7 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1064"}, "freq": 5, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021], "from": 2024 },
   "signals": [
-    {"id": "A5_ANALYSIS_CLU_1_MAX_T", "path": "Engine", "fmt": { "len": 16, "blsb": true, "max": 32767, "min": -32768, "sign": true, "unit": "celsius" }, "name": "Analysis, clutch 1, maximum temperature"}
+    {"id": "A5_ANALYSIS_CLU_1_MAX_T", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Analysis, clutch 1, maximum temperature, raw"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "1065"}, "freq": 5, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021], "from": 2024 },
   "signals": [

@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.221135|f=2010-
 test_cases:
 - expected_values:
-    A5_COOLANT_T: 90
+    A5_COOLANT_T: 3631
   response: 7E8056211350E2F
