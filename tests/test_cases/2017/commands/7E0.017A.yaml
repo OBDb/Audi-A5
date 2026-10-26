@@ -1,0 +1,12 @@
+command_id: 7E0.017A
+test_cases:
+- expected_values:
+    DPF1_DP: 2.9
+    DPF1_DP_SUP: 1
+    DPF1_INP: 0
+    DPF1_INP_SUP: 0
+    DPF1_OUTP: 0
+    DPF1_OUTP_SUP: 0
+  response: |-
+    7E81009417A01012200
+    7E82100000000000000

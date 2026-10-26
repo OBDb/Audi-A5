@@ -1,0 +1,17 @@
+command_id: 7E0.0171
+test_cases:
+- expected_values:
+    VGT_A_ACT: 86.66667
+    VGT_A_ACT_SUP: 1
+    VGT_A_CMD: 86.66667
+    VGT_A_CMD_SUP: 1
+    VGT_A_STAT: VGT_A_CL
+    VGT_A_STAT_SUP: 1
+    VGT_B_ACT: 0
+    VGT_B_ACT_SUP: 0
+    VGT_B_CMD: 0
+    VGT_B_CMD_SUP: 0
+    VGT_B_STAT_SUP: 0
+  response: |-
+    7E81008417107DDDD00
+    7E82100020000000000
