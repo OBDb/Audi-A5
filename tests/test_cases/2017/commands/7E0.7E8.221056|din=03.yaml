@@ -7,8 +7,8 @@ test_cases:
     A5_CHG_AIR_P_ACT: 1023
   response: 7E80562105603FF
 - expected_values:
-    A5_CHG_AIR_P_ACT: 1280
-  response: '7E8056210560500'
+    A5_CHG_AIR_P_ACT: 1024
+  response: '7E8056210560400'
 - expected_values:
-    A5_CHG_AIR_P_ACT: 2584
-  response: 7E8056210560A18
+    A5_CHG_AIR_P_ACT: 3064
+  response: 7E8056210560BF8
