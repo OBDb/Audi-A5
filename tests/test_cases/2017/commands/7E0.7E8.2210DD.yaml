@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     A5_PQ35_INJ_3_RAIL_P_3: 0.008
   response: 7E8056210DD00A0
+- expected_values:
+    A5_PQ35_INJ_3_RAIL_P_3: 0.0092
+  response: 7E8056210DD00B8

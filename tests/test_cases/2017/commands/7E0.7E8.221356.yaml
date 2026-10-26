@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.221356
 test_cases:
 - expected_values:
+    A5_PQ35_CHG_LIM_OVER: 41.99
+  response: '7E8056213561067'
+- expected_values:
     A5_PQ35_CHG_LIM_OVER: 43
   response: 7E80562135610CC
