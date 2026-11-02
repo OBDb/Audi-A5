@@ -1686,7 +1686,7 @@
   "signals": [
     {"id": "A5_DPF_CHG_LIM_OVER_CHG", "path": "Battery", "fmt": { "len": 16, "max": 327, "min": -327, "div": 100, "sign": true, "unit": "unknown" }, "name": "Diesel particulate filter charge limit over-charge"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2206"}, "freq": 30, "filter": { "from": 2016 }, "dbgfilter": { "to": 2016, "years": [2018, 2021, 2022], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2206"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2016, "years": [2018, 2021, 2022], "from": 2024 },
   "signals": [
     {"id": "A5_PQ35_FUEL_LEVEL_7E0_2206", "path": "Fuel", "fmt": { "len": 8, "max": 255, "unit": "liters" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
