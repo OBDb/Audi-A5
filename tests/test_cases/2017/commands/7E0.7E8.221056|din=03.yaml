@@ -10,5 +10,5 @@ test_cases:
     A5_CHG_AIR_P_ACT: 1024
   response: '7E8056210560400'
 - expected_values:
-    A5_CHG_AIR_P_ACT: 3064
-  response: 7E8056210560BF8
+    A5_CHG_AIR_P_ACT: 2955
+  response: 7E8056210560B8B
