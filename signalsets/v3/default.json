@@ -1324,7 +1324,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14CB"}, "freq": 0.25, "filter": { "from": 2016 }, "dbgfilter": { "to": 2016, "years": [2018, 2021], "from": 2024 },
   "signals": [
-    {"id": "A5_GEAR_V2", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear"}
+    {"id": "A5_GEAR_V2", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Gear", "suggestedMetric": "gear"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14CC"}, "freq": 1, "dbgfilter": { "to": 2013, "years": [2015, 2016, 2018], "from": 2020 },
   "signals": [
@@ -1430,9 +1430,9 @@
   "signals": [
     {"id": "A5_PQ35_POST_INJ_1_QTY_SPEC", "path": "Engine", "fmt": { "len": 16, "max": 655.35, "div": 100, "unit": "unknown" }, "name": "Post injection 1: quantity specified value"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1644"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1644"}, "freq": 0.25, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021], "from": 2023 },
   "signals": [
-    {"id": "A5_LATERAL_ACCEL", "path": "Movement", "fmt": { "len": 16, "max": 327.67, "min": -327.68, "div": 100, "sign": true, "unit": "metersPerSecondSquared" }, "name": "Lateral acceleration"}
+    {"id": "A5_LATERAL_ACCEL", "path": "Movement", "fmt": { "len": 16, "max": 327.67, "min": -327.68, "div": 100, "sign": true, "unit": "metersPerSecondSquared" }, "name": "Lateral acceleration", "suggestedMetric": "lateralAcceleration"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "166D"}, "freq": 5,
   "signals": [
@@ -1908,7 +1908,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F433"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021], "from": 2024 },
   "signals": [
-    {"id": "A5_BARO", "path": "Climate", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Barometric pressure"}
+    {"id": "A5_BARO", "path": "Climate", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Barometric pressure", "suggestedMetric": "barometricPressure"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F43C"}, "freq": 5, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021], "from": 2024 },
   "signals": [
