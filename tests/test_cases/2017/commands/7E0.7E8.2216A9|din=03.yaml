@@ -10,8 +10,8 @@ test_cases:
     A5_PQ35_ODO_2: 286720
   response: 7E8076216A900046000
 - expected_values:
-    A5_PQ35_ODO_2: 291840
-  response: 7E8076216A900047400
+    A5_PQ35_ODO_2: 292096
+  response: 7E8076216A900047500
 - expected_values:
     A5_PQ35_ODO_2: null
   response: 7E8076216A9FFFFFFFF
