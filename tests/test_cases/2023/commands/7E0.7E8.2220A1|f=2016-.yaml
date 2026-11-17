@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2220A1|f=2016-
 test_cases:
 - expected_values:
-    A5_PQ35_CALCULATED_OIL_T: -39
+    A5_PQ35_CALCULATED_OIL_T: 35
   response: 7E8056220A1015E
 - expected_values:
-    A5_PQ35_CALCULATED_OIL_T: -39
+    A5_PQ35_CALCULATED_OIL_T: 51
   response: 7E8056220A101FE
 - expected_values:
-    A5_PQ35_CALCULATED_OIL_T: -38
+    A5_PQ35_CALCULATED_OIL_T: 53
   response: 7E8056220A10212
 - expected_values:
-    A5_PQ35_CALCULATED_OIL_T: -37
+    A5_PQ35_CALCULATED_OIL_T: 80
   response: 7E8056220A10320
