@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22437F
+test_cases:
+- expected_values:
+    A5_LOST_TQ_ADPT_AC: 0
+  response: 7E80562437F0000
+- expected_values:
+    A5_LOST_TQ_ADPT_AC: 1
+  response: 7E80562437F000A
+- expected_values:
+    A5_LOST_TQ_ADPT_AC: 1.5
+  response: 7E80562437F000F
+- expected_values:
+    A5_LOST_TQ_ADPT_AC: 1.6
+  response: 7E80562437F0010

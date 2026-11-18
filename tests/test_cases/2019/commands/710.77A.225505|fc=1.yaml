@@ -1,0 +1,20 @@
+command_id: 710.77A.225505|fc=1
+test_cases:
+- expected_values:
+    A5_STEER_WHL_T: 77
+  response: 77A056255054D00
+- expected_values:
+    A5_STEER_WHL_T: 81
+  response: 77A056255055100
+- expected_values:
+    A5_STEER_WHL_T: 82
+  response: 77A056255055200
+- expected_values:
+    A5_STEER_WHL_T: 83
+  response: 77A056255055300
+- expected_values:
+    A5_STEER_WHL_T: 84
+  response: 77A056255055400
+- expected_values:
+    A5_STEER_WHL_T: 85
+  response: 77A056255055500

@@ -1,0 +1,11 @@
+command_id: 710.77A.224F00|fc=1
+test_cases:
+- expected_values:
+    A5_GEN_V_ACT: 13.4
+  response: 77A04624F001C
+- expected_values:
+    A5_GEN_V_ACT: 13.5
+  response: 77A04624F001D
+- expected_values:
+    A5_GEN_V_ACT: 15.4
+  response: 77A04624F0030
