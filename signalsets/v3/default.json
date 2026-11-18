@@ -20,51 +20,51 @@
   "signals": [
     {"id": "A5_INSIDE_T", "path": "Engine", "fmt": { "len": 16, "max": 6503, "min": -50, "div": 10, "add": -50, "unit": "celsius" }, "name": "Inside temperature"}
   ]},
-{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "42BB"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2024 },
+{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "dbg": true, "cmd": {"22": "42BB"}, "freq": 5,
   "signals": [
     {"id": "A5_EVAPORATOR_T", "path": "Engine", "fmt": { "len": 16, "max": 4045, "min": -50, "div": 16, "add": -50, "nullmax": 4045, "unit": "celsius" }, "name": "Evaporator temperature"}
   ]},
-{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "42BC"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2024 },
+{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "dbg": true, "cmd": {"22": "42BC"}, "freq": 5,
   "signals": [
     {"id": "A5_LEFT_FOOTWELL_AIR_T", "path": "Engine", "fmt": { "len": 16, "max": 4045, "min": -50, "div": 16, "add": -50, "nullmax": 4045, "unit": "celsius" }, "name": "Left footwell air outlet temperature"}
   ]},
-{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "42BD"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2024 },
+{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "dbg": true, "cmd": {"22": "42BD"}, "freq": 5,
   "signals": [
     {"id": "A5_RIGHT_FOOTWELL_AIR_T", "path": "Engine", "fmt": { "len": 16, "max": 4045, "min": -50, "div": 16, "add": -50, "nullmax": 4045, "unit": "celsius" }, "name": "Right footwell air outlet temperature"}
   ]},
-{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "42BE"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2024 },
+{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "dbg": true, "cmd": {"22": "42BE"}, "freq": 5,
   "signals": [
     {"id": "A5_LEFT_REAR_HI_AIR_T", "path": "Engine", "fmt": { "len": 16, "max": 4045, "min": -50, "div": 16, "add": -50, "nullmax": 4045, "unit": "celsius" }, "name": "Left rear upper air outlet temperature"}
   ]},
-{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "42C0"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2024 },
+{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "dbg": true, "cmd": {"22": "42C0"}, "freq": 5,
   "signals": [
     {"id": "A5_RIGHT_REAR_HI_AIR_T", "path": "Engine", "fmt": { "len": 16, "max": 4045, "min": -50, "div": 16, "add": -50, "nullmax": 4045, "unit": "celsius" }, "name": "Right rear upper air outlet temperature"}
   ]},
-{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "42C1"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2024 },
+{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "dbg": true, "cmd": {"22": "42C1"}, "freq": 5,
   "signals": [
     {"id": "A5_LEFT_REAR_FOOTWELL_T", "path": "Engine", "fmt": { "len": 16, "max": 4045, "min": -50, "div": 16, "add": -50, "nullmax": 4045, "unit": "celsius" }, "name": "Left rear footwell air outlet temperature"}
   ]},
-{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "42C2"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2024 },
+{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "dbg": true, "cmd": {"22": "42C2"}, "freq": 5,
   "signals": [
     {"id": "A5_RIGHT_REAR_FOOTWELL_T", "path": "Engine", "fmt": { "len": 16, "max": 4045, "min": -50, "div": 16, "add": -50, "nullmax": 4045, "unit": "celsius" }, "name": "Right rear footwell air outlet temperature"}
   ]},
-{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "42C3"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2024 },
+{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "dbg": true, "cmd": {"22": "42C3"}, "freq": 5,
   "signals": [
     {"id": "A5_LEFT_SIDE_AIR_OUTLET_T", "path": "Engine", "fmt": { "len": 16, "max": 4045, "min": -50, "div": 16, "add": -50, "nullmax": 4045, "unit": "celsius" }, "name": "Left side air outlet temperature"}
   ]},
-{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "42C4"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2024 },
+{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "dbg": true, "cmd": {"22": "42C4"}, "freq": 5,
   "signals": [
     {"id": "A5_RIGHT_SIDE_AIR_T", "path": "Engine", "fmt": { "len": 16, "max": 4045, "min": -50, "div": 16, "add": -50, "nullmax": 4045, "unit": "celsius" }, "name": "Right side air outlet temperature"}
   ]},
-{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "42C5"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2024 },
+{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "dbg": true, "cmd": {"22": "42C5"}, "freq": 5,
   "signals": [
     {"id": "A5_LEFT_CENTRAL_AIR_T", "path": "Engine", "fmt": { "len": 16, "max": 4045, "min": -50, "div": 16, "add": -50, "nullmax": 4045, "unit": "celsius" }, "name": "Left central air outlet temperature"}
   ]},
-{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "42C6"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2024 },
+{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "dbg": true, "cmd": {"22": "42C6"}, "freq": 5,
   "signals": [
     {"id": "A5_RIGHT_CENTRAL_AIR_T", "path": "Engine", "fmt": { "len": 16, "max": 4045, "min": -50, "div": 16, "add": -50, "nullmax": 4045, "unit": "celsius" }, "name": "Right central air outlet temperature"}
   ]},
-{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "42C8"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2024 },
+{ "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "dbg": true, "cmd": {"22": "42C8"}, "freq": 5,
   "signals": [
     {"id": "A5_FRONT_DEFROST_FLAP_T", "path": "Engine", "fmt": { "len": 16, "max": 4045, "min": -50, "div": 16, "add": -50, "nullmax": 4045, "unit": "celsius" }, "name": "Front defrost flap air outlet temperature"}
   ]},
@@ -190,7 +190,7 @@
   "signals": [
     {"id": "A5_GEN_V_ACT", "path": "Battery", "fmt": { "len": 8, "max": 36.1, "div": 10, "add": 10.6, "unit": "volts" }, "name": "Generator voltage, actual"}
   ]},
-{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "5505"}, "freq": 5, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021], "from": 2024 },
+{ "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "5505"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "A5_STEER_WHL_T", "path": "Tires", "fmt": { "len": 8, "max": 150, "nullmax": 150, "unit": "celsius" }, "name": "Steering wheel temperature"}
   ]},
@@ -430,7 +430,7 @@
   "signals": [
     {"id": "A5_MQB_INT_MAN_P", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "unknown" }, "name": "Intake manifold pressure calculated"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "1044"}, "freq": 300, "dbgfilter": { "to": 2008, "years": [2010, 2011, 2012, 2013, 2015, 2016, 2018, 2021, 2022], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "1044"}, "freq": 300, "dbgfilter": { "to": 2008, "years": [2010, 2011, 2012, 2013, 2015, 2016, 2018], "from": 2020 },
   "signals": [
     {"id": "A5_DPF_SFC_T", "path": "Engine", "fmt": { "len": 16, "max": 3003.6, "min": -273.1, "div": 10, "add": -273.1, "nullmax": 3003.6, "unit": "celsius" }, "name": "Diesel particulate filter surface temperature"}
   ]},
@@ -462,7 +462,7 @@
   "signals": [
     {"id": "A5_PQ35_GEN_LOAD", "path": "Engine", "fmt": { "len": 16, "max": 100, "div": 100, "unit": "percent" }, "name": "Generator load"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "105E"}, "freq": 5, "dbgfilter": { "to": 2008, "years": [2011, 2013, 2015, 2016, 2018, 2020, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "105E"}, "freq": 5, "dbgfilter": { "to": 2008, "years": [2010, 2011, 2012, 2013, 2015, 2016, 2018], "from": 2020 },
   "signals": [
     {"id": "A5_PQ35_BAT_V_2", "path": "Battery", "fmt": { "len": 16, "max": 20, "div": 50, "nullmin": 0, "nullmax": 20, "unit": "volts" }, "name": "Battery voltage variant"}
   ]},
@@ -670,7 +670,7 @@
   "signals": [
     {"id": "A5_MIS_2", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Misfires, cylinder 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10FB"}, "freq": 5, "dbgfilter": { "to": 2008, "years": [2011, 2013, 2015, 2016, 2018], "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10FB"}, "freq": 5, "dbgfilter": { "to": 2008, "years": [2010, 2011, 2012, 2013, 2015, 2016, 2018], "from": 2020 },
   "signals": [
     {"id": "A5_PQ35_EXH_GAS_T_1", "path": "Engine", "fmt": { "len": 16, "max": 3003.6, "min": -40, "div": 10, "add": -273.1, "sign": true, "nullmin": -40, "unit": "celsius" }, "name": "Exhaust gas temperature sensor 1"}
   ]},
@@ -714,7 +714,7 @@
   "signals": [
     {"id": "A5_LONG_TERM_FUEL_TRIM", "path": "Fuel", "fmt": { "len": 16, "max": 1638, "min": -1638, "div": 20, "sign": true, "unit": "percent" }, "name": "Long term fuel trim at idle"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1111"}, "freq": 5, "dbgfilter": { "to": 2008, "years": [2011, 2013, 2015, 2016, 2018], "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1111"}, "freq": 5, "dbgfilter": { "to": 2008, "years": [2010, 2011, 2012, 2013, 2015, 2016, 2018], "from": 2020 },
   "signals": [
     {"id": "A5_PQ35_RAD_COOL_T_CMD", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "nullmin": -273.1, "unit": "celsius" }, "name": "Radiator outlet coolant temperature commanded"}
   ]},
@@ -914,7 +914,7 @@
   "signals": [
     {"id": "A5_INTEGRATED_MASS_AIR", "path": "Engine", "fmt": { "len": 16, "max": 23301.6246, "mul": 8889, "div": 25000, "unit": "unknown" }, "name": "Integrated mass of air since engine start"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "1177"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "din": "03", "dbg": true, "cmd": {"22": "1177"}, "freq": 5,
   "signals": [
     {"id": "A5_T_AC_HEAT_EXCHANGER", "path": "Engine", "fmt": { "len": 16, "max": 6280, "min": -273, "div": 10, "add": -273.1, "nullmin": -273, "unit": "celsius" }, "name": "Temperature at air conditioner heat exchanger output"}
   ]},
@@ -970,7 +970,7 @@
   "signals": [
     {"id": "A5_PQ35_LIM_ACCEL_PED", "path": "Movement", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "newtonMeters" }, "name": "Accelerator pedal limit"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11B2"}, "freq": 5, "dbgfilter": { "to": 2008, "years": [2011, 2013, 2015, 2016, 2018], "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11B2"}, "freq": 5, "dbgfilter": { "to": 2008, "years": [2010, 2011, 2012, 2013, 2015, 2016, 2018], "from": 2020 },
   "signals": [
     {"id": "A5_PQ35_DPF_IN_T", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "nullmin": -273.1, "unit": "celsius" }, "name": "Diesel particulate filter inlet temperature"}
   ]},
@@ -1002,7 +1002,7 @@
   "signals": [
     {"id": "A5_OIL_LEVEL_WARN", "path": "Fluids", "fmt": { "len": 16, "max": 26.2, "div": 2500, "unit": "centimeters" }, "name": "Oil level warning threshold"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 1, "dbgfilter": { "to": 2008, "years": [2011, 2015, 2016, 2018, 2020], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 1, "dbgfilter": { "to": 2008, "years": [2010, 2011, 2012, 2013, 2015, 2016, 2018, 2020], "from": 2022 },
   "signals": [
     {"id": "A5_EOT_V2", "path": "Engine", "fmt": { "len": 16, "max": 500, "min": -40, "div": 10, "add": -273.1, "nullmin": -40, "nullmax": 500, "unit": "celsius" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},
@@ -1078,7 +1078,7 @@
   "signals": [
     {"id": "A5_MQB_DPF_EXH_VOL", "path": "Engine", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "mul": 1000, "div": 10000, "sign": true, "unit": "scalar" }, "name": "Diesel particulate filter exhaust gas flow volume"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11F1"}, "freq": 0.25, "dbgfilter": { "to": 2008, "years": [2010, 2011, 2012, 2013, 2015, 2016, 2018, 2020, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11F1"}, "freq": 0.25, "dbgfilter": { "to": 2008, "years": [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2018, 2020, 2021], "from": 2023 },
   "signals": [
     {"id": "A5_PQ35_TRANS_IN_SPD", "path": "Movement", "fmt": { "len": 16, "max": 10000, "min": -16384, "div": 2, "sign": true, "nullmax": 10000, "unit": "rpm" }, "name": "Transmission input shaft speed"}
   ]},
@@ -1354,11 +1354,11 @@
   "signals": [
     {"id": "A5_PQ35_DIFF_P", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "unknown" }, "name": "Differential pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14F7"}, "freq": 5, "dbgfilter": { "to": 2013, "years": [2015, 2016, 2018, 2020, 2021, 2022], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14F7"}, "freq": 5, "dbgfilter": { "to": 2013, "years": [2015, 2016, 2018], "from": 2020 },
   "signals": [
     {"id": "A5_PQ35_EXHAUST_GAS_T_SENSOR_2", "path": "Engine", "fmt": { "len": 16, "max": 3003.6, "min": -273.1, "div": 10, "add": -273.1, "sign": true, "nullmin": -273.1, "unit": "celsius" }, "name": "Exhaust gas temperature sensor 2"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14F8"}, "freq": 5, "filter": { "from": 2016 }, "dbgfilter": { "to": 2021, "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14F8"}, "freq": 5, "filter": { "from": 2016 }, "dbgfilter": { "to": 2021, "from": 2023 },
   "signals": [
     {"id": "A5_AAT_V1", "path": "Engine", "fmt": { "len": 16, "max": 11336.3, "min": -460, "mul": 0.18, "add": -460, "nullmin": -460, "unit": "fahrenheit" }, "name": "Ambient air temperature, v1"}
   ]},
@@ -1398,7 +1398,7 @@
   "signals": [
     {"id": "A5_LAMBDA_OUTPUT", "path": "Engine", "fmt": { "len": 16, "max": 1.99, "mul": 199997, "div": 6553500000, "unit": "scalar" }, "name": "Lambda output value"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1626"}, "freq": 5, "dbgfilter": { "to": 2013, "years": [2015, 2016, 2018], "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1626"}, "freq": 5, "dbgfilter": { "to": 2013, "years": [2015, 2016], "from": 2018 },
   "signals": [
     {"id": "A5_PQ35_RADIATOR_OUTPUT_COOLANT_T_ACTUAL", "path": "Engine", "fmt": { "len": 16, "max": 300, "min": -273.1, "div": 10, "add": -273.1, "nullmax": 300, "unit": "celsius" }, "name": "Radiator output coolant temp: actual"}
   ]},
@@ -1418,7 +1418,7 @@
   "signals": [
     {"id": "A5_PRE_INJ_3_START", "path": "Engine", "fmt": { "len": 16, "max": 719, "min": -720, "mul": 21973, "div": 1000000, "sign": true, "unit": "degrees" }, "name": "Pre-injection 3, start"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1632"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "1632"}, "freq": 5,
   "signals": [
     {"id": "A5_EOT_MEAS", "path": "Engine", "fmt": { "len": 16, "max": 6280, "min": -273, "div": 10, "add": -273.1, "nullmin": -273, "unit": "celsius" }, "name": "Engine oil temperature measured value", "suggestedMetric": "engineOilTemperature"}
   ]},
@@ -1470,7 +1470,7 @@
   "signals": [
     {"id": "A5_EARLY_IGN_CNT_CYL_3", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Early ignition counter, cylinder 3"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1724"}, "freq": 3600, "dbgfilter": { "to": 2016, "years": [2018, 2019, 2020, 2021], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1724"}, "freq": 3600, "dbgfilter": { "to": 2021, "from": 2024 },
   "signals": [
     {"id": "A5_EARLY_IGN_CNT_CYL_4", "path": "Engine", "fmt": { "len": 16, "max": 65535, "nullmax": 65535, "unit": "scalar" }, "name": "Early ignition counter, cylinder 4"}
   ]},
@@ -1502,7 +1502,7 @@
   "signals": [
     {"id": "A5_MQB_CHARGE_AIR_T_TUBROCHARGER_OUTLET_CALCULATED_RAW", "path": "Battery", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Charge air temp at the turbocharger outlet, calculated, raw"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "179C"}, "freq": 5, "dbgfilter": { "to": 2013, "years": [2015, 2016, 2018, 2020, 2021], "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "179C"}, "freq": 5, "dbgfilter": { "to": 2013, "years": [2015, 2016], "from": 2018 },
   "signals": [
     {"id": "A5_PQ35_ENGINE_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "nullmin": -273.1, "unit": "celsius" }, "name": "Engine oil temperature 2", "suggestedMetric": "engineOilTemperature"}
   ]},
