@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.224381
+test_cases:
+- expected_values:
+    A5_LONG_TERM_FUEL_TRIM_IDLE: 0.04
+  response: '7E8056243810004'
+- expected_values:
+    A5_LONG_TERM_FUEL_TRIM_IDLE: 0.06
+  response: '7E8056243810006'
+- expected_values:
+    A5_LONG_TERM_FUEL_TRIM_IDLE: 0.11
+  response: 7E805624381000B
+- expected_values:
+    A5_LONG_TERM_FUEL_TRIM_IDLE: 0.15
+  response: 7E805624381000F
+- expected_values:
+    A5_LONG_TERM_FUEL_TRIM_IDLE: 0.17
+  response: '7E8056243810011'
+- expected_values:
+    A5_LONG_TERM_FUEL_TRIM_IDLE: 0.19
+  response: '7E8056243810013'
+- expected_values:
+    A5_LONG_TERM_FUEL_TRIM_IDLE: 0.21
+  response: '7E8056243810015'

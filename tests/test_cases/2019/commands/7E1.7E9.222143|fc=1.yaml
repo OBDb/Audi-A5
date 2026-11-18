@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.222143|fc=1
+test_cases:
+- expected_values:
+    A5_SPEC_TQ_CLU_2_DATA: -500
+  response: 7E905622143D8F0

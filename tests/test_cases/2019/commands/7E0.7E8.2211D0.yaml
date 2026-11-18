@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211D0
+test_cases:
+- expected_values:
+    A5_TCO_1_ST: 35
+  response: 7E8046211D04B
+- expected_values:
+    A5_TCO_1_ST: 81
+  response: 7E8046211D079
+- expected_values:
+    A5_TCO_1_ST: 101
+  response: 7E8046211D08D

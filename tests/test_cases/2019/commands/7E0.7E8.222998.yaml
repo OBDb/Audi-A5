@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.222998
+test_cases:
+- expected_values:
+    A5_MANUAL_ENG_STARTS: 7962
+  response: 7E8056229981F1A
+- expected_values:
+    A5_MANUAL_ENG_STARTS: 7963
+  response: 7E8056229981F1B
+- expected_values:
+    A5_MANUAL_ENG_STARTS: 7964
+  response: 7E8056229981F1C

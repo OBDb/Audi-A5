@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.220301
+test_cases:
+- expected_values:
+    A5_CTRL_MODULE_T_7E1: 29
+  response: '7E90462030145'
+- expected_values:
+    A5_CTRL_MODULE_T_7E1: 30
+  response: '7E90462030146'

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22437E
+test_cases:
+- expected_values:
+    A5_LOST_TQ_ADPT_DRIVING: 0
+  response: 7E80562437E0000
+- expected_values:
+    A5_LOST_TQ_ADPT_DRIVING: 1
+  response: 7E80562437E000A
+- expected_values:
+    A5_LOST_TQ_ADPT_DRIVING: 1.9
+  response: 7E80562437E0013
+- expected_values:
+    A5_LOST_TQ_ADPT_DRIVING: 2.1
+  response: 7E80562437E0015

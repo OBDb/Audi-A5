@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211DC
+test_cases:
+- expected_values:
+    A5_MAP_RAW: 0.625
+  response: 7E8056211DC0008
+- expected_values:
+    A5_MAP_RAW: 39.84375
+  response: 7E8056211DC01FE
+- expected_values:
+    A5_MAP_RAW: 42.65625
+  response: 7E8056211DC0222

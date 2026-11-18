@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221184
+test_cases:
+- expected_values:
+    A5_PSN_EDGE_REL_AD_CAM_1: -1.6875
+  response: 7E805621184FFE5
+- expected_values:
+    A5_PSN_EDGE_REL_AD_CAM_1: -1.5625
+  response: 7E805621184FFE7
