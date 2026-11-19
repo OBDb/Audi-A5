@@ -4,8 +4,5 @@ test_cases:
     A5_CAT_T_BANK_1: 335.35
   response: '7E8056212982608'
 - expected_values:
-    A5_CAT_T_BANK_1: 368.85
-  response: '7E8056212982820'
-- expected_values:
-    A5_CAT_T_BANK_1: 380.6625
-  response: 7E80562129828DD
+    A5_CAT_T_BANK_1: 461.225
+  response: 7E8056212982DE6

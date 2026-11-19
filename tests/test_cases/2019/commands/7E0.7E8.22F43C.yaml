@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     A5_EXH_GAS_T: 369.6
   response: 7E80562F43C1000
+- expected_values:
+    A5_EXH_GAS_T: 446.4
+  response: 7E80562F43C1300

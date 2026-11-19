@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     A5_MANUAL_ENG_STARTS: 7964
   response: 7E8056229981F1C
+- expected_values:
+    A5_MANUAL_ENG_STARTS: 7965
+  response: 7E8056229981F1D

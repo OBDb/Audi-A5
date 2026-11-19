@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     A5_RPM: 1000.5
   response: 7E80562F40C0FA2
+- expected_values:
+    A5_RPM: 1125.25
+  response: 7E80562F40C1195

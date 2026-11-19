@@ -4,6 +4,9 @@ test_cases:
     A5_ENG_TQ_7E1: 1
   response: '7E9056220020001'
 - expected_values:
+    A5_ENG_TQ_7E1: 4
+  response: '7E9056220020004'
+- expected_values:
     A5_ENG_TQ_7E1: 3265
   response: 7E9056220020CC1
 - expected_values:
