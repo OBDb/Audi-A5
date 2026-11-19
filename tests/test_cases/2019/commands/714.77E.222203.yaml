@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_ODO_DASH: 56666
   response: 77E0662220300DD5A
+- expected_values:
+    A5_ODO_DASH: 56667
+  response: 77E0662220300DD5B
