@@ -4,8 +4,23 @@ test_cases:
     A5_VSS_7E1: 0
   response: 7E90462F40D00
 - expected_values:
+    A5_VSS_7E1: 2
+  response: 7E90462F40D02
+- expected_values:
+    A5_VSS_7E1: 19
+  response: 7E90462F40D13
+- expected_values:
+    A5_VSS_7E1: 22
+  response: 7E90462F40D16
+- expected_values:
     A5_VSS_7E1: 28
   response: 7E90462F40D1C
+- expected_values:
+    A5_VSS_7E1: 36
+  response: 7E90462F40D24
+- expected_values:
+    A5_VSS_7E1: 41
+  response: 7E90462F40D29
 - expected_values:
     A5_VSS_7E1: 42
   response: 7E90462F40D2A
