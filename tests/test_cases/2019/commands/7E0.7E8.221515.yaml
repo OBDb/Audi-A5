@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_CAT_T_CALC: 470
   response: '7E8056215156860'
+- expected_values:
+    A5_CAT_T_CALC: 470
+  response: '7E8056215156880'

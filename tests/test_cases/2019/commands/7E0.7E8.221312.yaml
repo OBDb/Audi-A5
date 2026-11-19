@@ -4,8 +4,8 @@ test_cases:
     A5_FUEL_MASS_REQ_P_CTL: 0
   response: '7E8056213120000'
 - expected_values:
-    A5_FUEL_MASS_REQ_P_CTL: -0.21194
-  response: 7E805621312FFF6
+    A5_FUEL_MASS_REQ_P_CTL: -2.16179
+  response: 7E805621312FF9A
 - expected_values:
     A5_FUEL_MASS_REQ_P_CTL: -0.02119
   response: 7E805621312FFFF

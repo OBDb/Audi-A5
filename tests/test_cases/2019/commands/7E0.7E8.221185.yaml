@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     A5_PSN_EDGE_REL_AD_CAM_2: -2.875
   response: 7E805621185FFD2
+- expected_values:
+    A5_PSN_EDGE_REL_AD_CAM_2: -2.8125
+  response: 7E805621185FFD3

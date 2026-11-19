@@ -7,5 +7,5 @@ test_cases:
     A5_GEN_CURRENT: 57.4
   response: 77A05622A1C01E4
 - expected_values:
-    A5_GEN_CURRENT: 70.2
-  response: 77A05622A1C0264
+    A5_GEN_CURRENT: 68.9
+  response: 77A05622A1C0257
