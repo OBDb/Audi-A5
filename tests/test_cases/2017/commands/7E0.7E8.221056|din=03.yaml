@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221056|din=03
 test_cases:
 - expected_values:
-    A5_CHG_AIR_P_ACT: 979
-  response: 7E80562105603D3
+    A5_CHG_AIR_P_ACT: 960
+  response: 7E80562105603C0
 - expected_values:
     A5_CHG_AIR_P_ACT: 1023
   response: 7E80562105603FF
