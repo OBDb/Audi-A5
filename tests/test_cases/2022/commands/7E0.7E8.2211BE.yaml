@@ -5,4 +5,7 @@ test_cases:
   response: 7E8056211BE0004
 - expected_values:
     A5_EOT_V2: null
+  response: 7E8056211BEFFF6
+- expected_values:
+    A5_EOT_V2: null
   response: 7E8056211BEFFF9
