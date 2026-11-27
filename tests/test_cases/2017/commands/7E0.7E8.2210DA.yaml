@@ -4,5 +4,8 @@ test_cases:
     A5_INJ_2_RAIL_P_2: 0.0064
   response: 7E8056210DA0080
 - expected_values:
+    A5_INJ_2_RAIL_P_2: 0.0068
+  response: 7E8056210DA0088
+- expected_values:
     A5_INJ_2_RAIL_P_2: 0.0072
   response: 7E8056210DA0090

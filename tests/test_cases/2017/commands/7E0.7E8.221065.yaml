@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221065
 test_cases:
 - expected_values:
-    A5_CYL_HEAD_T: 244.88
-  response: 7E8056210650F4C
+    A5_CYL_HEAD_T: 154.52
+  response: 7E8056210650D56
 - expected_values:
     A5_CYL_HEAD_T: 321.74
   response: 7E80562106510F7

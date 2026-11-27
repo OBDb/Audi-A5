@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.222682
 test_cases:
 - expected_values:
+    A5_CLT_SHUT_OFF_VLV: 0
+  response: '7E8056226820000'
+- expected_values:
     A5_CLT_SHUT_OFF_VLV: 46
   response: 7E8056226822EE0

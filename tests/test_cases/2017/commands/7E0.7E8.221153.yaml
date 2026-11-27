@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_EM_TORQ_1: 1
   response: '7E8056211530020'
+- expected_values:
+    A5_EM_TORQ_1: 1.03125
+  response: '7E8056211530021'

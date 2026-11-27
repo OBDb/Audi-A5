@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     A5_ADAPTIVE_MODE: 1
   response: '7E90462101101'
+- expected_values:
+    A5_ADAPTIVE_MODE: 2
+  response: '7E90462101102'

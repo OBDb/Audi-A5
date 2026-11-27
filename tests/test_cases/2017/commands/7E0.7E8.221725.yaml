@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221725
 test_cases:
 - expected_values:
+    A5_EARLY_IGN_CNT_CYL_2: 12940
+  response: 7E805621725328C
+- expected_values:
     A5_EARLY_IGN_CNT_CYL_2: 12959
   response: 7E805621725329F
 - expected_values:
