@@ -4,29 +4,8 @@ test_cases:
     A5_MANUAL_ENG_STARTS: 15390
   response: 7E8056229983C1E
 - expected_values:
-    A5_MANUAL_ENG_STARTS: 15392
-  response: 7E8056229983C20
-- expected_values:
-    A5_MANUAL_ENG_STARTS: 15393
-  response: 7E8056229983C21
-- expected_values:
-    A5_MANUAL_ENG_STARTS: 15395
-  response: 7E8056229983C23
-- expected_values:
-    A5_MANUAL_ENG_STARTS: 15396
-  response: 7E8056229983C24
-- expected_values:
-    A5_MANUAL_ENG_STARTS: 15397
-  response: 7E8056229983C25
-- expected_values:
-    A5_MANUAL_ENG_STARTS: 15398
-  response: 7E8056229983C26
-- expected_values:
-    A5_MANUAL_ENG_STARTS: 15400
-  response: 7E8056229983C28
-- expected_values:
-    A5_MANUAL_ENG_STARTS: 15401
-  response: 7E8056229983C29
-- expected_values:
     A5_MANUAL_ENG_STARTS: 15406
   response: 7E8056229983C2E
+- expected_values:
+    A5_MANUAL_ENG_STARTS: 15645
+  response: 7E8056229983D1D

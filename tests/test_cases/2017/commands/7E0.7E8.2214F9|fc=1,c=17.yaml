@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2214F9|fc=1,c=17
 test_cases:
 - expected_values:
+    A5_MAIN_CAT_OSC_AGE_CORRECTION_FACTOR: 0
+  response: 7E8056214F90000
+- expected_values:
     A5_MAIN_CAT_OSC_AGE_CORRECTION_FACTOR: 0.11063
   response: 7E8056214F90E29
 - expected_values:

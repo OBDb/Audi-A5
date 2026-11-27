@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22162D|f=2016-
 test_cases:
 - expected_values:
-    A5_PQ35_FUEL_T: 15.6
-  response: 7E80562162D0B47
+    A5_PQ35_FUEL_T: 14
+  response: 7E80562162D0B37
 - expected_values:
     A5_PQ35_FUEL_T: 34
   response: 7E80562162D0BFF
