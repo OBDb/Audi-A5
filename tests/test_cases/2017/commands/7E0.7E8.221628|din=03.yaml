@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221628|din=03
 test_cases:
 - expected_values:
-    A5_PQ35_INTERCOOLER_AIR_OUTPUT_T: 8.1
-  response: 7E8056216280AFC
+    A5_PQ35_INTERCOOLER_AIR_OUTPUT_T: 2
+  response: 7E8056216280ABF
 - expected_values:
     A5_PQ35_INTERCOOLER_AIR_OUTPUT_T: 9.9
   response: 7E8056216280B0E
